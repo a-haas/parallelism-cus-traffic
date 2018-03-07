@@ -17,7 +17,7 @@ while(1){
     # Format : mois-jour-heure-minutes
     $output = "cus-traffic-$(get-date -f MM-dd-HH-mm).xml"
     # Télecharger et enregistrer les fichiers
-    Invoke-WebRequest -Uri $url -OutFile "$ressources\$output")
+    Invoke-WebRequest -Uri $url -OutFile "$ressources\$output"
     # Attendre 3 minutes
     Start-Sleep -s 180
 }
