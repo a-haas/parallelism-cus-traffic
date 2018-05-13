@@ -1,0 +1,628 @@
+23 Novembre -> Rte de Lyon	Inconnu : 0 / Fluide : 4373 / Dense : 42 / Saturé : 0
+A35 A351-S	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+A35 Baggersee-Schirmeck	Inconnu : 4 / Fluide : 4239 / Dense : 144 / Saturé : 28
+A35 Baggersee-Vigie	Inconnu : 4 / Fluide : 4302 / Dense : 109 / Saturé : 0
+A35 Duppigheim-Entzheim	Inconnu : 4 / Fluide : 4204 / Dense : 170 / Saturé : 37
+A35 Ech.Schirmeck N-S	Inconnu : 4 / Fluide : 4362 / Dense : 39 / Saturé : 10
+A35 Entzheim-Duppigheim	Inconnu : 66 / Fluide : 4345 / Dense : 4 / Saturé : 0
+A35 Entzheim-Vigie	Inconnu : 4 / Fluide : 4308 / Dense : 95 / Saturé : 8
+A35 N-S PC Gutenberg	Inconnu : 4 / Fluide : 4354 / Dense : 57 / Saturé : 0
+A35 N-S Sortie Halles	Inconnu : 4 / Fluide : 4317 / Dense : 94 / Saturé : 0
+A35 S-N A350	Inconnu : 4 / Fluide : 4361 / Dense : 50 / Saturé : 0
+A35 S-N Sortie Cronenbourg	Inconnu : 4 / Fluide : 4396 / Dense : 14 / Saturé : 1
+A35 Schirmeck-A351 S-N	Inconnu : 4 / Fluide : 4283 / Dense : 97 / Saturé : 31
+A35 Schirmeck-A351 S-N2	Inconnu : 5 / Fluide : 4289 / Dense : 105 / Saturé : 16
+A35 Schirmeck-Baggersee	Inconnu : 4 / Fluide : 4277 / Dense : 132 / Saturé : 2
+A35 Vigie N-S	Inconnu : 4 / Fluide : 4250 / Dense : 157 / Saturé : 4
+A35 Vigie S-N	Inconnu : 8 / Fluide : 8620 / Dense : 164 / Saturé : 38
+A35 Vigie-Baggersee	Inconnu : 4 / Fluide : 4260 / Dense : 119 / Saturé : 32
+A35 Vigie-Entzheim	Inconnu : 4 / Fluide : 4411 / Dense : 0 / Saturé : 0
+A35 sortie Vigie N-S	Inconnu : 4 / Fluide : 4411 / Dense : 0 / Saturé : 0
+A35->A351	Inconnu : 43 / Fluide : 4372 / Dense : 0 / Saturé : 0
+A35->RD1083	Inconnu : 4 / Fluide : 4411 / Dense : 0 / Saturé : 0
+A35-A350	Inconnu : 4 / Fluide : 4327 / Dense : 51 / Saturé : 33
+A35-A351 N-O	Inconnu : 109 / Fluide : 4306 / Dense : 0 / Saturé : 0
+A35-Pl.Blanche	Inconnu : 1005 / Fluide : 3402 / Dense : 2 / Saturé : 6
+A35-Pl.Haguenau N-S	Inconnu : 5 / Fluide : 4339 / Dense : 71 / Saturé : 0
+A35-Pl.Haguenau S-N	Inconnu : 5 / Fluide : 4385 / Dense : 23 / Saturé : 2
+A350-> Sortie Kabl??	Inconnu : 14 / Fluide : 4398 / Dense : 3 / Saturé : 0
+A351 A35-Sortie Auchan	Inconnu : 31 / Fluide : 4381 / Dense : 3 / Saturé : 0
+A351 Echangeur Wolfi-Mont??e Leroy	Inconnu : 4 / Fluide : 4306 / Dense : 54 / Saturé : 51
+A351 Leroy-A35	Inconnu : 48 / Fluide : 4241 / Dense : 118 / Saturé : 8
+A351 Sortie Auchan-Echangeur Wolfi	Inconnu : 4 / Fluide : 4411 / Dense : 0 / Saturé : 0
+A351-A35N	Inconnu : 4 / Fluide : 4394 / Dense : 17 / Saturé : 0
+A351-A35N2	Inconnu : 164 / Fluide : 4230 / Dense : 21 / Saturé : 0
+A351-A35S	Inconnu : 4 / Fluide : 4374 / Dense : 31 / Saturé : 6
+A351-Pl.Blanche	Inconnu : 4 / Fluide : 4393 / Dense : 0 / Saturé : 18
+A35A531-P.Schirmeck N-S	Inconnu : 4 / Fluide : 4329 / Dense : 82 / Saturé : 0
+A4 (Hoenheim) S-N	Inconnu : 4 / Fluide : 4396 / Dense : 15 / Saturé : 0
+A4 Hauteur TGv S-N	Inconnu : 4 / Fluide : 4394 / Dense : 12 / Saturé : 5
+A4 Hoenheim-> TGV	Inconnu : 4 / Fluide : 4177 / Dense : 232 / Saturé : 2
+A4 Hoenheim-Ech.Reichstett	Inconnu : 4 / Fluide : 4363 / Dense : 48 / Saturé : 0
+A4 N-S Cronenbourg	Inconnu : 4 / Fluide : 4237 / Dense : 168 / Saturé : 6
+A4 N-S Hoerdt Reichstett	Inconnu : 4 / Fluide : 4376 / Dense : 35 / Saturé : 0
+A4 N-S Reichstett	Inconnu : 4 / Fluide : 4304 / Dense : 105 / Saturé : 2
+A4 Reichstett->Hoenheim	Inconnu : 4 / Fluide : 4324 / Dense : 86 / Saturé : 1
+A4 S-N Cronenbourg	Inconnu : 4 / Fluide : 4231 / Dense : 180 / Saturé : 0
+A4 S-N Echangeur Reichstett	Inconnu : 4 / Fluide : 4371 / Dense : 40 / Saturé : 0
+A4 S-N Reichstett Hoerdt	Inconnu : 51 / Fluide : 4336 / Dense : 28 / Saturé : 0
+A4-Schiltigheim S-N	Inconnu : 4 / Fluide : 4395 / Dense : 14 / Saturé : 2
+A4-Schitigheim N-S	Inconnu : 4 / Fluide : 4059 / Dense : 350 / Saturé : 2
+Abbe de l'Epee -> Rhin Tortu	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Abbe de l'Epee->Rte du Neuhof	Inconnu : 0 / Fluide : 4405 / Dense : 10 / Saturé : 0
+Acc??s A351 S	Inconnu : 4 / Fluide : 4411 / Dense : 0 / Saturé : 0
+Alcide de Gasperi -> Lingo	Inconnu : 0 / Fluide : 4404 / Dense : 5 / Saturé : 6
+All??e Droits de l'Homme->Orangerie	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+All??e Droits de l'Homme->Robertsau	Inconnu : 0 / Fluide : 4394 / Dense : 21 / Saturé : 0
+All??e J.Auriol-> Mermoz	Inconnu : 0 / Fluide : 3128 / Dense : 475 / Saturé : 812
+All??e J.Auriol->Av.Neuhof	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+All??e de la Robertsau -> Bld Tauler	Inconnu : 0 / Fluide : 4406 / Dense : 5 / Saturé : 4
+All??e de la Robertsau -> Place Brant	Inconnu : 0 / Fluide : 4391 / Dense : 24 / Saturé : 0
+Alpes (ap.Churchill) -> Robertsau	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Alpes (ap.Churchill)->Etoile	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Alpes(av.Churchill)->Etoile	Inconnu : 0 / Fluide : 4401 / Dense : 14 / Saturé : 0
+Alpes(av.Churchill)->Robertsau	Inconnu : 0 / Fluide : 4347 / Dense : 52 / Saturé : 16
+Av. Colmar (Mulhouse) vers Centre ville	Inconnu : 0 / Fluide : 4383 / Dense : 16 / Saturé : 16
+Av. Colmar (Racing) vers Centre Ville	Inconnu : 0 / Fluide : 4407 / Dense : 8 / Saturé : 0
+Av. Herrenschmidt vers A350	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Av. Herrenschmidt vers Place de Bordeau	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Av. Jean-Jaur??s -> Neudorf	Inconnu : 0 / Fluide : 4374 / Dense : 41 / Saturé : 0
+Av. Jean-Jaur??s -> Place de l'Etoile	Inconnu : 0 / Fluide : 4375 / Dense : 40 / Saturé : 0
+Av. d'Alsace vers Place Brant	Inconnu : 0 / Fluide : 4393 / Dense : 13 / Saturé : 9
+Av. de la Paix vers Av. des Vosges	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Av. des Vosges vers Place de Haguenau	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Av. du Gal de Gaulle -> Esplanade	Inconnu : 0 / Fluide : 4411 / Dense : 4 / Saturé : 0
+Av. du Neuhof vers Stockfeld	Inconnu : 0 / Fluide : 4289 / Dense : 108 / Saturé : 18
+Av. du Neuhof vers rte du Polygone	Inconnu : 0 / Fluide : 4408 / Dense : 5 / Saturé : 2
+Av.A.Briand -> Av. Jean Jaur??s	Inconnu : 0 / Fluide : 4346 / Dense : 41 / Saturé : 28
+Av.A.Briand -> Rte du Rhin	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Av.Colmar (Racing) vers Illkirch	Inconnu : 0 / Fluide : 4413 / Dense : 0 / Saturé : 2
+Av.For??t-Noire->Bld d'Anvers	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Av.For??t-Noire->PL.Brant	Inconnu : 0 / Fluide : 4411 / Dense : 4 / Saturé : 0
+Av.Gal de Gaulle -> Bld de la Victoire	Inconnu : 0 / Fluide : 4389 / Dense : 22 / Saturé : 4
+Av.Jean Jaur??s vers Rue du Landsberg	Inconnu : 0 / Fluide : 4411 / Dense : 2 / Saturé : 2
+Av.Jean Jaures->Av.A.Briand	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Av.Mendes France (Contades)->Tribunal	Inconnu : 0 / Fluide : 4313 / Dense : 102 / Saturé : 0
+Av.Mendes France->Contades	Inconnu : 0 / Fluide : 4386 / Dense : 29 / Saturé : 0
+Av.Schuman -> Mal Foch	Inconnu : 0 / Fluide : 4402 / Dense : 13 / Saturé : 0
+Av.Schumann-> Sports	Inconnu : 0 / Fluide : 4318 / Dense : 25 / Saturé : 72
+Av.Schutzenberger vers Pl. A.Zeller	Inconnu : 0 / Fluide : 4412 / Dense : 2 / Saturé : 1
+Av.Schutzenberger vers Pl. Bordeaux	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Av.d'Alsace vers Av. des Vosges	Inconnu : 0 / Fluide : 4399 / Dense : 16 / Saturé : 0
+Av.de la Libert?? vers Pl. Universit??	Inconnu : 0 / Fluide : 4409 / Dense : 5 / Saturé : 1
+Av.de la Libert?? vers Pl.R??publique	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Av.de la Paix vers Place de Bordeaux	Inconnu : 0 / Fluide : 4407 / Dense : 7 / Saturé : 1
+Av.des Voges vers Av. For??t-Noire	Inconnu : 0 / Fluide : 4402 / Dense : 9 / Saturé : 4
+Avenue Moli??re -> Rue Paul Val??ry	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Barreau L.I.P.-> Rhin Napol??on	Inconnu : 0 / Fluide : 4327 / Dense : 41 / Saturé : 47
+Barreau L.I.P.->Allemagne	Inconnu : 0 / Fluide : 3910 / Dense : 250 / Saturé : 255
+Bld Anvers (532)->Bld de la Marne	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Bld Cl??menceau vers Av. de la Paix	Inconnu : 0 / Fluide : 4410 / Dense : 5 / Saturé : 0
+Bld Clemenceau vers Av. des Vosges	Inconnu : 0 / Fluide : 4409 / Dense : 3 / Saturé : 3
+Bld Leblois -> Bld de la Marne	Inconnu : 0 / Fluide : 4372 / Dense : 24 / Saturé : 19
+Bld Leblois -> Bld de la Victoire	Inconnu : 0 / Fluide : 4409 / Dense : 6 / Saturé : 0
+Bld Lyon (Obernai) -> Rue de Molsheim	Inconnu : 7 / Fluide : 4398 / Dense : 10 / Saturé : 0
+Bld Pierre Pflimlin -> Robertsau	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Bld Pierre Pflimlin -> Wacken	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Bld Victoire (Fritz Kiener->Universit??)	Inconnu : 0 / Fluide : 4412 / Dense : 1 / Saturé : 2
+Bld Victoire (Universit??->Grandidier)	Inconnu : 0 / Fluide : 4405 / Dense : 5 / Saturé : 5
+Bld Wilson -> Place de la Gare	Inconnu : 0 / Fluide : 4274 / Dense : 44 / Saturé : 97
+Bld Wilson vers Fbg de Saverne	Inconnu : 0 / Fluide : 4258 / Dense : 88 / Saturé : 69
+Bld d'Anvers (532)->Pont d'Anvers	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Bld de Dresde vers Pl.A.Zeller	Inconnu : 0 / Fluide : 4404 / Dense : 8 / Saturé : 3
+Bld de Dresde vers Robertsau	Inconnu : 0 / Fluide : 4405 / Dense : 4 / Saturé : 6
+Bld de Lyon (Saales) -> Rue de Molsheim	Inconnu : 0 / Fluide : 4324 / Dense : 58 / Saturé : 33
+Bld de Lyon -> Rue d'Obernai	Inconnu : 0 / Fluide : 4240 / Dense : 55 / Saturé : 120
+Bourse 206-207	Inconnu : 424 / Fluide : 0 / Dense : 3991 / Saturé : 0
+Bourse 207-206	Inconnu : 1782 / Fluide : 2451 / Dense : 182 / Saturé : 0
+Calmette->A351	Inconnu : 0 / Fluide : 4407 / Dense : 6 / Saturé : 2
+Calmette->CHU	Inconnu : 24 / Fluide : 4391 / Dense : 0 / Saturé : 0
+Centre Administratif -> Bourse	Inconnu : 4335 / Fluide : 80 / Dense : 0 / Saturé : 0
+Centre Administratif -> Neudorf	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Contournement Sud->A35	Inconnu : 11 / Fluide : 4278 / Dense : 82 / Saturé : 44
+Cyclistes Rue de Vienne -> Centre	Inconnu : 1 / Fluide : 4414 / Dense : 0 / Saturé : 0
+Cyclistes Rue de Vienne -> Neudorf	Inconnu : 1 / Fluide : 4414 / Dense : 0 / Saturé : 0
+D84 Geispo 5202-5204	Inconnu : 4 / Fluide : 4307 / Dense : 104 / Saturé : 0
+D84 entr??e Geispo	Inconnu : 4 / Fluide : 4255 / Dense : 156 / Saturé : 0
+D84 sortie Geispo Gare	Inconnu : 4 / Fluide : 4192 / Dense : 168 / Saturé : 51
+D84->Geispo Gare	Inconnu : 1916 / Fluide : 2002 / Dense : 472 / Saturé : 25
+Descente Autoroute Place de Haguenau	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Descente Contournement Sud Rte Hopital	Inconnu : 0 / Fluide : 4407 / Dense : 8 / Saturé : 0
+Descente contournement Sud Pl.Etoile	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Division Leclerc	Inconnu : 0 / Fluide : 4407 / Dense : 5 / Saturé : 3
+E.Rostand-> A351	Inconnu : 0 / Fluide : 4410 / Dense : 5 / Saturé : 0
+E.Rostand->av.Corneille	Inconnu : 0 / Fluide : 4411 / Dense : 3 / Saturé : 1
+Echangeur Baggersee A35 N-S	Inconnu : 4 / Fluide : 4328 / Dense : 67 / Saturé : 16
+Echangeur Baggersee A35 S-N	Inconnu : 4 / Fluide : 4268 / Dense : 83 / Saturé : 60
+Elmerforst (1101)->1190	Inconnu : 0 / Fluide : 4406 / Dense : 4 / Saturé : 5
+Elmerforst (1190)->1101	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Entr??e Geispo Gare cot?? Lingo	Inconnu : 4 / Fluide : 4158 / Dense : 253 / Saturé : 0
+Entree Lingo	Inconnu : 6 / Fluide : 4374 / Dense : 31 / Saturé : 4
+Faubourg de Saverne vers Bld Wilson	Inconnu : 0 / Fluide : 4294 / Dense : 64 / Saturé : 57
+Faubourg de Saverne vers Pont de Savern	Inconnu : 0 / Fluide : 4411 / Dense : 4 / Saturé : 0
+Fbg de Pierre -> Cl??menceau	Inconnu : 0 / Fluide : 4395 / Dense : 15 / Saturé : 5
+Federation->Colmar	Inconnu : 0 / Fluide : 4392 / Dense : 12 / Saturé : 11
+Federation->Pl.Bouchers	Inconnu : 0 / Fluide : 4384 / Dense : 9 / Saturé : 22
+Finkwiller Humann 345-341	Inconnu : 1232 / Fluide : 3011 / Dense : 172 / Saturé : 0
+Fustel 206-221	Inconnu : 219 / Fluide : 3325 / Dense : 871 / Saturé : 0
+Fustel 221-206	Inconnu : 525 / Fluide : 0 / Dense : 3886 / Saturé : 4
+G.Wodli->Cronenbourg	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Gal Offenstein(Pfister)->Rhin Tortu	Inconnu : 0 / Fluide : 4404 / Dense : 7 / Saturé : 4
+Gare 311-312	Inconnu : 729 / Fluide : 0 / Dense : 3610 / Saturé : 76
+Gare 312-311	Inconnu : 974 / Fluide : 0 / Dense : 3411 / Saturé : 30
+Geispo E-O1	Inconnu : 1173 / Fluide : 3192 / Dense : 50 / Saturé : 0
+Geispo E-O2	Inconnu : 4 / Fluide : 4405 / Dense : 6 / Saturé : 0
+Geispo E-O3	Inconnu : 2281 / Fluide : 2132 / Dense : 2 / Saturé : 0
+Geispo O-E1	Inconnu : 2079 / Fluide : 2324 / Dense : 7 / Saturé : 5
+Geispo O-E2	Inconnu : 1700 / Fluide : 2674 / Dense : 33 / Saturé : 8
+Geispo O-E3	Inconnu : 1291 / Fluide : 3024 / Dense : 97 / Saturé : 3
+Hochfelden (837) ->Villette	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Hochfelden (837)->centre ville	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Humann 310-341	Inconnu : 4 / Fluide : 3679 / Dense : 732 / Saturé : 0
+Humann 341-301	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+Humann-Finkwiller 341-345	Inconnu : 872 / Fluide : 2973 / Dense : 570 / Saturé : 0
+Ile des Pecheurs -> Rivage	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Ile des Pecheurs->Gal Leclerc	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+J.P.Levy -> Alpes	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+J.P.Levy->Esplanade	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Kastner -> Boecklin	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Kastner -> Jacoutot	Inconnu : 0 / Fluide : 4336 / Dense : 77 / Saturé : 2
+Koenig 207-217	Inconnu : 4 / Fluide : 3065 / Dense : 1346 / Saturé : 0
+Koenig 217-207	Inconnu : 4 / Fluide : 3415 / Dense : 996 / Saturé : 0
+Koenigshoffen-A351 - 1	Inconnu : 748 / Fluide : 3666 / Dense : 1 / Saturé : 0
+Lausanne 217-218	Inconnu : 976 / Fluide : 1973 / Dense : 1466 / Saturé : 0
+Lausanne 218-217	Inconnu : 761 / Fluide : 3384 / Dense : 270 / Saturé : 0
+Lavoisier->Langevin	Inconnu : 0 / Fluide : 4411 / Dense : 0 / Saturé : 4
+Leclerc 384-381	Inconnu : 1322 / Fluide : 2223 / Dense : 864 / Saturé : 6
+Lyon (P??cheurs) -> Geispolsheim	Inconnu : 0 / Fluide : 4402 / Dense : 5 / Saturé : 8
+Lyon (P??cheurs)->Strasbourg	Inconnu : 0 / Fluide : 4411 / Dense : 2 / Saturé : 2
+Lyon 301-302	Inconnu : 365 / Fluide : 3938 / Dense : 82 / Saturé : 30
+Lyon 302-301	Inconnu : 453 / Fluide : 2958 / Dense : 1004 / Saturé : 0
+Lyon 304-302	Inconnu : 521 / Fluide : 3809 / Dense : 85 / Saturé : 0
+Lyon 307-308	Inconnu : 270 / Fluide : 1736 / Dense : 1876 / Saturé : 533
+Lyon 308-307	Inconnu : 151 / Fluide : 1817 / Dense : 2447 / Saturé : 0
+M.Verte -> PL.des Bouchers	Inconnu : 0 / Fluide : 4403 / Dense : 12 / Saturé : 0
+M.Verte -> Unterelsau	Inconnu : 28 / Fluide : 4342 / Dense : 27 / Saturé : 18
+Mal Foch (Thiriet) -> 23 Novembre	Inconnu : 2 / Fluide : 4403 / Dense : 6 / Saturé : 4
+Mal Foch (Thiriet)->Ostwald	Inconnu : 2 / Fluide : 4410 / Dense : 2 / Saturé : 1
+Mitterrand->P??guy	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Mitterrand->Wasselonne	Inconnu : 0 / Fluide : 3713 / Dense : 642 / Saturé : 60
+Mont??e A35 Baggersee	Inconnu : 0 / Fluide : 4404 / Dense : 9 / Saturé : 2
+Mont??e A350 Herrenschmidt	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Montagne-Verte21	Inconnu : 0 / Fluide : 4398 / Dense : 10 / Saturé : 7
+Montagne-Verte3 -> Nord	Inconnu : 0 / Fluide : 4390 / Dense : 25 / Saturé : 0
+Montagne-Verte4 -> Sud	Inconnu : 4 / Fluide : 2831 / Dense : 1580 / Saturé : 0
+Montagne-Verte5 -> Nord	Inconnu : 314 / Fluide : 0 / Dense : 4101 / Saturé : 0
+Montagne-Verte6 -> Sud	Inconnu : 0 / Fluide : 4396 / Dense : 13 / Saturé : 6
+Montee Contournement Sud (H??pital)	Inconnu : 0 / Fluide : 4408 / Dense : 7 / Saturé : 0
+N353 Eschau-Lilly	Inconnu : 92 / Fluide : 4270 / Dense : 52 / Saturé : 1
+N353 Eschau-Pont Pflimlin	Inconnu : 676 / Fluide : 3737 / Dense : 2 / Saturé : 0
+N353 Lilly-Eschau	Inconnu : 393 / Fluide : 4022 / Dense : 0 / Saturé : 0
+N4-A35 E-N	Inconnu : 4 / Fluide : 4311 / Dense : 100 / Saturé : 0
+N4-A35 E-S	Inconnu : 114 / Fluide : 4282 / Dense : 19 / Saturé : 0
+Ostwald1 -> Sud	Inconnu : 1435 / Fluide : 2950 / Dense : 30 / Saturé : 0
+Ostwald2 -> Nord	Inconnu : 1593 / Fluide : 0 / Dense : 2808 / Saturé : 14
+Ostwald3 -> Sud	Inconnu : 0 / Fluide : 4291 / Dense : 19 / Saturé : 105
+Ostwald40 -> Nord	Inconnu : 0 / Fluide : 4252 / Dense : 29 / Saturé : 134
+P1 - Breusch	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 - Eckbo	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 - Eckw	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 - Hang	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 - Kolb	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 - Osth	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 RD Bleu	Inconnu : 17660 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 RD Orange	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 RD Rouge	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1 RD Vert	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Entzheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Eschau	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Feg	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Geispo	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Hoenheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Holtzheim	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-LaWantz	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Lamp	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Lingo	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Lipsheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Mittel/Nieder	Inconnu : 17660 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Mundo	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Ober	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Obers	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Plobsheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Reichstett	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Schiltigheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Souffel	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Vendenheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1-Wolfi	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1C1	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1C2	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1C3	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1C4	Inconnu : 48565 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1C5	Inconnu : 17660 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1_Achenheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1_Bischheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1_Blaesheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1_Entzheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1_Hoenheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P1_LaWantz	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Bischheim	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Blaesheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Breusch	Inconnu : 17660 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Eckbo	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Hang	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Kolb	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Lingo	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Osth	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Ostwald	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2 - Schilig	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2-C4	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2-Hoenheim	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2-Lingo	Inconnu : 75055 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2-Ostwald	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2-Schilig	Inconnu : 13245 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C1	Inconnu : 70640 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C10	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C11	Inconnu : 44150 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C12	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C2	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C3	Inconnu : 30905 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C4	Inconnu : 30905 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C5	Inconnu : 52980 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C6	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C7	Inconnu : 52980 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2C8	Inconnu : 75055 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Achenheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Blaesheim	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Eckbo	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Eckw.	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Entz	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Entz.	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Eschau	Inconnu : 30905 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Fegersheim	Inconnu : 48565 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Geispo	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Hoenh	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Holtzheim	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Holztheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_LaWantz	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Lampert	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Lips	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Mittel/Nieder	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Mundo	Inconnu : 48565 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Ober	Inconnu : 35320 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Oberschaef.	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Ostwald	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Plobsheim	Inconnu : 8830 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Reichstett	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Souffel	Inconnu : 48565 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Vend.	Inconnu : 26490 / Fluide : 0 / Dense : 0 / Saturé : 0
+P2_Wolfisheim	Inconnu : 22075 / Fluide : 0 / Dense : 0 / Saturé : 0
+PL.Bouchers (POM)->775	Inconnu : 0 / Fluide : 4391 / Dense : 9 / Saturé : 15
+Paul Dopf -> Canonniers	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Paul Dopf -> Orbey	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Petit Rhin->	Inconnu : 0 / Fluide : 4411 / Dense : 3 / Saturé : 1
+Petit Rhin->Rhin Napol??on	Inconnu : 0 / Fluide : 4405 / Dense : 10 / Saturé : 0
+Petite Rue des Magasins	Inconnu : 0 / Fluide : 4285 / Dense : 107 / Saturé : 23
+Pl. Etoile -> Contournemend Sud	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Pl.Bouchers->F.Eberts	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Pl.Etoile -> Rte du Rhin	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Pl.Haguenau (Brumath)->Sortie Autoroute	Inconnu : 12 / Fluide : 4403 / Dense : 0 / Saturé : 0
+Place de la Gare -> Bld de Nancy	Inconnu : 2 / Fluide : 3799 / Dense : 545 / Saturé : 69
+Plaine des Bouchers -> Rue Humann	Inconnu : 0 / Fluide : 4385 / Dense : 10 / Saturé : 20
+Plaine des Bouchers -> Rue du Doubs	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Plaine des Bouchers->F??d??ration	Inconnu : 28 / Fluide : 4371 / Dense : 15 / Saturé : 1
+Plaine des Bouchers->Montagne-Verte	Inconnu : 28 / Fluide : 4373 / Dense : 14 / Saturé : 0
+Pont Lixenbuhl->Rhin	Inconnu : 0 / Fluide : 4403 / Dense : 5 / Saturé : 7
+Pont Lixenbuhl->Rue d'Alsace	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Pont Matthis -> Rue Humann	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Pont Matthis -> Rue de Molsheim	Inconnu : 0 / Fluide : 4399 / Dense : 10 / Saturé : 6
+Pont Vauban 688-689	Inconnu : 0 / Fluide : 4399 / Dense : 16 / Saturé : 0
+Pont Vauban 689-688	Inconnu : 0 / Fluide : 4372 / Dense : 8 / Saturé : 35
+Pont d'Anvers -> Allemagne	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Pont d'Anvers -> Place de Kehl	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Pont d'Ostwald -> Lingolsheim	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Pont de l'Europe -> Allemagne	Inconnu : 0 / Fluide : 4233 / Dense : 171 / Saturé : 11
+Pont de l'Europe -> Rte du Rhin	Inconnu : 0 / Fluide : 4017 / Dense : 361 / Saturé : 37
+Pont du Danube -> Quai des Alpes	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Pont du Danube->Rte du Rhin	Inconnu : 0 / Fluide : 4296 / Dense : 79 / Saturé : 40
+Quai Frey 201-345	Inconnu : 892 / Fluide : 3327 / Dense : 196 / Saturé : 0
+Quai Kl??ber	Inconnu : 0 / Fluide : 4410 / Dense : 5 / Saturé : 0
+Quai Pasteur vers Pont Pasteur	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Quai Pasteur vers Quai Fustel	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Quai St.Nicolas -> Finkwiller	Inconnu : 771 / Fluide : 2 / Dense : 3537 / Saturé : 105
+Quai St.Nicolas -> Quai des P??cheurs	Inconnu : 0 / Fluide : 2800 / Dense : 1083 / Saturé : 532
+Quai des P??cheurs -> Pont Royal	Inconnu : 995 / Fluide : 2 / Dense : 3244 / Saturé : 174
+Quai des P??cheurs -> Rue de Zurich	Inconnu : 1027 / Fluide : 2084 / Dense : 1226 / Saturé : 78
+RD1083 1081->1084	Inconnu : 158 / Fluide : 4218 / Dense : 39 / Saturé : 0
+RD1083 1084->1087	Inconnu : 277 / Fluide : 2616 / Dense : 1031 / Saturé : 491
+RD1083 1087->Schaal	Inconnu : 1370 / Fluide : 3045 / Dense : 0 / Saturé : 0
+RD1083 Achard-1087	Inconnu : 2054 / Fluide : 2171 / Dense : 188 / Saturé : 2
+RD1083 Lilly->1081	Inconnu : 222 / Fluide : 3504 / Dense : 624 / Saturé : 65
+RD1083 Schaal-Mont??e A35	Inconnu : 36 / Fluide : 4303 / Dense : 76 / Saturé : 0
+RD1083->A35	Inconnu : 4 / Fluide : 4360 / Dense : 38 / Saturé : 13
+RD37 5015-952	Inconnu : 2044 / Fluide : 2363 / Dense : 8 / Saturé : 0
+RD37 952-5015	Inconnu : 1762 / Fluide : 2653 / Dense : 0 / Saturé : 0
+RD45 381-390	Inconnu : 1935 / Fluide : 2441 / Dense : 39 / Saturé : 0
+RD45 390-381	Inconnu : 2912 / Fluide : 1480 / Dense : 23 / Saturé : 0
+RD468->Baggersee	Inconnu : 432 / Fluide : 3967 / Dense : 6 / Saturé : 10
+RD468->Illkirch	Inconnu : 4 / Fluide : 4402 / Dense : 7 / Saturé : 2
+RD563 5008-5010	Inconnu : 4 / Fluide : 4401 / Dense : 10 / Saturé : 0
+RD563 5010-5008	Inconnu : 4 / Fluide : 4410 / Dense : 1 / Saturé : 0
+RD63 5008-5009	Inconnu : 637 / Fluide : 3682 / Dense : 78 / Saturé : 18
+RD63 5009-5008	Inconnu : 539 / Fluide : 3871 / Dense : 5 / Saturé : 0
+RD63 5011-822	Inconnu : 4 / Fluide : 3187 / Dense : 1208 / Saturé : 16
+RD63 5012-822	Inconnu : 4 / Fluide : 4411 / Dense : 0 / Saturé : 0
+RD63 822-5011	Inconnu : 4 / Fluide : 4100 / Dense : 300 / Saturé : 11
+RD63 822-5012	Inconnu : 1712 / Fluide : 2699 / Dense : 4 / Saturé : 0
+RD63 Holtzheim->Wolfisheim	Inconnu : 2265 / Fluide : 2122 / Dense : 28 / Saturé : 0
+RD63 Wolfisheim->Holtzheim	Inconnu : 2003 / Fluide : 2410 / Dense : 2 / Saturé : 0
+RN353 Pont Pflimlin-Eschau	Inconnu : 484 / Fluide : 3925 / Dense : 6 / Saturé : 0
+RP Cronenbourg->G.Wodli	Inconnu : 0 / Fluide : 4412 / Dense : 3 / Saturé : 0
+Republique->Bischheim	Inconnu : 0 / Fluide : 4400 / Dense : 6 / Saturé : 9
+Republique->Souffelweyersheim	Inconnu : 0 / Fluide : 4399 / Dense : 4 / Saturé : 12
+Rhin 233-687	Inconnu : 0 / Fluide : 4320 / Dense : 80 / Saturé : 15
+Rhin 687-233	Inconnu : 0 / Fluide : 4243 / Dense : 78 / Saturé : 94
+Rhin 687-688	Inconnu : 0 / Fluide : 4399 / Dense : 16 / Saturé : 0
+Rhin 688-687	Inconnu : 0 / Fluide : 4372 / Dense : 8 / Saturé : 35
+Rhin 689-696	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Rhin 696-689	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rhin Napol??on -> Rue du Havre	Inconnu : 0 / Fluide : 4350 / Dense : 61 / Saturé : 4
+Rhin Napol??on->Rte du Rhin	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Rhin Tortu->Abb?? Ep??e	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Ribeauville (Orbey) -> Bale	Inconnu : 0 / Fluide : 4413 / Dense : 0 / Saturé : 2
+Rieth->Hochfelden	Inconnu : 0 / Fluide : 4404 / Dense : 11 / Saturé : 0
+Rieth->Lavoisier	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rieth->Mittelhausbergen	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rivage -> Ile des Pecheurs	Inconnu : 0 / Fluide : 4402 / Dense : 13 / Saturé : 0
+Rivage -> Melezes	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Romains (Constantin)->Eckbolsheim	Inconnu : 0 / Fluide : 4409 / Dense : 1 / Saturé : 5
+Romains-A35	Inconnu : 479 / Fluide : 3925 / Dense : 11 / Saturé : 0
+Route du Polygone -> Neudorf	Inconnu : 0 / Fluide : 4310 / Dense : 52 / Saturé : 53
+Route du Polygone -> Pl. de l'Etoile	Inconnu : 0 / Fluide : 4351 / Dense : 35 / Saturé : 29
+Rte Bischwiller (1241->961)	Inconnu : 0 / Fluide : 4405 / Dense : 0 / Saturé : 10
+Rte Brumath (Industrie)->Vendenheim	Inconnu : 0 / Fluide : 4412 / Dense : 3 / Saturé : 0
+Rte Brumath (Mundolsheim)->Industrie	Inconnu : 0 / Fluide : 4407 / Dense : 5 / Saturé : 3
+Rte Hausbergen -> Becquerel	Inconnu : 0 / Fluide : 4409 / Dense : 2 / Saturé : 4
+Rte Mittelhausbergen (Jacob)->Rotonde	Inconnu : 0 / Fluide : 4170 / Dense : 150 / Saturé : 95
+Rte Mittelhausbergen (Rotonde)->Jacob	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rte Neuhof->Illkirch	Inconnu : 0 / Fluide : 4284 / Dense : 101 / Saturé : 30
+Rte Romains (Constantin)->Ville	Inconnu : 10 / Fluide : 4401 / Dense : 1 / Saturé : 3
+Rte d'Altenheim vers Av. du Neuhof	Inconnu : 0 / Fluide : 4411 / Dense : 3 / Saturé : 1
+Rte d'Altenheim vers Stockfeld	Inconnu : 0 / Fluide : 4403 / Dense : 9 / Saturé : 3
+Rte d'Oberhausbergen vers Centre Ville	Inconnu : 3 / Fluide : 3741 / Dense : 593 / Saturé : 78
+Rte d'Oberhausbergen vers Oberhausberge	Inconnu : 3 / Fluide : 3738 / Dense : 596 / Saturé : 78
+Rte d'Oberhausbergen vers Rotonde	Inconnu : 0 / Fluide : 4412 / Dense : 3 / Saturé : 0
+Rte de Bischwiller (961->1241)	Inconnu : 0 / Fluide : 4405 / Dense : 1 / Saturé : 9
+Rte de Bischwiller (Mairie)->Bischheim	Inconnu : 0 / Fluide : 4404 / Dense : 8 / Saturé : 3
+Rte de Bischwiller (Principale)->Mairie	Inconnu : 0 / Fluide : 4378 / Dense : 37 / Saturé : 0
+Rte de Bischwiller 1250-952	Inconnu : 2178 / Fluide : 2209 / Dense : 28 / Saturé : 0
+Rte de Bischwiller 952-1250	Inconnu : 2232 / Fluide : 2066 / Dense : 117 / Saturé : 0
+Rte de Brumath 5013-5014	Inconnu : 676 / Fluide : 3735 / Dense : 4 / Saturé : 0
+Rte de Brumath 5014-5013	Inconnu : 1471 / Fluide : 2759 / Dense : 185 / Saturé : 0
+Rte de Brumath 6144-926	Inconnu : 4 / Fluide : 1981 / Dense : 2269 / Saturé : 161
+Rte de Brumath 926-5013	Inconnu : 434 / Fluide : 3778 / Dense : 137 / Saturé : 66
+Rte de Brumath vers Schiltigheim	Inconnu : 0 / Fluide : 4348 / Dense : 49 / Saturé : 18
+Rte de Brumath vers souffelweyersheim	Inconnu : 0 / Fluide : 4412 / Dense : 1 / Saturé : 2
+Rte de Hausbergen (Becquerel)->Mittel	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rte de Hausbergen(Becquerel)->Charme	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Rte de Hausbergen(Charme)->Becquerel	Inconnu : 0 / Fluide : 4310 / Dense : 80 / Saturé : 25
+Rte de La Wantzenau->Reichstett	Inconnu : 0 / Fluide : 4407 / Dense : 7 / Saturé : 1
+Rte de La Wantzenau->Rte de Bischwiller	Inconnu : 0 / Fluide : 4356 / Dense : 28 / Saturé : 31
+Rte de Lyon (Baumann)->Industrie	Inconnu : 0 / Fluide : 4269 / Dense : 137 / Saturé : 9
+Rte de Lyon (Industrie)->Baumann	Inconnu : 0 / Fluide : 4400 / Dense : 13 / Saturé : 2
+Rte de Lyon (Mairie) -> Strasbourg	Inconnu : 0 / Fluide : 4389 / Dense : 24 / Saturé : 2
+Rte de Lyon (Mairie)->Pont du P??age	Inconnu : 0 / Fluide : 4372 / Dense : 32 / Saturé : 11
+Rte de Lyon(Gast)->23 Novembre	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rte de Lyon(Gast)->Glaciere	Inconnu : 0 / Fluide : 4378 / Dense : 13 / Saturé : 24
+Rte de Mittelhausbergen vers Mittel.	Inconnu : 0 / Fluide : 4378 / Dense : 36 / Saturé : 1
+Rte de Mittelhausbergen versStrasbourg	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Rte de Strasbourg -> Colonne	Inconnu : 0 / Fluide : 4304 / Dense : 70 / Saturé : 41
+Rte de Strasbourg 923-926	Inconnu : 2422 / Fluide : 1831 / Dense : 161 / Saturé : 1
+Rte de Strasbourg 923-929	Inconnu : 1380 / Fluide : 0 / Dense : 3035 / Saturé : 0
+Rte de Strasbourg 925-929	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+Rte de Strasbourg 926-923	Inconnu : 4 / Fluide : 4201 / Dense : 194 / Saturé : 16
+Rte de Strasbourg 929-923	Inconnu : 1541 / Fluide : 2865 / Dense : 6 / Saturé : 3
+Rte de Strasbourg 929-925	Inconnu : 4 / Fluide : 4398 / Dense : 13 / Saturé : 0
+Rte de Strasbourg vers Illkirch	Inconnu : 0 / Fluide : 4376 / Dense : 33 / Saturé : 6
+Rte de Strasbourg vers Meinau	Inconnu : 0 / Fluide : 4396 / Dense : 19 / Saturé : 0
+Rte de Strasbourg->Baggersee	Inconnu : 0 / Fluide : 4411 / Dense : 4 / Saturé : 0
+Rte de l'H??pital -> Pont Adenauer	Inconnu : 0 / Fluide : 4282 / Dense : 127 / Saturé : 6
+Rte de l'H??pital->Av. Colmar	Inconnu : 3 / Fluide : 3596 / Dense : 739 / Saturé : 77
+Rte de l'Hopital -> H??tel de Police	Inconnu : 0 / Fluide : 4381 / Dense : 34 / Saturé : 0
+Rte de l'Hopital -> Quai Fustel	Inconnu : 0 / Fluide : 4311 / Dense : 56 / Saturé : 48
+Rte des Romains vers Eckbolsheim	Inconnu : 0 / Fluide : 4398 / Dense : 14 / Saturé : 3
+Rte des Romains vers Place Blanche	Inconnu : 0 / Fluide : 4377 / Dense : 21 / Saturé : 17
+Rte des Romains->Rue de Koenigshoffen	Inconnu : 0 / Fluide : 4324 / Dense : 83 / Saturé : 8
+Rte du Neuhof -> Neuhof	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rte du Neuhof->Rte de Strasbourg	Inconnu : 0 / Fluide : 4413 / Dense : 1 / Saturé : 1
+Rte du Neuhof->Schuhansen	Inconnu : 0 / Fluide : 3935 / Dense : 335 / Saturé : 145
+Rte du Rhin (Danube)->Churchill	Inconnu : 0 / Fluide : 3775 / Dense : 523 / Saturé : 117
+Rte du Rhin (UGC)->Allemagne	Inconnu : 0 / Fluide : 4384 / Dense : 30 / Saturé : 1
+Rte du Rhin (UGC)->Ville	Inconnu : 0 / Fluide : 4400 / Dense : 14 / Saturé : 1
+Rte du Rhin (av.233)->Allemagne	Inconnu : 0 / Fluide : 4336 / Dense : 75 / Saturé : 4
+Rte du Rhin->Contournement Sud	Inconnu : 3113 / Fluide : 1301 / Dense : 1 / Saturé : 0
+Rue  prinicipale 820-818	Inconnu : 4 / Fluide : 4407 / Dense : 4 / Saturé : 0
+Rue Alfred Kastler -> Baggersee	Inconnu : 0 / Fluide : 4178 / Dense : 74 / Saturé : 163
+Rue Alfred Kastler -> Illkirch	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue Boecklin -> Centre Ville	Inconnu : 0 / Fluide : 4370 / Dense : 38 / Saturé : 7
+Rue Boecklin->Rte de La Wantzenau	Inconnu : 0 / Fluide : 4411 / Dense : 4 / Saturé : 0
+Rue E.Bugatti -> Lingolsheim	Inconnu : 0 / Fluide : 4389 / Dense : 22 / Saturé : 4
+Rue E.Bugatti -> Vigie	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue E.Michelet -> Quai des Alpes	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Rue E.Michelet -> Rte du Rhin	Inconnu : 0 / Fluide : 4251 / Dense : 135 / Saturé : 29
+Rue Edmond Labb?? -> Bld de la Victoire	Inconnu : 0 / Fluide : 4414 / Dense : 0 / Saturé : 1
+Rue Edmond Labb??->Rue P.Montet	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue F.Epailly 696-697	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Rue F.Epailly 697-696	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue J.W. Valentin (CIAL)->Pl.A.Zeller	Inconnu : 0 / Fluide : 4395 / Dense : 12 / Saturé : 8
+Rue J.Wenger-Valentin vers Schiltigheim	Inconnu : 0 / Fluide : 4376 / Dense : 18 / Saturé : 21
+Rue Jacques Kabl?? vers Place de Bordea	Inconnu : 0 / Fluide : 4373 / Dense : 13 / Saturé : 29
+Rue Jacques Kabl?? vers Place de Haguen	Inconnu : 0 / Fluide : 4413 / Dense : 0 / Saturé : 2
+Rue Lixenbuhl ->Vincent Scotto	Inconnu : 11 / Fluide : 4404 / Dense : 0 / Saturé : 0
+Rue Lixenbuhl->Rue d'Alsace	Inconnu : 3 / Fluide : 4411 / Dense : 1 / Saturé : 0
+Rue Ohmacht vers All??e de la Robertsau	Inconnu : 0 / Fluide : 4383 / Dense : 30 / Saturé : 2
+Rue Ohmacht vers Place de Bordeaux	Inconnu : 0 / Fluide : 4379 / Dense : 29 / Saturé : 7
+Rue Principale 818-820	Inconnu : 4 / Fluide : 2343 / Dense : 2058 / Saturé : 10
+Rue Vauban vers Bld de la Victoire	Inconnu : 0 / Fluide : 4406 / Dense : 7 / Saturé : 2
+Rue Vauban vers Place de Kehl	Inconnu : 0 / Fluide : 4412 / Dense : 2 / Saturé : 1
+Rue d'Obernai	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue d'Ostwald vers Elmerforst	Inconnu : 0 / Fluide : 4336 / Dense : 76 / Saturé : 3
+Rue d'Ostwald vers Rue des Pr??s	Inconnu : 0 / Fluide : 4404 / Dense : 11 / Saturé : 0
+Rue de Copenhague -> E.E.E.	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Rue de Copenhague->Hausbergen	Inconnu : 0 / Fluide : 4407 / Dense : 5 / Saturé : 3
+Rue de Fouday	Inconnu : 0 / Fluide : 4410 / Dense : 4 / Saturé : 1
+Rue de Geispolsheim -> Rue des Vosges	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de Geispolsheim -> Vigie	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de Holtzheim->Holtzheim	Inconnu : 0 / Fluide : 4413 / Dense : 1 / Saturé : 1
+Rue de Holtzheim->Lingolsheim	Inconnu : 0 / Fluide : 4393 / Dense : 22 / Saturé : 0
+Rue de Koenigshoffen->Charmille	Inconnu : 3 / Fluide : 2949 / Dense : 1385 / Saturé : 78
+Rue de Lingolsheim -> Eckbolsheim	Inconnu : 0 / Fluide : 4412 / Dense : 2 / Saturé : 1
+Rue de Lubeck->Pl. Henri Levy	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de Lubeck->Rue du Port du Rhin	Inconnu : 0 / Fluide : 4346 / Dense : 66 / Saturé : 3
+Rue de Molsheim	Inconnu : 4 / Fluide : 4404 / Dense : 7 / Saturé : 0
+Rue de Paris	Inconnu : 4 / Fluide : 3949 / Dense : 462 / Saturé : 0
+Rue de Paris 957-958	Inconnu : 638 / Fluide : 3558 / Dense : 219 / Saturé : 0
+Rue de Ribeauvill?? vers rue d'Orbey	Inconnu : 0 / Fluide : 4405 / Dense : 1 / Saturé : 9
+Rue de Rome -> Esplanade	Inconnu : 0 / Fluide : 4409 / Dense : 4 / Saturé : 2
+Rue de Rome -> Krutenau	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de Strasbourg ->C.820	Inconnu : 1896 / Fluide : 1368 / Dense : 1151 / Saturé : 0
+Rue de Strasbourg->Niederh.	Inconnu : 1857 / Fluide : 2555 / Dense : 3 / Saturé : 0
+Rue de Vienne -> Pont d'Austerlitz	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Rue de Wasselonne	Inconnu : 0 / Fluide : 4258 / Dense : 66 / Saturé : 91
+Rue de l'Eglise Rouge -> Schiltigheim	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de l'Eglise Rouge->J. Kabl??	Inconnu : 0 / Fluide : 4386 / Dense : 28 / Saturé : 1
+Rue de l'Ill -> Papeterie	Inconnu : 0 / Fluide : 4405 / Dense : 10 / Saturé : 0
+Rue de l'Ill -> Pont Phario	Inconnu : 0 / Fluide : 4409 / Dense : 6 / Saturé : 0
+Rue de l'Industrie (Travail)-> Rhin	Inconnu : 0 / Fluide : 4400 / Dense : 8 / Saturé : 7
+Rue de l'Industrie -> Lixenbuhl	Inconnu : 0 / Fluide : 4410 / Dense : 5 / Saturé : 0
+Rue de l'Industrie(Rhin)->Travail	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de l'Industrie->Rte de Lyon	Inconnu : 0 / Fluide : 4399 / Dense : 13 / Saturé : 3
+Rue de la C??te-Mittel	Inconnu : 3818 / Fluide : 564 / Dense : 24 / Saturé : 9
+Rue de la Mairie->Rte de Bischwiller	Inconnu : 0 / Fluide : 4273 / Dense : 109 / Saturé : 33
+Rue de la Mairie->Rue Principale	Inconnu : 0 / Fluide : 4212 / Dense : 148 / Saturé : 55
+Rue de la Porte de l'H??pital	Inconnu : 0 / Fluide : 4388 / Dense : 9 / Saturé : 18
+Rue de la Rivi??re-> Rte de Schirmeck	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue de la Robertsau -> Ch.Bock	Inconnu : 0 / Fluide : 4412 / Dense : 3 / Saturé : 0
+Rue de la Robertsau ->Pont Phario	Inconnu : 0 / Fluide : 4117 / Dense : 121 / Saturé : 177
+Rue des Serruriers	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Rue du 23 Novembre -> Ostwald	Inconnu : 0 / Fluide : 4348 / Dense : 52 / Saturé : 15
+Rue du Doubs -> Fr??res Eberts	Inconnu : 86 / Fluide : 4328 / Dense : 1 / Saturé : 0
+Rue du Doubs -> Plaine des Bouchers	Inconnu : 85 / Fluide : 4225 / Dense : 104 / Saturé : 1
+Rue du Fbg de Pierre->Nu??e Bleue	Inconnu : 0 / Fluide : 4409 / Dense : 2 / Saturé : 4
+Rue du Gal Leclerc vers Centre Ostwald	Inconnu : 0 / Fluide : 4408 / Dense : 7 / Saturé : 0
+Rue du Gal Leclerc vers Strasbourg	Inconnu : 0 / Fluide : 4413 / Dense : 2 / Saturé : 0
+Rue du Gal Offenstein -> Pfister	Inconnu : 0 / Fluide : 4370 / Dense : 40 / Saturé : 5
+Rue du Gal Offenstein vers Av.Colmar	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Rue du Gal de Gaulle 5015-956	Inconnu : 2057 / Fluide : 2342 / Dense : 16 / Saturé : 0
+Rue du Gal de Gaulle 956-5015	Inconnu : 1748 / Fluide : 2630 / Dense : 37 / Saturé : 0
+Rue du Gal de Gaulle 956-957	Inconnu : 1308 / Fluide : 3096 / Dense : 11 / Saturé : 0
+Rue du Gal de Gaulle 957-956	Inconnu : 1368 / Fluide : 3031 / Dense : 16 / Saturé : 0
+Rue du Gal de Gaulle vers Bischheim	Inconnu : 0 / Fluide : 4371 / Dense : 34 / Saturé : 10
+Rue du Gal de Gaulle vers Strasbourg	Inconnu : 0 / Fluide : 4405 / Dense : 7 / Saturé : 3
+Rue du Landsberg vers Av.Jean Jaur??s	Inconnu : 0 / Fluide : 4384 / Dense : 24 / Saturé : 7
+Rue du Landsberg vers Rte du Rhin	Inconnu : 0 / Fluide : 4347 / Dense : 41 / Saturé : 27
+Rue du Mal Foch -> Illkirch	Inconnu : 0 / Fluide : 4410 / Dense : 5 / Saturé : 0
+Rue du Mal Foch -> Lingolsheim	Inconnu : 0 / Fluide : 4391 / Dense : 22 / Saturé : 2
+Rue du Mal Foch -> Mairie d'Ostwald	Inconnu : 0 / Fluide : 4397 / Dense : 14 / Saturé : 4
+Rue du Mal Foch -> Strasbourg	Inconnu : 0 / Fluide : 4408 / Dense : 7 / Saturé : 0
+Rue du Marais (Bretagne)->Pont Phario	Inconnu : 0 / Fluide : 4366 / Dense : 28 / Saturé : 21
+Rue du Marais (Phario) -> Zorn	Inconnu : 0 / Fluide : 4411 / Dense : 1 / Saturé : 3
+Rue du Marais (Phario)->Gal De Gaulle	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Rue du Marais ->Gal de Gaulle	Inconnu : 0 / Fluide : 4095 / Dense : 221 / Saturé : 99
+Rue du Marais(De Gaulle)->La Wantzenau	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue du Marais(De Gaulle)->Pont Phario	Inconnu : 0 / Fluide : 4250 / Dense : 47 / Saturé : 118
+Rue du Rempart -> Cronenbourg	Inconnu : 0 / Fluide : 4413 / Dense : 1 / Saturé : 1
+Rue du Rempart->Koenigshoffen	Inconnu : 0 / Fluide : 4349 / Dense : 35 / Saturé : 31
+Rue du Rhin Tortu vers Gal Offenstein	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Rue du Rhin Tortu vers Neuhof	Inconnu : 0 / Fluide : 4395 / Dense : 12 / Saturé : 8
+Ruer de Lingolsheim->Ostwald	Inconnu : 0 / Fluide : 4403 / Dense : 9 / Saturé : 3
+Schirmeck1 - Entree Ville	Inconnu : 835 / Fluide : 3354 / Dense : 226 / Saturé : 0
+Schirmeck10 - Sortie Ville	Inconnu : 171 / Fluide : 4015 / Dense : 229 / Saturé : 0
+Schirmeck11 - Entree Ville	Inconnu : 246 / Fluide : 3204 / Dense : 965 / Saturé : 0
+Schirmeck12 - Sortie Ville	Inconnu : 0 / Fluide : 4176 / Dense : 145 / Saturé : 94
+Schirmeck13 - Entree Ville	Inconnu : 4 / Fluide : 3272 / Dense : 1139 / Saturé : 0
+Schirmeck14 - Sortie Ville	Inconnu : 0 / Fluide : 4020 / Dense : 309 / Saturé : 86
+Schirmeck15 - Entree Ville	Inconnu : 0 / Fluide : 4384 / Dense : 31 / Saturé : 0
+Schirmeck16 - Sortie Ville	Inconnu : 306 / Fluide : 3706 / Dense : 389 / Saturé : 14
+Schirmeck17 - Entree Ville	Inconnu : 433 / Fluide : 2263 / Dense : 1719 / Saturé : 0
+Schirmeck18 - Sortie Ville	Inconnu : 0 / Fluide : 4412 / Dense : 1 / Saturé : 2
+Schirmeck2 - Sortie Ville	Inconnu : 4 / Fluide : 2163 / Dense : 2248 / Saturé : 0
+Schirmeck3 - Entree Ville	Inconnu : 0 / Fluide : 3970 / Dense : 161 / Saturé : 284
+Schirmeck4 - Sortie Ville	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Schirmeck5 - Entree Ville	Inconnu : 0 / Fluide : 4279 / Dense : 126 / Saturé : 10
+Schirmeck6 - Sortie Ville	Inconnu : 465 / Fluide : 0 / Dense : 3950 / Saturé : 0
+Schirmeck7 - Entree Ville	Inconnu : 199 / Fluide : 3391 / Dense : 824 / Saturé : 1
+Schirmeck8 - Sortie Ville	Inconnu : 0 / Fluide : 3765 / Dense : 469 / Saturé : 181
+Schirmeck9 - Entree Ville	Inconnu : 0 / Fluide : 3610 / Dense : 744 / Saturé : 61
+Schuhansen->Ganzau	Inconnu : 0 / Fluide : 4360 / Dense : 48 / Saturé : 7
+Sortie A 351	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Sortie A35 -> Baggersee	Inconnu : 0 / Fluide : 4008 / Dense : 387 / Saturé : 20
+Sortie A35->G.Wodli	Inconnu : 0 / Fluide : 4348 / Dense : 58 / Saturé : 9
+Sortie A351 -> Herrenschmidt	Inconnu : 0 / Fluide : 4377 / Dense : 38 / Saturé : 0
+Sortie Autoroute Elsau	Inconnu : 0 / Fluide : 4265 / Dense : 148 / Saturé : 2
+Sortie Autoroute Rue Montagne-Verte	Inconnu : 0 / Fluide : 4409 / Dense : 6 / Saturé : 0
+Sortie Autoroute Rue de Saales	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+Sortie Eglise Rouge->J. Kabl??	Inconnu : 0 / Fluide : 4372 / Dense : 31 / Saturé : 12
+Sortie Geispo Gare-> Lingo	Inconnu : 4 / Fluide : 4346 / Dense : 47 / Saturé : 18
+Sortie Lingo -> Entzheim	Inconnu : 6 / Fluide : 4405 / Dense : 4 / Saturé : 0
+Sortie Rte du Rhin -> Pl.Etoile	Inconnu : 0 / Fluide : 4386 / Dense : 12 / Saturé : 17
+Sortie Tunnel -> Allemagne	Inconnu : 3113 / Fluide : 1249 / Dense : 53 / Saturé : 0
+St.Jean	Inconnu : 0 / Fluide : 4407 / Dense : 1 / Saturé : 7
+Tanneurs	Inconnu : 4335 / Fluide : 2 / Dense : 1 / Saturé : 77
+Tour Verte -> Nord	Inconnu : 0 / Fluide : 4395 / Dense : 16 / Saturé : 4
+Tour Verte -> Sud	Inconnu : 700 / Fluide : 0 / Dense : 3715 / Saturé : 0
+Wasselonne->Eckbo	Inconnu : 0 / Fluide : 4408 / Dense : 6 / Saturé : 1
+Wasselonne->Romains	Inconnu : 0 / Fluide : 4414 / Dense : 1 / Saturé : 0
+Wolfisheim 5008-871	Inconnu : 1202 / Fluide : 2531 / Dense : 682 / Saturé : 0
+Wolfisheim 871-5008	Inconnu : 1061 / Fluide : 3342 / Dense : 12 / Saturé : 0
+Zurich 218-444	Inconnu : 4 / Fluide : 3989 / Dense : 422 / Saturé : 0
+canal 379-380	Inconnu : 4 / Fluide : 4335 / Dense : 76 / Saturé : 0
+canal 379-382	Inconnu : 1125 / Fluide : 2311 / Dense : 979 / Saturé : 0
+canal 380-379	Inconnu : 4 / Fluide : 4190 / Dense : 221 / Saturé : 0
+canal 382-379	Inconnu : 718 / Fluide : 3129 / Dense : 568 / Saturé : 0
+cora-lampertheim	Inconnu : 1282 / Fluide : 2740 / Dense : 326 / Saturé : 67
+de gaulle 360-381	Inconnu : 2737 / Fluide : 0 / Dense : 1678 / Saturé : 0
+de gaulle 381-360	Inconnu : 4 / Fluide : 4377 / Dense : 34 / Saturé : 0
+de gaulle 818-871	Inconnu : 2088 / Fluide : 2327 / Dense : 0 / Saturé : 0
+de gaulle 871-818	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+graffenstaden 1179-5018	Inconnu : 4 / Fluide : 4368 / Dense : 42 / Saturé : 1
+graffenstaden 1179-5019	Inconnu : 1090 / Fluide : 3293 / Dense : 32 / Saturé : 0
+graffenstaden 5016-5017	Inconnu : 310 / Fluide : 3931 / Dense : 174 / Saturé : 0
+graffenstaden 5017-5018	Inconnu : 4 / Fluide : 4373 / Dense : 38 / Saturé : 0
+graffenstaden 5018-1179	Inconnu : 4 / Fluide : 0 / Dense : 4337 / Saturé : 74
+graffenstaden 5018-5017	Inconnu : 514 / Fluide : 3654 / Dense : 236 / Saturé : 11
+graffenstaden 5019-1179	Inconnu : 1163 / Fluide : 3201 / Dense : 51 / Saturé : 0
+gtraffenstaden 5017-5016	Inconnu : 504 / Fluide : 3488 / Dense : 404 / Saturé : 19
+havre 5004-627	Inconnu : 1202 / Fluide : 3182 / Dense : 29 / Saturé : 2
+havre 627-5004	Inconnu : 944 / Fluide : 3454 / Dense : 17 / Saturé : 0
+havre 627-688	Inconnu : 4 / Fluide : 2183 / Dense : 2228 / Saturé : 0
+havre 688-627	Inconnu : 4 / Fluide : 4344 / Dense : 67 / Saturé : 0
+juifs 1173-5019	Inconnu : 1801 / Fluide : 2455 / Dense : 159 / Saturé : 0
+juifs 5019-1173	Inconnu : 4 / Fluide : 2171 / Dense : 2237 / Saturé : 3
+lampertheim-cora	Inconnu : 4 / Fluide : 4383 / Dense : 28 / Saturé : 0
+lampertheim-mundo	Inconnu : 4103 / Fluide : 308 / Dense : 4 / Saturé : 0
+leclerc 381-384	Inconnu : 754 / Fluide : 3476 / Dense : 185 / Saturé : 0
+leclerc 382-384	Inconnu : 1648 / Fluide : 2581 / Dense : 186 / Saturé : 0
+leclerc 384-382	Inconnu : 1069 / Fluide : 2044 / Dense : 1302 / Saturé : 0
+mundo-lampertheim	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+ober 386-381	Inconnu : 1267 / Fluide : 1339 / Dense : 1751 / Saturé : 58
+ober_5000	Inconnu : 854 / Fluide : 2359 / Dense : 1202 / Saturé : 0
+ober_5001	Inconnu : 495 / Fluide : 3279 / Dense : 641 / Saturé : 0
+ober_5002	Inconnu : 4 / Fluide : 2786 / Dense : 1624 / Saturé : 1
+ober_5003	Inconnu : 841 / Fluide : 3382 / Dense : 190 / Saturé : 2
+p2_Souffel	Inconnu : 4415 / Fluide : 0 / Dense : 0 / Saturé : 0
+rochelle 0670-5007	Inconnu : 843 / Fluide : 3562 / Dense : 5 / Saturé : 5
+rochelle 5004-5005	Inconnu : 409 / Fluide : 3979 / Dense : 27 / Saturé : 0
+rochelle 5005-5004	Inconnu : 671 / Fluide : 3728 / Dense : 16 / Saturé : 0
+rochelle 5005-5006	Inconnu : 813 / Fluide : 3557 / Dense : 45 / Saturé : 0
+rochelle 5006-5005	Inconnu : 1303 / Fluide : 1917 / Dense : 1172 / Saturé : 23
+rochelle 5006-670	Inconnu : 1165 / Fluide : 3247 / Dense : 3 / Saturé : 0
+rochelle 5007-0670	Inconnu : 1608 / Fluide : 2805 / Dense : 2 / Saturé : 0
+rochelle 670-5006	Inconnu : 1454 / Fluide : 2954 / Dense : 7 / Saturé : 0
+rue de koenigshoffen->Autoroute	Inconnu : 0 / Fluide : 4415 / Dense : 0 / Saturé : 0
+seigneurs_5004	Inconnu : 4 / Fluide : 4052 / Dense : 359 / Saturé : 0
+seigneurs_5005	Inconnu : 4 / Fluide : 0 / Dense : 4138 / Saturé : 273
+seigneurs_5006	Inconnu : 1197 / Fluide : 3206 / Dense : 12 / Saturé : 0
+seigneurs_5007	Inconnu : 1386 / Fluide : 2827 / Dense : 202 / Saturé : 0
+seigneurs_5008	Inconnu : 1324 / Fluide : 2998 / Dense : 87 / Saturé : 6
+seigneurs_5009	Inconnu : 1374 / Fluide : 2738 / Dense : 224 / Saturé : 79
+sortie autoroute rue de koenigshoffen	Inconnu : 0 / Fluide : 4200 / Dense : 93 / Saturé : 122

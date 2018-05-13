@@ -1,0 +1,5024 @@
+03-07|23 Novembre -> Rte de Lyon	160
+03-07|A35 A351-S	0
+03-07|A35 Baggersee-Schirmeck	0
+03-07|A35 Baggersee-Vigie	0
+03-07|A35 Duppigheim-Entzheim	0
+03-07|A35 Ech.Schirmeck N-S	0
+03-07|A35 Entzheim-Duppigheim	0
+03-07|A35 Entzheim-Vigie	0
+03-07|A35 N-S PC Gutenberg	0
+03-07|A35 N-S Sortie Halles	0
+03-07|A35 S-N A350	0
+03-07|A35 S-N Sortie Cronenbourg	0
+03-07|A35 Schirmeck-A351 S-N	0
+03-07|A35 Schirmeck-A351 S-N2	0
+03-07|A35 Schirmeck-Baggersee	0
+03-07|A35 Vigie N-S	0
+03-07|A35 Vigie S-N	0
+03-07|A35 Vigie-Baggersee	0
+03-07|A35 Vigie-Entzheim	0
+03-07|A35 sortie Vigie N-S	0
+03-07|A35->A351	0
+03-07|A35->RD1083	0
+03-07|A35-A350	0
+03-07|A35-A351 N-O	0
+03-07|A35-Pl.Blanche	0
+03-07|A35-Pl.Haguenau N-S	0
+03-07|A35-Pl.Haguenau S-N	0
+03-07|A350-> Sortie Kabl??	0
+03-07|A351 A35-Sortie Auchan	0
+03-07|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-07|A351 Leroy-A35	0
+03-07|A351 Sortie Auchan-Echangeur Wolfi	0
+03-07|A351-A35N	0
+03-07|A351-A35N2	0
+03-07|A351-A35S	0
+03-07|A351-Pl.Blanche	0
+03-07|A35A531-P.Schirmeck N-S	0
+03-07|A4 (Hoenheim) S-N	0
+03-07|A4 Hauteur TGv S-N	0
+03-07|A4 Hoenheim-> TGV	0
+03-07|A4 Hoenheim-Ech.Reichstett	0
+03-07|A4 N-S Cronenbourg	0
+03-07|A4 N-S Hoerdt Reichstett	0
+03-07|A4 N-S Reichstett	0
+03-07|A4 Reichstett->Hoenheim	0
+03-07|A4 S-N Cronenbourg	0
+03-07|A4 S-N Echangeur Reichstett	0
+03-07|A4 S-N Reichstett Hoerdt	0
+03-07|A4-Schiltigheim S-N	0
+03-07|A4-Schitigheim N-S	0
+03-07|Abbe de l'Epee -> Rhin Tortu	92
+03-07|Abbe de l'Epee->Rte du Neuhof	84
+03-07|Acc??s A351 S	0
+03-07|Alcide de Gasperi -> Lingo	141
+03-07|All??e Droits de l'Homme->Orangerie	119
+03-07|All??e Droits de l'Homme->Robertsau	197
+03-07|All??e J.Auriol-> Mermoz	12
+03-07|All??e J.Auriol->Av.Neuhof	24
+03-07|All??e de la Robertsau -> Bld Tauler	197
+03-07|All??e de la Robertsau -> Place Brant	160
+03-07|Alpes (ap.Churchill) -> Robertsau	318
+03-07|Alpes (ap.Churchill)->Etoile	200
+03-07|Alpes(av.Churchill)->Etoile	186
+03-07|Alpes(av.Churchill)->Robertsau	344
+03-07|Av. Colmar (Mulhouse) vers Centre ville	129
+03-07|Av. Colmar (Racing) vers Centre Ville	190
+03-07|Av. Herrenschmidt vers A350	181
+03-07|Av. Herrenschmidt vers Place de Bordeau	125
+03-07|Av. Jean-Jaur??s -> Neudorf	148
+03-07|Av. Jean-Jaur??s -> Place de l'Etoile	138
+03-07|Av. d'Alsace vers Place Brant	353
+03-07|Av. de la Paix vers Av. des Vosges	25
+03-07|Av. des Vosges vers Place de Haguenau	461
+03-07|Av. du Gal de Gaulle -> Esplanade	168
+03-07|Av. du Neuhof vers Stockfeld	118
+03-07|Av. du Neuhof vers rte du Polygone	127
+03-07|Av.A.Briand -> Av. Jean Jaur??s	174
+03-07|Av.A.Briand -> Rte du Rhin	106
+03-07|Av.Colmar (Racing) vers Illkirch	152
+03-07|Av.For??t-Noire->Bld d'Anvers	234
+03-07|Av.For??t-Noire->PL.Brant	286
+03-07|Av.Gal de Gaulle -> Bld de la Victoire	188
+03-07|Av.Jean Jaur??s vers Rue du Landsberg	120
+03-07|Av.Jean Jaures->Av.A.Briand	121
+03-07|Av.Mendes France (Contades)->Tribunal	410
+03-07|Av.Mendes France->Contades	409
+03-07|Av.Schuman -> Mal Foch	162
+03-07|Av.Schumann-> Sports	180
+03-07|Av.Schutzenberger vers Pl. A.Zeller	34
+03-07|Av.Schutzenberger vers Pl. Bordeaux	18
+03-07|Av.d'Alsace vers Av. des Vosges	495
+03-07|Av.de la Libert?? vers Pl. Universit??	53
+03-07|Av.de la Libert?? vers Pl.R??publique	92
+03-07|Av.de la Paix vers Place de Bordeaux	92
+03-07|Av.des Voges vers Av. For??t-Noire	194
+03-07|Avenue Moli??re -> Rue Paul Val??ry	217
+03-07|Barreau L.I.P.-> Rhin Napol??on	288
+03-07|Barreau L.I.P.->Allemagne	195
+03-07|Bld Anvers (532)->Bld de la Marne	137
+03-07|Bld Cl??menceau vers Av. de la Paix	97
+03-07|Bld Clemenceau vers Av. des Vosges	134
+03-07|Bld Leblois -> Bld de la Marne	180
+03-07|Bld Leblois -> Bld de la Victoire	235
+03-07|Bld Lyon (Obernai) -> Rue de Molsheim	444
+03-07|Bld Pierre Pflimlin -> Robertsau	152
+03-07|Bld Pierre Pflimlin -> Wacken	114
+03-07|Bld Victoire (Fritz Kiener->Universit??)	60
+03-07|Bld Victoire (Universit??->Grandidier)	106
+03-07|Bld Wilson -> Place de la Gare	216
+03-07|Bld Wilson vers Fbg de Saverne	310
+03-07|Bld d'Anvers (532)->Pont d'Anvers	55
+03-07|Bld de Dresde vers Pl.A.Zeller	117
+03-07|Bld de Dresde vers Robertsau	151
+03-07|Bld de Lyon (Saales) -> Rue de Molsheim	577
+03-07|Bld de Lyon -> Rue d'Obernai	560
+03-07|Bourse 206-207	0
+03-07|Bourse 207-206	0
+03-07|Calmette->A351	229
+03-07|Calmette->CHU	388
+03-07|Centre Administratif -> Bourse	0
+03-07|Centre Administratif -> Neudorf	118
+03-07|Contournement Sud->A35	0
+03-07|Cyclistes Rue de Vienne -> Centre	45
+03-07|Cyclistes Rue de Vienne -> Neudorf	166
+03-07|D84 Geispo 5202-5204	0
+03-07|D84 entr??e Geispo	0
+03-07|D84 sortie Geispo Gare	0
+03-07|D84->Geispo Gare	0
+03-07|Descente Autoroute Place de Haguenau	174
+03-07|Descente Contournement Sud Rte Hopital	503
+03-07|Descente contournement Sud Pl.Etoile	186
+03-07|Division Leclerc	224
+03-07|E.Rostand-> A351	214
+03-07|E.Rostand->av.Corneille	140
+03-07|Echangeur Baggersee A35 N-S	0
+03-07|Echangeur Baggersee A35 S-N	0
+03-07|Elmerforst (1101)->1190	65
+03-07|Elmerforst (1190)->1101	60
+03-07|Entr??e Geispo Gare cot?? Lingo	0
+03-07|Entree Lingo	224
+03-07|Faubourg de Saverne vers Bld Wilson	225
+03-07|Faubourg de Saverne vers Pont de Savern	25
+03-07|Fbg de Pierre -> Cl??menceau	149
+03-07|Federation->Colmar	57
+03-07|Federation->Pl.Bouchers	49
+03-07|Finkwiller Humann 345-341	0
+03-07|Fustel 206-221	0
+03-07|Fustel 221-206	0
+03-07|G.Wodli->Cronenbourg	551
+03-07|Gal Offenstein(Pfister)->Rhin Tortu	150
+03-07|Gare 311-312	0
+03-07|Gare 312-311	0
+03-07|Geispo E-O1	0
+03-07|Geispo E-O2	0
+03-07|Geispo E-O3	0
+03-07|Geispo O-E1	0
+03-07|Geispo O-E2	0
+03-07|Geispo O-E3	0
+03-07|Hochfelden (837) ->Villette	69
+03-07|Hochfelden (837)->centre ville	101
+03-07|Humann 310-341	0
+03-07|Humann 341-301	0
+03-07|Humann-Finkwiller 341-345	0
+03-07|Ile des Pecheurs -> Rivage	6
+03-07|Ile des Pecheurs->Gal Leclerc	15
+03-07|J.P.Levy -> Alpes	154
+03-07|J.P.Levy->Esplanade	109
+03-07|Kastner -> Boecklin	144
+03-07|Kastner -> Jacoutot	128
+03-07|Koenig 207-217	0
+03-07|Koenig 217-207	0
+03-07|Koenigshoffen-A351 - 1	0
+03-07|Lausanne 217-218	0
+03-07|Lausanne 218-217	0
+03-07|Lavoisier->Langevin	58
+03-07|Leclerc 384-381	0
+03-07|Lyon (P??cheurs) -> Geispolsheim	114
+03-07|Lyon (P??cheurs)->Strasbourg	102
+03-07|Lyon 301-302	0
+03-07|Lyon 302-301	0
+03-07|Lyon 304-302	0
+03-07|Lyon 307-308	0
+03-07|Lyon 308-307	0
+03-07|M.Verte -> PL.des Bouchers	345
+03-07|M.Verte -> Unterelsau	391
+03-07|Mal Foch (Thiriet) -> 23 Novembre	65
+03-07|Mal Foch (Thiriet)->Ostwald	83
+03-07|Mitterrand->P??guy	74
+03-07|Mitterrand->Wasselonne	129
+03-07|Mont??e A35 Baggersee	587
+03-07|Mont??e A350 Herrenschmidt	660
+03-07|Montagne-Verte21	150
+03-07|Montagne-Verte3 -> Nord	491
+03-07|Montagne-Verte4 -> Sud	0
+03-07|Montagne-Verte5 -> Nord	0
+03-07|Montagne-Verte6 -> Sud	339
+03-07|Montee Contournement Sud (H??pital)	834
+03-07|N353 Eschau-Lilly	0
+03-07|N353 Eschau-Pont Pflimlin	0
+03-07|N353 Lilly-Eschau	0
+03-07|N4-A35 E-N	0
+03-07|N4-A35 E-S	0
+03-07|Ostwald1 -> Sud	0
+03-07|Ostwald2 -> Nord	0
+03-07|Ostwald3 -> Sud	157
+03-07|Ostwald40 -> Nord	127
+03-07|P1 - Breusch	0
+03-07|P1 - Eckbo	0
+03-07|P1 - Eckw	0
+03-07|P1 - Hang	0
+03-07|P1 - Kolb	0
+03-07|P1 - Osth	0
+03-07|P1 RD Bleu	0
+03-07|P1 RD Orange	0
+03-07|P1 RD Rouge	0
+03-07|P1 RD Vert	0
+03-07|P1-Entzheim	0
+03-07|P1-Eschau	0
+03-07|P1-Feg	0
+03-07|P1-Geispo	0
+03-07|P1-Hoenheim	0
+03-07|P1-Holtzheim	0
+03-07|P1-LaWantz	0
+03-07|P1-Lamp	0
+03-07|P1-Lingo	0
+03-07|P1-Lipsheim	0
+03-07|P1-Mittel/Nieder	0
+03-07|P1-Mundo	0
+03-07|P1-Ober	0
+03-07|P1-Obers	0
+03-07|P1-Plobsheim	0
+03-07|P1-Reichstett	0
+03-07|P1-Schiltigheim	0
+03-07|P1-Souffel	0
+03-07|P1-Vendenheim	0
+03-07|P1-Wolfi	0
+03-07|P1C1	0
+03-07|P1C2	0
+03-07|P1C3	0
+03-07|P1C4	0
+03-07|P1C5	0
+03-07|P1_Achenheim	0
+03-07|P1_Bischheim	0
+03-07|P1_Blaesheim	0
+03-07|P1_Entzheim	0
+03-07|P1_Hoenheim	0
+03-07|P1_LaWantz	0
+03-07|P2 - Bischheim	0
+03-07|P2 - Blaesheim	0
+03-07|P2 - Breusch	0
+03-07|P2 - Eckbo	0
+03-07|P2 - Hang	0
+03-07|P2 - Kolb	0
+03-07|P2 - Lingo	0
+03-07|P2 - Osth	0
+03-07|P2 - Ostwald	0
+03-07|P2 - Schilig	0
+03-07|P2-C4	0
+03-07|P2-Hoenheim	0
+03-07|P2-Lingo	0
+03-07|P2-Ostwald	0
+03-07|P2-Schilig	0
+03-07|P2C1	0
+03-07|P2C10	0
+03-07|P2C11	0
+03-07|P2C12	0
+03-07|P2C2	0
+03-07|P2C3	0
+03-07|P2C4	0
+03-07|P2C5	0
+03-07|P2C6	0
+03-07|P2C7	0
+03-07|P2C8	0
+03-07|P2_Achenheim	0
+03-07|P2_Blaesheim	0
+03-07|P2_Eckbo	0
+03-07|P2_Eckw.	0
+03-07|P2_Entz	0
+03-07|P2_Entz.	0
+03-07|P2_Eschau	0
+03-07|P2_Fegersheim	0
+03-07|P2_Geispo	0
+03-07|P2_Hoenh	0
+03-07|P2_Holtzheim	0
+03-07|P2_Holztheim	0
+03-07|P2_LaWantz	0
+03-07|P2_Lampert	0
+03-07|P2_Lips	0
+03-07|P2_Mittel/Nieder	0
+03-07|P2_Mundo	0
+03-07|P2_Ober	0
+03-07|P2_Oberschaef.	0
+03-07|P2_Ostwald	0
+03-07|P2_Plobsheim	0
+03-07|P2_Reichstett	0
+03-07|P2_Souffel	0
+03-07|P2_Vend.	0
+03-07|P2_Wolfisheim	0
+03-07|PL.Bouchers (POM)->775	127
+03-07|Paul Dopf -> Canonniers	167
+03-07|Paul Dopf -> Orbey	138
+03-07|Petit Rhin->	185
+03-07|Petit Rhin->Rhin Napol??on	170
+03-07|Petite Rue des Magasins	209
+03-07|Pl. Etoile -> Contournemend Sud	314
+03-07|Pl.Bouchers->F.Eberts	144
+03-07|Pl.Etoile -> Rte du Rhin	40
+03-07|Pl.Haguenau (Brumath)->Sortie Autoroute	262
+03-07|Place de la Gare -> Bld de Nancy	308
+03-07|Plaine des Bouchers -> Rue Humann	272
+03-07|Plaine des Bouchers -> Rue du Doubs	234
+03-07|Plaine des Bouchers->F??d??ration	237
+03-07|Plaine des Bouchers->Montagne-Verte	354
+03-07|Pont Lixenbuhl->Rhin	43
+03-07|Pont Lixenbuhl->Rue d'Alsace	65
+03-07|Pont Matthis -> Rue Humann	197
+03-07|Pont Matthis -> Rue de Molsheim	311
+03-07|Pont Vauban 688-689	439
+03-07|Pont Vauban 689-688	774
+03-07|Pont d'Anvers -> Allemagne	224
+03-07|Pont d'Anvers -> Place de Kehl	263
+03-07|Pont d'Ostwald -> Lingolsheim	133
+03-07|Pont de l'Europe -> Allemagne	462
+03-07|Pont de l'Europe -> Rte du Rhin	869
+03-07|Pont du Danube -> Quai des Alpes	359
+03-07|Pont du Danube->Rte du Rhin	346
+03-07|Quai Frey 201-345	0
+03-07|Quai Kl??ber	26
+03-07|Quai Pasteur vers Pont Pasteur	324
+03-07|Quai Pasteur vers Quai Fustel	329
+03-07|Quai St.Nicolas -> Finkwiller	0
+03-07|Quai St.Nicolas -> Quai des P??cheurs	184
+03-07|Quai des P??cheurs -> Pont Royal	0
+03-07|Quai des P??cheurs -> Rue de Zurich	0
+03-07|RD1083 1081->1084	0
+03-07|RD1083 1084->1087	0
+03-07|RD1083 1087->Schaal	0
+03-07|RD1083 Achard-1087	0
+03-07|RD1083 Lilly->1081	0
+03-07|RD1083 Schaal-Mont??e A35	0
+03-07|RD1083->A35	0
+03-07|RD37 5015-952	0
+03-07|RD37 952-5015	0
+03-07|RD45 381-390	0
+03-07|RD45 390-381	0
+03-07|RD468->Baggersee	0
+03-07|RD468->Illkirch	0
+03-07|RD563 5008-5010	0
+03-07|RD563 5010-5008	0
+03-07|RD63 5008-5009	0
+03-07|RD63 5009-5008	0
+03-07|RD63 5011-822	0
+03-07|RD63 5012-822	0
+03-07|RD63 822-5011	0
+03-07|RD63 822-5012	0
+03-07|RD63 Holtzheim->Wolfisheim	0
+03-07|RD63 Wolfisheim->Holtzheim	0
+03-07|RN353 Pont Pflimlin-Eschau	0
+03-07|RP Cronenbourg->G.Wodli	126
+03-07|Republique->Bischheim	155
+03-07|Republique->Souffelweyersheim	134
+03-07|Rhin 233-687	427
+03-07|Rhin 687-233	834
+03-07|Rhin 687-688	439
+03-07|Rhin 688-687	774
+03-07|Rhin 689-696	349
+03-07|Rhin 696-689	650
+03-07|Rhin Napol??on -> Rue du Havre	88
+03-07|Rhin Napol??on->Rte du Rhin	163
+03-07|Rhin Tortu->Abb?? Ep??e	124
+03-07|Ribeauville (Orbey) -> Bale	32
+03-07|Rieth->Hochfelden	84
+03-07|Rieth->Lavoisier	117
+03-07|Rieth->Mittelhausbergen	66
+03-07|Rivage -> Ile des Pecheurs	6
+03-07|Rivage -> Melezes	14
+03-07|Romains (Constantin)->Eckbolsheim	173
+03-07|Romains-A35	0
+03-07|Route du Polygone -> Neudorf	156
+03-07|Route du Polygone -> Pl. de l'Etoile	196
+03-07|Rte Bischwiller (1241->961)	174
+03-07|Rte Brumath (Industrie)->Vendenheim	72
+03-07|Rte Brumath (Mundolsheim)->Industrie	99
+03-07|Rte Hausbergen -> Becquerel	47
+03-07|Rte Mittelhausbergen (Jacob)->Rotonde	147
+03-07|Rte Mittelhausbergen (Rotonde)->Jacob	166
+03-07|Rte Neuhof->Illkirch	257
+03-07|Rte Romains (Constantin)->Ville	107
+03-07|Rte d'Altenheim vers Av. du Neuhof	67
+03-07|Rte d'Altenheim vers Stockfeld	65
+03-07|Rte d'Oberhausbergen vers Centre Ville	0
+03-07|Rte d'Oberhausbergen vers Oberhausberge	0
+03-07|Rte d'Oberhausbergen vers Rotonde	340
+03-07|Rte de Bischwiller (961->1241)	278
+03-07|Rte de Bischwiller (Mairie)->Bischheim	244
+03-07|Rte de Bischwiller (Principale)->Mairie	275
+03-07|Rte de Bischwiller 1250-952	0
+03-07|Rte de Bischwiller 952-1250	0
+03-07|Rte de Brumath 5013-5014	0
+03-07|Rte de Brumath 5014-5013	0
+03-07|Rte de Brumath 6144-926	0
+03-07|Rte de Brumath 926-5013	0
+03-07|Rte de Brumath vers Schiltigheim	208
+03-07|Rte de Brumath vers souffelweyersheim	109
+03-07|Rte de Hausbergen (Becquerel)->Mittel	61
+03-07|Rte de Hausbergen(Becquerel)->Charme	83
+03-07|Rte de Hausbergen(Charme)->Becquerel	100
+03-07|Rte de La Wantzenau->Reichstett	110
+03-07|Rte de La Wantzenau->Rte de Bischwiller	111
+03-07|Rte de Lyon (Baumann)->Industrie	225
+03-07|Rte de Lyon (Industrie)->Baumann	211
+03-07|Rte de Lyon (Mairie) -> Strasbourg	80
+03-07|Rte de Lyon (Mairie)->Pont du P??age	91
+03-07|Rte de Lyon(Gast)->23 Novembre	72
+03-07|Rte de Lyon(Gast)->Glaciere	99
+03-07|Rte de Mittelhausbergen vers Mittel.	104
+03-07|Rte de Mittelhausbergen versStrasbourg	88
+03-07|Rte de Strasbourg -> Colonne	244
+03-07|Rte de Strasbourg 923-926	0
+03-07|Rte de Strasbourg 923-929	0
+03-07|Rte de Strasbourg 925-929	0
+03-07|Rte de Strasbourg 926-923	0
+03-07|Rte de Strasbourg 929-923	0
+03-07|Rte de Strasbourg 929-925	0
+03-07|Rte de Strasbourg vers Illkirch	302
+03-07|Rte de Strasbourg vers Meinau	258
+03-07|Rte de Strasbourg->Baggersee	189
+03-07|Rte de l'H??pital -> Pont Adenauer	822
+03-07|Rte de l'H??pital->Av. Colmar	0
+03-07|Rte de l'Hopital -> H??tel de Police	821
+03-07|Rte de l'Hopital -> Quai Fustel	65
+03-07|Rte des Romains vers Eckbolsheim	188
+03-07|Rte des Romains vers Place Blanche	153
+03-07|Rte des Romains->Rue de Koenigshoffen	514
+03-07|Rte du Neuhof -> Neuhof	64
+03-07|Rte du Neuhof->Rte de Strasbourg	61
+03-07|Rte du Neuhof->Schuhansen	297
+03-07|Rte du Rhin (Danube)->Churchill	904
+03-07|Rte du Rhin (UGC)->Allemagne	776
+03-07|Rte du Rhin (UGC)->Ville	1028
+03-07|Rte du Rhin (av.233)->Allemagne	814
+03-07|Rte du Rhin->Contournement Sud	1010
+03-07|Rue  prinicipale 820-818	0
+03-07|Rue Alfred Kastler -> Baggersee	286
+03-07|Rue Alfred Kastler -> Illkirch	320
+03-07|Rue Boecklin -> Centre Ville	52
+03-07|Rue Boecklin->Rte de La Wantzenau	72
+03-07|Rue E.Bugatti -> Lingolsheim	205
+03-07|Rue E.Bugatti -> Vigie	100
+03-07|Rue E.Michelet -> Quai des Alpes	122
+03-07|Rue E.Michelet -> Rte du Rhin	214
+03-07|Rue Edmond Labb?? -> Bld de la Victoire	78
+03-07|Rue Edmond Labb??->Rue P.Montet	60
+03-07|Rue F.Epailly 696-697	349
+03-07|Rue F.Epailly 697-696	650
+03-07|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	132
+03-07|Rue J.Wenger-Valentin vers Schiltigheim	128
+03-07|Rue Jacques Kabl?? vers Place de Bordea	87
+03-07|Rue Jacques Kabl?? vers Place de Haguen	73
+03-07|Rue Lixenbuhl ->Vincent Scotto	31
+03-07|Rue Lixenbuhl->Rue d'Alsace	49
+03-07|Rue Ohmacht vers All??e de la Robertsau	174
+03-07|Rue Ohmacht vers Place de Bordeaux	163
+03-07|Rue Principale 818-820	0
+03-07|Rue Vauban vers Bld de la Victoire	32
+03-07|Rue Vauban vers Place de Kehl	36
+03-07|Rue d'Obernai	236
+03-07|Rue d'Ostwald vers Elmerforst	112
+03-07|Rue d'Ostwald vers Rue des Pr??s	140
+03-07|Rue de Copenhague -> E.E.E.	35
+03-07|Rue de Copenhague->Hausbergen	36
+03-07|Rue de Fouday	203
+03-07|Rue de Geispolsheim -> Rue des Vosges	79
+03-07|Rue de Geispolsheim -> Vigie	43
+03-07|Rue de Holtzheim->Holtzheim	51
+03-07|Rue de Holtzheim->Lingolsheim	48
+03-07|Rue de Koenigshoffen->Charmille	0
+03-07|Rue de Lingolsheim -> Eckbolsheim	154
+03-07|Rue de Lubeck->Pl. Henri Levy	7
+03-07|Rue de Lubeck->Rue du Port du Rhin	36
+03-07|Rue de Molsheim	242
+03-07|Rue de Paris	0
+03-07|Rue de Paris 957-958	0
+03-07|Rue de Ribeauvill?? vers rue d'Orbey	68
+03-07|Rue de Rome -> Esplanade	145
+03-07|Rue de Rome -> Krutenau	120
+03-07|Rue de Strasbourg ->C.820	0
+03-07|Rue de Strasbourg->Niederh.	0
+03-07|Rue de Vienne -> Pont d'Austerlitz	513
+03-07|Rue de Wasselonne	362
+03-07|Rue de l'Eglise Rouge -> Schiltigheim	62
+03-07|Rue de l'Eglise Rouge->J. Kabl??	37
+03-07|Rue de l'Ill -> Papeterie	259
+03-07|Rue de l'Ill -> Pont Phario	268
+03-07|Rue de l'Industrie (Travail)-> Rhin	63
+03-07|Rue de l'Industrie -> Lixenbuhl	69
+03-07|Rue de l'Industrie(Rhin)->Travail	45
+03-07|Rue de l'Industrie->Rte de Lyon	51
+03-07|Rue de la C??te-Mittel	0
+03-07|Rue de la Mairie->Rte de Bischwiller	142
+03-07|Rue de la Mairie->Rue Principale	50
+03-07|Rue de la Porte de l'H??pital	386
+03-07|Rue de la Rivi??re-> Rte de Schirmeck	105
+03-07|Rue de la Robertsau -> Ch.Bock	126
+03-07|Rue de la Robertsau ->Pont Phario	96
+03-07|Rue des Serruriers	94
+03-07|Rue du 23 Novembre -> Ostwald	174
+03-07|Rue du Doubs -> Fr??res Eberts	208
+03-07|Rue du Doubs -> Plaine des Bouchers	231
+03-07|Rue du Fbg de Pierre->Nu??e Bleue	103
+03-07|Rue du Gal Leclerc vers Centre Ostwald	75
+03-07|Rue du Gal Leclerc vers Strasbourg	127
+03-07|Rue du Gal Offenstein -> Pfister	119
+03-07|Rue du Gal Offenstein vers Av.Colmar	113
+03-07|Rue du Gal de Gaulle 5015-956	0
+03-07|Rue du Gal de Gaulle 956-5015	0
+03-07|Rue du Gal de Gaulle 956-957	0
+03-07|Rue du Gal de Gaulle 957-956	0
+03-07|Rue du Gal de Gaulle vers Bischheim	194
+03-07|Rue du Gal de Gaulle vers Strasbourg	175
+03-07|Rue du Landsberg vers Av.Jean Jaur??s	176
+03-07|Rue du Landsberg vers Rte du Rhin	116
+03-07|Rue du Mal Foch -> Illkirch	41
+03-07|Rue du Mal Foch -> Lingolsheim	155
+03-07|Rue du Mal Foch -> Mairie d'Ostwald	63
+03-07|Rue du Mal Foch -> Strasbourg	223
+03-07|Rue du Marais (Bretagne)->Pont Phario	269
+03-07|Rue du Marais (Phario) -> Zorn	218
+03-07|Rue du Marais (Phario)->Gal De Gaulle	154
+03-07|Rue du Marais ->Gal de Gaulle	108
+03-07|Rue du Marais(De Gaulle)->La Wantzenau	101
+03-07|Rue du Marais(De Gaulle)->Pont Phario	152
+03-07|Rue du Rempart -> Cronenbourg	52
+03-07|Rue du Rempart->Koenigshoffen	64
+03-07|Rue du Rhin Tortu vers Gal Offenstein	115
+03-07|Rue du Rhin Tortu vers Neuhof	122
+03-07|Ruer de Lingolsheim->Ostwald	102
+03-07|Schirmeck1 - Entree Ville	0
+03-07|Schirmeck10 - Sortie Ville	0
+03-07|Schirmeck11 - Entree Ville	0
+03-07|Schirmeck12 - Sortie Ville	535
+03-07|Schirmeck13 - Entree Ville	0
+03-07|Schirmeck14 - Sortie Ville	576
+03-07|Schirmeck15 - Entree Ville	418
+03-07|Schirmeck16 - Sortie Ville	0
+03-07|Schirmeck17 - Entree Ville	0
+03-07|Schirmeck18 - Sortie Ville	253
+03-07|Schirmeck2 - Sortie Ville	0
+03-07|Schirmeck3 - Entree Ville	291
+03-07|Schirmeck4 - Sortie Ville	322
+03-07|Schirmeck5 - Entree Ville	397
+03-07|Schirmeck6 - Sortie Ville	0
+03-07|Schirmeck7 - Entree Ville	0
+03-07|Schirmeck8 - Sortie Ville	594
+03-07|Schirmeck9 - Entree Ville	442
+03-07|Schuhansen->Ganzau	237
+03-07|Sortie A 351	461
+03-07|Sortie A35 -> Baggersee	606
+03-07|Sortie A35->G.Wodli	154
+03-07|Sortie A351 -> Herrenschmidt	636
+03-07|Sortie Autoroute Elsau	286
+03-07|Sortie Autoroute Rue Montagne-Verte	66
+03-07|Sortie Autoroute Rue de Saales	123
+03-07|Sortie Eglise Rouge->J. Kabl??	284
+03-07|Sortie Geispo Gare-> Lingo	0
+03-07|Sortie Lingo -> Entzheim	90
+03-07|Sortie Rte du Rhin -> Pl.Etoile	99
+03-07|Sortie Tunnel -> Allemagne	696
+03-07|St.Jean	103
+03-07|Tanneurs	0
+03-07|Tour Verte -> Nord	359
+03-07|Tour Verte -> Sud	0
+03-07|Wasselonne->Eckbo	100
+03-07|Wasselonne->Romains	140
+03-07|Wolfisheim 5008-871	0
+03-07|Wolfisheim 871-5008	0
+03-07|Zurich 218-444	0
+03-07|canal 379-380	0
+03-07|canal 379-382	0
+03-07|canal 380-379	0
+03-07|canal 382-379	0
+03-07|cora-lampertheim	0
+03-07|de gaulle 360-381	0
+03-07|de gaulle 381-360	0
+03-07|de gaulle 818-871	0
+03-07|de gaulle 871-818	0
+03-07|graffenstaden 1179-5018	0
+03-07|graffenstaden 1179-5019	0
+03-07|graffenstaden 5016-5017	0
+03-07|graffenstaden 5017-5018	0
+03-07|graffenstaden 5018-1179	0
+03-07|graffenstaden 5018-5017	0
+03-07|graffenstaden 5019-1179	0
+03-07|gtraffenstaden 5017-5016	0
+03-07|havre 5004-627	0
+03-07|havre 627-5004	0
+03-07|havre 627-688	0
+03-07|havre 688-627	0
+03-07|juifs 1173-5019	0
+03-07|juifs 5019-1173	0
+03-07|lampertheim-cora	0
+03-07|lampertheim-mundo	0
+03-07|leclerc 381-384	0
+03-07|leclerc 382-384	0
+03-07|leclerc 384-382	0
+03-07|mundo-lampertheim	0
+03-07|ober 386-381	0
+03-07|ober_5000	0
+03-07|ober_5001	0
+03-07|ober_5002	0
+03-07|ober_5003	0
+03-07|p2_Souffel	0
+03-07|rochelle 0670-5007	0
+03-07|rochelle 5004-5005	0
+03-07|rochelle 5005-5004	0
+03-07|rochelle 5005-5006	0
+03-07|rochelle 5006-5005	0
+03-07|rochelle 5006-670	0
+03-07|rochelle 5007-0670	0
+03-07|rochelle 670-5006	0
+03-07|rue de koenigshoffen->Autoroute	351
+03-07|seigneurs_5004	0
+03-07|seigneurs_5005	0
+03-07|seigneurs_5006	0
+03-07|seigneurs_5007	0
+03-07|seigneurs_5008	0
+03-07|seigneurs_5009	0
+03-07|sortie autoroute rue de koenigshoffen	309
+03-08|23 Novembre -> Rte de Lyon	12499
+03-08|A35 A351-S	0
+03-08|A35 Baggersee-Schirmeck	0
+03-08|A35 Baggersee-Vigie	0
+03-08|A35 Duppigheim-Entzheim	0
+03-08|A35 Ech.Schirmeck N-S	0
+03-08|A35 Entzheim-Duppigheim	0
+03-08|A35 Entzheim-Vigie	0
+03-08|A35 N-S PC Gutenberg	0
+03-08|A35 N-S Sortie Halles	0
+03-08|A35 S-N A350	0
+03-08|A35 S-N Sortie Cronenbourg	0
+03-08|A35 Schirmeck-A351 S-N	0
+03-08|A35 Schirmeck-A351 S-N2	0
+03-08|A35 Schirmeck-Baggersee	0
+03-08|A35 Vigie N-S	0
+03-08|A35 Vigie S-N	0
+03-08|A35 Vigie-Baggersee	0
+03-08|A35 Vigie-Entzheim	0
+03-08|A35 sortie Vigie N-S	0
+03-08|A35->A351	0
+03-08|A35->RD1083	0
+03-08|A35-A350	0
+03-08|A35-A351 N-O	0
+03-08|A35-Pl.Blanche	0
+03-08|A35-Pl.Haguenau N-S	0
+03-08|A35-Pl.Haguenau S-N	0
+03-08|A350-> Sortie Kabl??	0
+03-08|A351 A35-Sortie Auchan	0
+03-08|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-08|A351 Leroy-A35	0
+03-08|A351 Sortie Auchan-Echangeur Wolfi	0
+03-08|A351-A35N	0
+03-08|A351-A35N2	0
+03-08|A351-A35S	0
+03-08|A351-Pl.Blanche	0
+03-08|A35A531-P.Schirmeck N-S	0
+03-08|A4 (Hoenheim) S-N	0
+03-08|A4 Hauteur TGv S-N	0
+03-08|A4 Hoenheim-> TGV	0
+03-08|A4 Hoenheim-Ech.Reichstett	0
+03-08|A4 N-S Cronenbourg	0
+03-08|A4 N-S Hoerdt Reichstett	0
+03-08|A4 N-S Reichstett	0
+03-08|A4 Reichstett->Hoenheim	0
+03-08|A4 S-N Cronenbourg	0
+03-08|A4 S-N Echangeur Reichstett	0
+03-08|A4 S-N Reichstett Hoerdt	0
+03-08|A4-Schiltigheim S-N	0
+03-08|A4-Schitigheim N-S	0
+03-08|Abbe de l'Epee -> Rhin Tortu	6932
+03-08|Abbe de l'Epee->Rte du Neuhof	6803
+03-08|Acc??s A351 S	0
+03-08|Alcide de Gasperi -> Lingo	12016
+03-08|All??e Droits de l'Homme->Orangerie	10349
+03-08|All??e Droits de l'Homme->Robertsau	9929
+03-08|All??e J.Auriol-> Mermoz	821
+03-08|All??e J.Auriol->Av.Neuhof	1329
+03-08|All??e de la Robertsau -> Bld Tauler	11959
+03-08|All??e de la Robertsau -> Place Brant	14451
+03-08|Alpes (ap.Churchill) -> Robertsau	9916
+03-08|Alpes (ap.Churchill)->Etoile	9113
+03-08|Alpes(av.Churchill)->Etoile	9099
+03-08|Alpes(av.Churchill)->Robertsau	10489
+03-08|Av. Colmar (Mulhouse) vers Centre ville	8911
+03-08|Av. Colmar (Racing) vers Centre Ville	13186
+03-08|Av. Herrenschmidt vers A350	12093
+03-08|Av. Herrenschmidt vers Place de Bordeau	10916
+03-08|Av. Jean-Jaur??s -> Neudorf	7461
+03-08|Av. Jean-Jaur??s -> Place de l'Etoile	6801
+03-08|Av. d'Alsace vers Place Brant	20260
+03-08|Av. de la Paix vers Av. des Vosges	2862
+03-08|Av. des Vosges vers Place de Haguenau	20641
+03-08|Av. du Gal de Gaulle -> Esplanade	7475
+03-08|Av. du Neuhof vers Stockfeld	9030
+03-08|Av. du Neuhof vers rte du Polygone	9277
+03-08|Av.A.Briand -> Av. Jean Jaur??s	7397
+03-08|Av.A.Briand -> Rte du Rhin	6631
+03-08|Av.Colmar (Racing) vers Illkirch	10529
+03-08|Av.For??t-Noire->Bld d'Anvers	11980
+03-08|Av.For??t-Noire->PL.Brant	13472
+03-08|Av.Gal de Gaulle -> Bld de la Victoire	8981
+03-08|Av.Jean Jaur??s vers Rue du Landsberg	7116
+03-08|Av.Jean Jaures->Av.A.Briand	6475
+03-08|Av.Mendes France (Contades)->Tribunal	17698
+03-08|Av.Mendes France->Contades	24070
+03-08|Av.Schuman -> Mal Foch	12519
+03-08|Av.Schumann-> Sports	12116
+03-08|Av.Schutzenberger vers Pl. A.Zeller	1855
+03-08|Av.Schutzenberger vers Pl. Bordeaux	1822
+03-08|Av.d'Alsace vers Av. des Vosges	24573
+03-08|Av.de la Libert?? vers Pl. Universit??	3614
+03-08|Av.de la Libert?? vers Pl.R??publique	5874
+03-08|Av.de la Paix vers Place de Bordeaux	4391
+03-08|Av.des Voges vers Av. For??t-Noire	16429
+03-08|Avenue Moli??re -> Rue Paul Val??ry	9609
+03-08|Barreau L.I.P.-> Rhin Napol??on	25517
+03-08|Barreau L.I.P.->Allemagne	24310
+03-08|Bld Anvers (532)->Bld de la Marne	6633
+03-08|Bld Cl??menceau vers Av. de la Paix	4026
+03-08|Bld Clemenceau vers Av. des Vosges	9071
+03-08|Bld Leblois -> Bld de la Marne	8338
+03-08|Bld Leblois -> Bld de la Victoire	10332
+03-08|Bld Lyon (Obernai) -> Rue de Molsheim	17708
+03-08|Bld Pierre Pflimlin -> Robertsau	9928
+03-08|Bld Pierre Pflimlin -> Wacken	11489
+03-08|Bld Victoire (Fritz Kiener->Universit??)	3362
+03-08|Bld Victoire (Universit??->Grandidier)	4441
+03-08|Bld Wilson -> Place de la Gare	12481
+03-08|Bld Wilson vers Fbg de Saverne	15002
+03-08|Bld d'Anvers (532)->Pont d'Anvers	4910
+03-08|Bld de Dresde vers Pl.A.Zeller	11666
+03-08|Bld de Dresde vers Robertsau	10141
+03-08|Bld de Lyon (Saales) -> Rue de Molsheim	20548
+03-08|Bld de Lyon -> Rue d'Obernai	18895
+03-08|Bourse 206-207	0
+03-08|Bourse 207-206	0
+03-08|Calmette->A351	15978
+03-08|Calmette->CHU	19728
+03-08|Centre Administratif -> Bourse	0
+03-08|Centre Administratif -> Neudorf	4201
+03-08|Contournement Sud->A35	0
+03-08|Cyclistes Rue de Vienne -> Centre	4627
+03-08|Cyclistes Rue de Vienne -> Neudorf	4214
+03-08|D84 Geispo 5202-5204	0
+03-08|D84 entr??e Geispo	0
+03-08|D84 sortie Geispo Gare	0
+03-08|D84->Geispo Gare	0
+03-08|Descente Autoroute Place de Haguenau	22736
+03-08|Descente Contournement Sud Rte Hopital	33432
+03-08|Descente contournement Sud Pl.Etoile	13558
+03-08|Division Leclerc	5960
+03-08|E.Rostand-> A351	19623
+03-08|E.Rostand->av.Corneille	9927
+03-08|Echangeur Baggersee A35 N-S	0
+03-08|Echangeur Baggersee A35 S-N	0
+03-08|Elmerforst (1101)->1190	2313
+03-08|Elmerforst (1190)->1101	2432
+03-08|Entr??e Geispo Gare cot?? Lingo	0
+03-08|Entree Lingo	9401
+03-08|Faubourg de Saverne vers Bld Wilson	7598
+03-08|Faubourg de Saverne vers Pont de Savern	2318
+03-08|Fbg de Pierre -> Cl??menceau	7584
+03-08|Federation->Colmar	4100
+03-08|Federation->Pl.Bouchers	4855
+03-08|Finkwiller Humann 345-341	0
+03-08|Fustel 206-221	0
+03-08|Fustel 221-206	0
+03-08|G.Wodli->Cronenbourg	25190
+03-08|Gal Offenstein(Pfister)->Rhin Tortu	8912
+03-08|Gare 311-312	0
+03-08|Gare 312-311	0
+03-08|Geispo E-O1	0
+03-08|Geispo E-O2	0
+03-08|Geispo E-O3	0
+03-08|Geispo O-E1	0
+03-08|Geispo O-E2	0
+03-08|Geispo O-E3	0
+03-08|Hochfelden (837) ->Villette	4168
+03-08|Hochfelden (837)->centre ville	7707
+03-08|Humann 310-341	0
+03-08|Humann 341-301	0
+03-08|Humann-Finkwiller 341-345	0
+03-08|Ile des Pecheurs -> Rivage	1474
+03-08|Ile des Pecheurs->Gal Leclerc	1525
+03-08|J.P.Levy -> Alpes	6599
+03-08|J.P.Levy->Esplanade	5497
+03-08|Kastner -> Boecklin	10796
+03-08|Kastner -> Jacoutot	10989
+03-08|Koenig 207-217	0
+03-08|Koenig 217-207	0
+03-08|Koenigshoffen-A351 - 1	0
+03-08|Lausanne 217-218	0
+03-08|Lausanne 218-217	0
+03-08|Lavoisier->Langevin	2603
+03-08|Leclerc 384-381	0
+03-08|Lyon (P??cheurs) -> Geispolsheim	10247
+03-08|Lyon (P??cheurs)->Strasbourg	8500
+03-08|Lyon 301-302	0
+03-08|Lyon 302-301	0
+03-08|Lyon 304-302	0
+03-08|Lyon 307-308	0
+03-08|Lyon 308-307	0
+03-08|M.Verte -> PL.des Bouchers	28999
+03-08|M.Verte -> Unterelsau	16905
+03-08|Mal Foch (Thiriet) -> 23 Novembre	5826
+03-08|Mal Foch (Thiriet)->Ostwald	5974
+03-08|Mitterrand->P??guy	4158
+03-08|Mitterrand->Wasselonne	4566
+03-08|Mont??e A35 Baggersee	41453
+03-08|Mont??e A350 Herrenschmidt	46456
+03-08|Montagne-Verte21	8323
+03-08|Montagne-Verte3 -> Nord	20957
+03-08|Montagne-Verte4 -> Sud	0
+03-08|Montagne-Verte5 -> Nord	0
+03-08|Montagne-Verte6 -> Sud	14733
+03-08|Montee Contournement Sud (H??pital)	29979
+03-08|N353 Eschau-Lilly	0
+03-08|N353 Eschau-Pont Pflimlin	0
+03-08|N353 Lilly-Eschau	0
+03-08|N4-A35 E-N	0
+03-08|N4-A35 E-S	0
+03-08|Ostwald1 -> Sud	0
+03-08|Ostwald2 -> Nord	0
+03-08|Ostwald3 -> Sud	6701
+03-08|Ostwald40 -> Nord	6807
+03-08|P1 - Breusch	0
+03-08|P1 - Eckbo	0
+03-08|P1 - Eckw	0
+03-08|P1 - Hang	0
+03-08|P1 - Kolb	0
+03-08|P1 - Osth	0
+03-08|P1 RD Bleu	0
+03-08|P1 RD Orange	0
+03-08|P1 RD Rouge	0
+03-08|P1 RD Vert	0
+03-08|P1-Entzheim	0
+03-08|P1-Eschau	0
+03-08|P1-Feg	0
+03-08|P1-Geispo	0
+03-08|P1-Hoenheim	0
+03-08|P1-Holtzheim	0
+03-08|P1-LaWantz	0
+03-08|P1-Lamp	0
+03-08|P1-Lingo	0
+03-08|P1-Lipsheim	0
+03-08|P1-Mittel/Nieder	0
+03-08|P1-Mundo	0
+03-08|P1-Ober	0
+03-08|P1-Obers	0
+03-08|P1-Plobsheim	0
+03-08|P1-Reichstett	0
+03-08|P1-Schiltigheim	0
+03-08|P1-Souffel	0
+03-08|P1-Vendenheim	0
+03-08|P1-Wolfi	0
+03-08|P1C1	0
+03-08|P1C2	0
+03-08|P1C3	0
+03-08|P1C4	0
+03-08|P1C5	0
+03-08|P1_Achenheim	0
+03-08|P1_Bischheim	0
+03-08|P1_Blaesheim	0
+03-08|P1_Entzheim	0
+03-08|P1_Hoenheim	0
+03-08|P1_LaWantz	0
+03-08|P2 - Bischheim	0
+03-08|P2 - Blaesheim	0
+03-08|P2 - Breusch	0
+03-08|P2 - Eckbo	0
+03-08|P2 - Hang	0
+03-08|P2 - Kolb	0
+03-08|P2 - Lingo	0
+03-08|P2 - Osth	0
+03-08|P2 - Ostwald	0
+03-08|P2 - Schilig	0
+03-08|P2-C4	0
+03-08|P2-Hoenheim	0
+03-08|P2-Lingo	0
+03-08|P2-Ostwald	0
+03-08|P2-Schilig	0
+03-08|P2C1	0
+03-08|P2C10	0
+03-08|P2C11	0
+03-08|P2C12	0
+03-08|P2C2	0
+03-08|P2C3	0
+03-08|P2C4	0
+03-08|P2C5	0
+03-08|P2C6	0
+03-08|P2C7	0
+03-08|P2C8	0
+03-08|P2_Achenheim	0
+03-08|P2_Blaesheim	0
+03-08|P2_Eckbo	0
+03-08|P2_Eckw.	0
+03-08|P2_Entz	0
+03-08|P2_Entz.	0
+03-08|P2_Eschau	0
+03-08|P2_Fegersheim	0
+03-08|P2_Geispo	0
+03-08|P2_Hoenh	0
+03-08|P2_Holtzheim	0
+03-08|P2_Holztheim	0
+03-08|P2_LaWantz	0
+03-08|P2_Lampert	0
+03-08|P2_Lips	0
+03-08|P2_Mittel/Nieder	0
+03-08|P2_Mundo	0
+03-08|P2_Ober	0
+03-08|P2_Oberschaef.	0
+03-08|P2_Ostwald	0
+03-08|P2_Plobsheim	0
+03-08|P2_Reichstett	0
+03-08|P2_Souffel	0
+03-08|P2_Vend.	0
+03-08|P2_Wolfisheim	0
+03-08|PL.Bouchers (POM)->775	7936
+03-08|Paul Dopf -> Canonniers	8311
+03-08|Paul Dopf -> Orbey	7775
+03-08|Petit Rhin->	14022
+03-08|Petit Rhin->Rhin Napol??on	15814
+03-08|Petite Rue des Magasins	17672
+03-08|Pl. Etoile -> Contournemend Sud	15785
+03-08|Pl.Bouchers->F.Eberts	10851
+03-08|Pl.Etoile -> Rte du Rhin	3074
+03-08|Pl.Haguenau (Brumath)->Sortie Autoroute	14749
+03-08|Place de la Gare -> Bld de Nancy	14229
+03-08|Plaine des Bouchers -> Rue Humann	13046
+03-08|Plaine des Bouchers -> Rue du Doubs	9271
+03-08|Plaine des Bouchers->F??d??ration	20678
+03-08|Plaine des Bouchers->Montagne-Verte	19574
+03-08|Pont Lixenbuhl->Rhin	5477
+03-08|Pont Lixenbuhl->Rue d'Alsace	4638
+03-08|Pont Matthis -> Rue Humann	13468
+03-08|Pont Matthis -> Rue de Molsheim	10945
+03-08|Pont Vauban 688-689	25628
+03-08|Pont Vauban 689-688	26380
+03-08|Pont d'Anvers -> Allemagne	15776
+03-08|Pont d'Anvers -> Place de Kehl	14305
+03-08|Pont d'Ostwald -> Lingolsheim	8241
+03-08|Pont de l'Europe -> Allemagne	30313
+03-08|Pont de l'Europe -> Rte du Rhin	29935
+03-08|Pont du Danube -> Quai des Alpes	16704
+03-08|Pont du Danube->Rte du Rhin	13973
+03-08|Quai Frey 201-345	0
+03-08|Quai Kl??ber	1963
+03-08|Quai Pasteur vers Pont Pasteur	11698
+03-08|Quai Pasteur vers Quai Fustel	12214
+03-08|Quai St.Nicolas -> Finkwiller	0
+03-08|Quai St.Nicolas -> Quai des P??cheurs	4493
+03-08|Quai des P??cheurs -> Pont Royal	0
+03-08|Quai des P??cheurs -> Rue de Zurich	0
+03-08|RD1083 1081->1084	0
+03-08|RD1083 1084->1087	0
+03-08|RD1083 1087->Schaal	0
+03-08|RD1083 Achard-1087	0
+03-08|RD1083 Lilly->1081	0
+03-08|RD1083 Schaal-Mont??e A35	0
+03-08|RD1083->A35	0
+03-08|RD37 5015-952	0
+03-08|RD37 952-5015	0
+03-08|RD45 381-390	0
+03-08|RD45 390-381	0
+03-08|RD468->Baggersee	0
+03-08|RD468->Illkirch	0
+03-08|RD563 5008-5010	0
+03-08|RD563 5010-5008	0
+03-08|RD63 5008-5009	0
+03-08|RD63 5009-5008	0
+03-08|RD63 5011-822	0
+03-08|RD63 5012-822	0
+03-08|RD63 822-5011	0
+03-08|RD63 822-5012	0
+03-08|RD63 Holtzheim->Wolfisheim	0
+03-08|RD63 Wolfisheim->Holtzheim	0
+03-08|RN353 Pont Pflimlin-Eschau	0
+03-08|RP Cronenbourg->G.Wodli	9501
+03-08|Republique->Bischheim	10313
+03-08|Republique->Souffelweyersheim	9196
+03-08|Rhin 233-687	23549
+03-08|Rhin 687-233	29425
+03-08|Rhin 687-688	25628
+03-08|Rhin 688-687	26380
+03-08|Rhin 689-696	19809
+03-08|Rhin 696-689	20650
+03-08|Rhin Napol??on -> Rue du Havre	11823
+03-08|Rhin Napol??on->Rte du Rhin	11777
+03-08|Rhin Tortu->Abb?? Ep??e	9881
+03-08|Ribeauville (Orbey) -> Bale	1109
+03-08|Rieth->Hochfelden	6271
+03-08|Rieth->Lavoisier	5175
+03-08|Rieth->Mittelhausbergen	3458
+03-08|Rivage -> Ile des Pecheurs	904
+03-08|Rivage -> Melezes	907
+03-08|Romains (Constantin)->Eckbolsheim	9258
+03-08|Romains-A35	0
+03-08|Route du Polygone -> Neudorf	6793
+03-08|Route du Polygone -> Pl. de l'Etoile	9787
+03-08|Rte Bischwiller (1241->961)	8991
+03-08|Rte Brumath (Industrie)->Vendenheim	14003
+03-08|Rte Brumath (Mundolsheim)->Industrie	15188
+03-08|Rte Hausbergen -> Becquerel	6455
+03-08|Rte Mittelhausbergen (Jacob)->Rotonde	9705
+03-08|Rte Mittelhausbergen (Rotonde)->Jacob	9261
+03-08|Rte Neuhof->Illkirch	19959
+03-08|Rte Romains (Constantin)->Ville	7655
+03-08|Rte d'Altenheim vers Av. du Neuhof	5391
+03-08|Rte d'Altenheim vers Stockfeld	5716
+03-08|Rte d'Oberhausbergen vers Centre Ville	0
+03-08|Rte d'Oberhausbergen vers Oberhausberge	0
+03-08|Rte d'Oberhausbergen vers Rotonde	19570
+03-08|Rte de Bischwiller (961->1241)	10375
+03-08|Rte de Bischwiller (Mairie)->Bischheim	10809
+03-08|Rte de Bischwiller (Principale)->Mairie	15309
+03-08|Rte de Bischwiller 1250-952	0
+03-08|Rte de Bischwiller 952-1250	0
+03-08|Rte de Brumath 5013-5014	0
+03-08|Rte de Brumath 5014-5013	0
+03-08|Rte de Brumath 6144-926	0
+03-08|Rte de Brumath 926-5013	0
+03-08|Rte de Brumath vers Schiltigheim	18820
+03-08|Rte de Brumath vers souffelweyersheim	8731
+03-08|Rte de Hausbergen (Becquerel)->Mittel	5208
+03-08|Rte de Hausbergen(Becquerel)->Charme	8882
+03-08|Rte de Hausbergen(Charme)->Becquerel	8436
+03-08|Rte de La Wantzenau->Reichstett	10996
+03-08|Rte de La Wantzenau->Rte de Bischwiller	9792
+03-08|Rte de Lyon (Baumann)->Industrie	12298
+03-08|Rte de Lyon (Industrie)->Baumann	12224
+03-08|Rte de Lyon (Mairie) -> Strasbourg	6916
+03-08|Rte de Lyon (Mairie)->Pont du P??age	6444
+03-08|Rte de Lyon(Gast)->23 Novembre	5325
+03-08|Rte de Lyon(Gast)->Glaciere	7692
+03-08|Rte de Mittelhausbergen vers Mittel.	8327
+03-08|Rte de Mittelhausbergen versStrasbourg	8469
+03-08|Rte de Strasbourg -> Colonne	14421
+03-08|Rte de Strasbourg 923-926	0
+03-08|Rte de Strasbourg 923-929	0
+03-08|Rte de Strasbourg 925-929	0
+03-08|Rte de Strasbourg 926-923	0
+03-08|Rte de Strasbourg 929-923	0
+03-08|Rte de Strasbourg 929-925	0
+03-08|Rte de Strasbourg vers Illkirch	19292
+03-08|Rte de Strasbourg vers Meinau	18993
+03-08|Rte de Strasbourg->Baggersee	11860
+03-08|Rte de l'H??pital -> Pont Adenauer	26419
+03-08|Rte de l'H??pital->Av. Colmar	0
+03-08|Rte de l'Hopital -> H??tel de Police	26567
+03-08|Rte de l'Hopital -> Quai Fustel	5926
+03-08|Rte des Romains vers Eckbolsheim	8933
+03-08|Rte des Romains vers Place Blanche	9865
+03-08|Rte des Romains->Rue de Koenigshoffen	31386
+03-08|Rte du Neuhof -> Neuhof	3786
+03-08|Rte du Neuhof->Rte de Strasbourg	4091
+03-08|Rte du Neuhof->Schuhansen	19227
+03-08|Rte du Rhin (Danube)->Churchill	35909
+03-08|Rte du Rhin (UGC)->Allemagne	43126
+03-08|Rte du Rhin (UGC)->Ville	43317
+03-08|Rte du Rhin (av.233)->Allemagne	45013
+03-08|Rte du Rhin->Contournement Sud	6867
+03-08|Rue  prinicipale 820-818	0
+03-08|Rue Alfred Kastler -> Baggersee	20387
+03-08|Rue Alfred Kastler -> Illkirch	18304
+03-08|Rue Boecklin -> Centre Ville	6295
+03-08|Rue Boecklin->Rte de La Wantzenau	6038
+03-08|Rue E.Bugatti -> Lingolsheim	9895
+03-08|Rue E.Bugatti -> Vigie	10944
+03-08|Rue E.Michelet -> Quai des Alpes	7539
+03-08|Rue E.Michelet -> Rte du Rhin	10298
+03-08|Rue Edmond Labb?? -> Bld de la Victoire	4004
+03-08|Rue Edmond Labb??->Rue P.Montet	2551
+03-08|Rue F.Epailly 696-697	19809
+03-08|Rue F.Epailly 697-696	20650
+03-08|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	8764
+03-08|Rue J.Wenger-Valentin vers Schiltigheim	12456
+03-08|Rue Jacques Kabl?? vers Place de Bordea	5403
+03-08|Rue Jacques Kabl?? vers Place de Haguen	4679
+03-08|Rue Lixenbuhl ->Vincent Scotto	3246
+03-08|Rue Lixenbuhl->Rue d'Alsace	3498
+03-08|Rue Ohmacht vers All??e de la Robertsau	13730
+03-08|Rue Ohmacht vers Place de Bordeaux	11724
+03-08|Rue Principale 818-820	0
+03-08|Rue Vauban vers Bld de la Victoire	1309
+03-08|Rue Vauban vers Place de Kehl	1846
+03-08|Rue d'Obernai	11478
+03-08|Rue d'Ostwald vers Elmerforst	7438
+03-08|Rue d'Ostwald vers Rue des Pr??s	6882
+03-08|Rue de Copenhague -> E.E.E.	5780
+03-08|Rue de Copenhague->Hausbergen	5094
+03-08|Rue de Fouday	7958
+03-08|Rue de Geispolsheim -> Rue des Vosges	4900
+03-08|Rue de Geispolsheim -> Vigie	3890
+03-08|Rue de Holtzheim->Holtzheim	4218
+03-08|Rue de Holtzheim->Lingolsheim	4733
+03-08|Rue de Koenigshoffen->Charmille	0
+03-08|Rue de Lingolsheim -> Eckbolsheim	11356
+03-08|Rue de Lubeck->Pl. Henri Levy	1256
+03-08|Rue de Lubeck->Rue du Port du Rhin	4561
+03-08|Rue de Molsheim	8122
+03-08|Rue de Paris	0
+03-08|Rue de Paris 957-958	0
+03-08|Rue de Ribeauvill?? vers rue d'Orbey	3933
+03-08|Rue de Rome -> Esplanade	5333
+03-08|Rue de Rome -> Krutenau	5424
+03-08|Rue de Strasbourg ->C.820	0
+03-08|Rue de Strasbourg->Niederh.	0
+03-08|Rue de Vienne -> Pont d'Austerlitz	23267
+03-08|Rue de Wasselonne	12167
+03-08|Rue de l'Eglise Rouge -> Schiltigheim	4233
+03-08|Rue de l'Eglise Rouge->J. Kabl??	2753
+03-08|Rue de l'Ill -> Papeterie	16600
+03-08|Rue de l'Ill -> Pont Phario	17611
+03-08|Rue de l'Industrie (Travail)-> Rhin	6155
+03-08|Rue de l'Industrie -> Lixenbuhl	7333
+03-08|Rue de l'Industrie(Rhin)->Travail	4366
+03-08|Rue de l'Industrie->Rte de Lyon	5958
+03-08|Rue de la C??te-Mittel	0
+03-08|Rue de la Mairie->Rte de Bischwiller	11836
+03-08|Rue de la Mairie->Rue Principale	7066
+03-08|Rue de la Porte de l'H??pital	13254
+03-08|Rue de la Rivi??re-> Rte de Schirmeck	3883
+03-08|Rue de la Robertsau -> Ch.Bock	7035
+03-08|Rue de la Robertsau ->Pont Phario	6242
+03-08|Rue des Serruriers	2708
+03-08|Rue du 23 Novembre -> Ostwald	16029
+03-08|Rue du Doubs -> Fr??res Eberts	11120
+03-08|Rue du Doubs -> Plaine des Bouchers	14014
+03-08|Rue du Fbg de Pierre->Nu??e Bleue	8162
+03-08|Rue du Gal Leclerc vers Centre Ostwald	6626
+03-08|Rue du Gal Leclerc vers Strasbourg	9137
+03-08|Rue du Gal Offenstein -> Pfister	7250
+03-08|Rue du Gal Offenstein vers Av.Colmar	7326
+03-08|Rue du Gal de Gaulle 5015-956	0
+03-08|Rue du Gal de Gaulle 956-5015	0
+03-08|Rue du Gal de Gaulle 956-957	0
+03-08|Rue du Gal de Gaulle 957-956	0
+03-08|Rue du Gal de Gaulle vers Bischheim	11540
+03-08|Rue du Gal de Gaulle vers Strasbourg	11900
+03-08|Rue du Landsberg vers Av.Jean Jaur??s	7953
+03-08|Rue du Landsberg vers Rte du Rhin	6791
+03-08|Rue du Mal Foch -> Illkirch	4207
+03-08|Rue du Mal Foch -> Lingolsheim	10516
+03-08|Rue du Mal Foch -> Mairie d'Ostwald	4875
+03-08|Rue du Mal Foch -> Strasbourg	10890
+03-08|Rue du Marais (Bretagne)->Pont Phario	15624
+03-08|Rue du Marais (Phario) -> Zorn	14859
+03-08|Rue du Marais (Phario)->Gal De Gaulle	12836
+03-08|Rue du Marais ->Gal de Gaulle	10777
+03-08|Rue du Marais(De Gaulle)->La Wantzenau	10083
+03-08|Rue du Marais(De Gaulle)->Pont Phario	13466
+03-08|Rue du Rempart -> Cronenbourg	3034
+03-08|Rue du Rempart->Koenigshoffen	4400
+03-08|Rue du Rhin Tortu vers Gal Offenstein	8669
+03-08|Rue du Rhin Tortu vers Neuhof	9094
+03-08|Ruer de Lingolsheim->Ostwald	9068
+03-08|Schirmeck1 - Entree Ville	0
+03-08|Schirmeck10 - Sortie Ville	0
+03-08|Schirmeck11 - Entree Ville	0
+03-08|Schirmeck12 - Sortie Ville	20082
+03-08|Schirmeck13 - Entree Ville	0
+03-08|Schirmeck14 - Sortie Ville	19112
+03-08|Schirmeck15 - Entree Ville	21219
+03-08|Schirmeck16 - Sortie Ville	0
+03-08|Schirmeck17 - Entree Ville	0
+03-08|Schirmeck18 - Sortie Ville	8354
+03-08|Schirmeck2 - Sortie Ville	0
+03-08|Schirmeck3 - Entree Ville	12022
+03-08|Schirmeck4 - Sortie Ville	12132
+03-08|Schirmeck5 - Entree Ville	20204
+03-08|Schirmeck6 - Sortie Ville	0
+03-08|Schirmeck7 - Entree Ville	0
+03-08|Schirmeck8 - Sortie Ville	20121
+03-08|Schirmeck9 - Entree Ville	23007
+03-08|Schuhansen->Ganzau	14828
+03-08|Sortie A 351	26610
+03-08|Sortie A35 -> Baggersee	43161
+03-08|Sortie A35->G.Wodli	14431
+03-08|Sortie A351 -> Herrenschmidt	37131
+03-08|Sortie Autoroute Elsau	23179
+03-08|Sortie Autoroute Rue Montagne-Verte	5902
+03-08|Sortie Autoroute Rue de Saales	10653
+03-08|Sortie Eglise Rouge->J. Kabl??	18157
+03-08|Sortie Geispo Gare-> Lingo	0
+03-08|Sortie Lingo -> Entzheim	7445
+03-08|Sortie Rte du Rhin -> Pl.Etoile	4145
+03-08|Sortie Tunnel -> Allemagne	9337
+03-08|St.Jean	5871
+03-08|Tanneurs	0
+03-08|Tour Verte -> Nord	12569
+03-08|Tour Verte -> Sud	0
+03-08|Wasselonne->Eckbo	7631
+03-08|Wasselonne->Romains	7806
+03-08|Wolfisheim 5008-871	0
+03-08|Wolfisheim 871-5008	0
+03-08|Zurich 218-444	0
+03-08|canal 379-380	0
+03-08|canal 379-382	0
+03-08|canal 380-379	0
+03-08|canal 382-379	0
+03-08|cora-lampertheim	0
+03-08|de gaulle 360-381	0
+03-08|de gaulle 381-360	0
+03-08|de gaulle 818-871	0
+03-08|de gaulle 871-818	0
+03-08|graffenstaden 1179-5018	0
+03-08|graffenstaden 1179-5019	0
+03-08|graffenstaden 5016-5017	0
+03-08|graffenstaden 5017-5018	0
+03-08|graffenstaden 5018-1179	0
+03-08|graffenstaden 5018-5017	0
+03-08|graffenstaden 5019-1179	0
+03-08|gtraffenstaden 5017-5016	0
+03-08|havre 5004-627	0
+03-08|havre 627-5004	0
+03-08|havre 627-688	0
+03-08|havre 688-627	0
+03-08|juifs 1173-5019	0
+03-08|juifs 5019-1173	0
+03-08|lampertheim-cora	0
+03-08|lampertheim-mundo	0
+03-08|leclerc 381-384	0
+03-08|leclerc 382-384	0
+03-08|leclerc 384-382	0
+03-08|mundo-lampertheim	0
+03-08|ober 386-381	0
+03-08|ober_5000	0
+03-08|ober_5001	0
+03-08|ober_5002	0
+03-08|ober_5003	0
+03-08|p2_Souffel	0
+03-08|rochelle 0670-5007	0
+03-08|rochelle 5004-5005	0
+03-08|rochelle 5005-5004	0
+03-08|rochelle 5005-5006	0
+03-08|rochelle 5006-5005	0
+03-08|rochelle 5006-670	0
+03-08|rochelle 5007-0670	0
+03-08|rochelle 670-5006	0
+03-08|rue de koenigshoffen->Autoroute	11336
+03-08|seigneurs_5004	0
+03-08|seigneurs_5005	0
+03-08|seigneurs_5006	0
+03-08|seigneurs_5007	0
+03-08|seigneurs_5008	0
+03-08|seigneurs_5009	0
+03-08|sortie autoroute rue de koenigshoffen	20915
+03-09|23 Novembre -> Rte de Lyon	11662
+03-09|A35 A351-S	0
+03-09|A35 Baggersee-Schirmeck	0
+03-09|A35 Baggersee-Vigie	0
+03-09|A35 Duppigheim-Entzheim	0
+03-09|A35 Ech.Schirmeck N-S	0
+03-09|A35 Entzheim-Duppigheim	0
+03-09|A35 Entzheim-Vigie	0
+03-09|A35 N-S PC Gutenberg	0
+03-09|A35 N-S Sortie Halles	0
+03-09|A35 S-N A350	0
+03-09|A35 S-N Sortie Cronenbourg	0
+03-09|A35 Schirmeck-A351 S-N	0
+03-09|A35 Schirmeck-A351 S-N2	0
+03-09|A35 Schirmeck-Baggersee	0
+03-09|A35 Vigie N-S	0
+03-09|A35 Vigie S-N	0
+03-09|A35 Vigie-Baggersee	0
+03-09|A35 Vigie-Entzheim	0
+03-09|A35 sortie Vigie N-S	0
+03-09|A35->A351	0
+03-09|A35->RD1083	0
+03-09|A35-A350	0
+03-09|A35-A351 N-O	0
+03-09|A35-Pl.Blanche	0
+03-09|A35-Pl.Haguenau N-S	0
+03-09|A35-Pl.Haguenau S-N	0
+03-09|A350-> Sortie Kabl??	0
+03-09|A351 A35-Sortie Auchan	0
+03-09|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-09|A351 Leroy-A35	0
+03-09|A351 Sortie Auchan-Echangeur Wolfi	0
+03-09|A351-A35N	0
+03-09|A351-A35N2	0
+03-09|A351-A35S	0
+03-09|A351-Pl.Blanche	0
+03-09|A35A531-P.Schirmeck N-S	0
+03-09|A4 (Hoenheim) S-N	0
+03-09|A4 Hauteur TGv S-N	0
+03-09|A4 Hoenheim-> TGV	0
+03-09|A4 Hoenheim-Ech.Reichstett	0
+03-09|A4 N-S Cronenbourg	0
+03-09|A4 N-S Hoerdt Reichstett	0
+03-09|A4 N-S Reichstett	0
+03-09|A4 Reichstett->Hoenheim	0
+03-09|A4 S-N Cronenbourg	0
+03-09|A4 S-N Echangeur Reichstett	0
+03-09|A4 S-N Reichstett Hoerdt	0
+03-09|A4-Schiltigheim S-N	0
+03-09|A4-Schitigheim N-S	0
+03-09|Abbe de l'Epee -> Rhin Tortu	6480
+03-09|Abbe de l'Epee->Rte du Neuhof	6610
+03-09|Acc??s A351 S	0
+03-09|Alcide de Gasperi -> Lingo	11284
+03-09|All??e Droits de l'Homme->Orangerie	8428
+03-09|All??e Droits de l'Homme->Robertsau	8110
+03-09|All??e J.Auriol-> Mermoz	930
+03-09|All??e J.Auriol->Av.Neuhof	1213
+03-09|All??e de la Robertsau -> Bld Tauler	10495
+03-09|All??e de la Robertsau -> Place Brant	12014
+03-09|Alpes (ap.Churchill) -> Robertsau	9007
+03-09|Alpes (ap.Churchill)->Etoile	8075
+03-09|Alpes(av.Churchill)->Etoile	8108
+03-09|Alpes(av.Churchill)->Robertsau	9525
+03-09|Av. Colmar (Mulhouse) vers Centre ville	9396
+03-09|Av. Colmar (Racing) vers Centre Ville	13575
+03-09|Av. Herrenschmidt vers A350	9999
+03-09|Av. Herrenschmidt vers Place de Bordeau	8649
+03-09|Av. Jean-Jaur??s -> Neudorf	6078
+03-09|Av. Jean-Jaur??s -> Place de l'Etoile	6281
+03-09|Av. d'Alsace vers Place Brant	17461
+03-09|Av. de la Paix vers Av. des Vosges	2272
+03-09|Av. des Vosges vers Place de Haguenau	17102
+03-09|Av. du Gal de Gaulle -> Esplanade	6503
+03-09|Av. du Neuhof vers Stockfeld	8357
+03-09|Av. du Neuhof vers rte du Polygone	8696
+03-09|Av.A.Briand -> Av. Jean Jaur??s	7145
+03-09|Av.A.Briand -> Rte du Rhin	6249
+03-09|Av.Colmar (Racing) vers Illkirch	12179
+03-09|Av.For??t-Noire->Bld d'Anvers	10225
+03-09|Av.For??t-Noire->PL.Brant	11942
+03-09|Av.Gal de Gaulle -> Bld de la Victoire	8060
+03-09|Av.Jean Jaur??s vers Rue du Landsberg	6664
+03-09|Av.Jean Jaures->Av.A.Briand	5790
+03-09|Av.Mendes France (Contades)->Tribunal	16002
+03-09|Av.Mendes France->Contades	21540
+03-09|Av.Schuman -> Mal Foch	10580
+03-09|Av.Schumann-> Sports	10585
+03-09|Av.Schutzenberger vers Pl. A.Zeller	1546
+03-09|Av.Schutzenberger vers Pl. Bordeaux	1611
+03-09|Av.d'Alsace vers Av. des Vosges	21205
+03-09|Av.de la Libert?? vers Pl. Universit??	3088
+03-09|Av.de la Libert?? vers Pl.R??publique	4850
+03-09|Av.de la Paix vers Place de Bordeaux	3679
+03-09|Av.des Voges vers Av. For??t-Noire	13658
+03-09|Avenue Moli??re -> Rue Paul Val??ry	8625
+03-09|Barreau L.I.P.-> Rhin Napol??on	15384
+03-09|Barreau L.I.P.->Allemagne	18947
+03-09|Bld Anvers (532)->Bld de la Marne	6003
+03-09|Bld Cl??menceau vers Av. de la Paix	3171
+03-09|Bld Clemenceau vers Av. des Vosges	7036
+03-09|Bld Leblois -> Bld de la Marne	7296
+03-09|Bld Leblois -> Bld de la Victoire	8859
+03-09|Bld Lyon (Obernai) -> Rue de Molsheim	14642
+03-09|Bld Pierre Pflimlin -> Robertsau	8261
+03-09|Bld Pierre Pflimlin -> Wacken	9297
+03-09|Bld Victoire (Fritz Kiener->Universit??)	2817
+03-09|Bld Victoire (Universit??->Grandidier)	3737
+03-09|Bld Wilson -> Place de la Gare	11824
+03-09|Bld Wilson vers Fbg de Saverne	15281
+03-09|Bld d'Anvers (532)->Pont d'Anvers	4467
+03-09|Bld de Dresde vers Pl.A.Zeller	9478
+03-09|Bld de Dresde vers Robertsau	7728
+03-09|Bld de Lyon (Saales) -> Rue de Molsheim	19169
+03-09|Bld de Lyon -> Rue d'Obernai	17468
+03-09|Bourse 206-207	0
+03-09|Bourse 207-206	0
+03-09|Calmette->A351	13974
+03-09|Calmette->CHU	16406
+03-09|Centre Administratif -> Bourse	0
+03-09|Centre Administratif -> Neudorf	3577
+03-09|Contournement Sud->A35	0
+03-09|Cyclistes Rue de Vienne -> Centre	3523
+03-09|Cyclistes Rue de Vienne -> Neudorf	3492
+03-09|D84 Geispo 5202-5204	0
+03-09|D84 entr??e Geispo	0
+03-09|D84 sortie Geispo Gare	0
+03-09|D84->Geispo Gare	0
+03-09|Descente Autoroute Place de Haguenau	20264
+03-09|Descente Contournement Sud Rte Hopital	31432
+03-09|Descente contournement Sud Pl.Etoile	12006
+03-09|Division Leclerc	5653
+03-09|E.Rostand-> A351	17989
+03-09|E.Rostand->av.Corneille	8955
+03-09|Echangeur Baggersee A35 N-S	0
+03-09|Echangeur Baggersee A35 S-N	0
+03-09|Elmerforst (1101)->1190	2244
+03-09|Elmerforst (1190)->1101	2342
+03-09|Entr??e Geispo Gare cot?? Lingo	0
+03-09|Entree Lingo	8118
+03-09|Faubourg de Saverne vers Bld Wilson	6868
+03-09|Faubourg de Saverne vers Pont de Savern	2143
+03-09|Fbg de Pierre -> Cl??menceau	6697
+03-09|Federation->Colmar	4601
+03-09|Federation->Pl.Bouchers	4975
+03-09|Finkwiller Humann 345-341	0
+03-09|Fustel 206-221	0
+03-09|Fustel 221-206	0
+03-09|G.Wodli->Cronenbourg	23001
+03-09|Gal Offenstein(Pfister)->Rhin Tortu	8422
+03-09|Gare 311-312	0
+03-09|Gare 312-311	0
+03-09|Geispo E-O1	0
+03-09|Geispo E-O2	0
+03-09|Geispo E-O3	0
+03-09|Geispo O-E1	0
+03-09|Geispo O-E2	0
+03-09|Geispo O-E3	0
+03-09|Hochfelden (837) ->Villette	3729
+03-09|Hochfelden (837)->centre ville	6708
+03-09|Humann 310-341	0
+03-09|Humann 341-301	0
+03-09|Humann-Finkwiller 341-345	0
+03-09|Ile des Pecheurs -> Rivage	1162
+03-09|Ile des Pecheurs->Gal Leclerc	1324
+03-09|J.P.Levy -> Alpes	5702
+03-09|J.P.Levy->Esplanade	5022
+03-09|Kastner -> Boecklin	9273
+03-09|Kastner -> Jacoutot	9395
+03-09|Koenig 207-217	0
+03-09|Koenig 217-207	0
+03-09|Koenigshoffen-A351 - 1	0
+03-09|Lausanne 217-218	0
+03-09|Lausanne 218-217	0
+03-09|Lavoisier->Langevin	2268
+03-09|Leclerc 384-381	0
+03-09|Lyon (P??cheurs) -> Geispolsheim	9432
+03-09|Lyon (P??cheurs)->Strasbourg	8772
+03-09|Lyon 301-302	0
+03-09|Lyon 302-301	0
+03-09|Lyon 304-302	0
+03-09|Lyon 307-308	0
+03-09|Lyon 308-307	0
+03-09|M.Verte -> PL.des Bouchers	28030
+03-09|M.Verte -> Unterelsau	16247
+03-09|Mal Foch (Thiriet) -> 23 Novembre	5162
+03-09|Mal Foch (Thiriet)->Ostwald	5440
+03-09|Mitterrand->P??guy	3958
+03-09|Mitterrand->Wasselonne	4024
+03-09|Mont??e A35 Baggersee	37661
+03-09|Mont??e A350 Herrenschmidt	40971
+03-09|Montagne-Verte21	7770
+03-09|Montagne-Verte3 -> Nord	18830
+03-09|Montagne-Verte4 -> Sud	0
+03-09|Montagne-Verte5 -> Nord	0
+03-09|Montagne-Verte6 -> Sud	13492
+03-09|Montee Contournement Sud (H??pital)	27197
+03-09|N353 Eschau-Lilly	0
+03-09|N353 Eschau-Pont Pflimlin	0
+03-09|N353 Lilly-Eschau	0
+03-09|N4-A35 E-N	0
+03-09|N4-A35 E-S	0
+03-09|Ostwald1 -> Sud	0
+03-09|Ostwald2 -> Nord	0
+03-09|Ostwald3 -> Sud	5492
+03-09|Ostwald40 -> Nord	7097
+03-09|P1 - Breusch	0
+03-09|P1 - Eckbo	0
+03-09|P1 - Eckw	0
+03-09|P1 - Hang	0
+03-09|P1 - Kolb	0
+03-09|P1 - Osth	0
+03-09|P1 RD Bleu	0
+03-09|P1 RD Orange	0
+03-09|P1 RD Rouge	0
+03-09|P1 RD Vert	0
+03-09|P1-Entzheim	0
+03-09|P1-Eschau	0
+03-09|P1-Feg	0
+03-09|P1-Geispo	0
+03-09|P1-Hoenheim	0
+03-09|P1-Holtzheim	0
+03-09|P1-LaWantz	0
+03-09|P1-Lamp	0
+03-09|P1-Lingo	0
+03-09|P1-Lipsheim	0
+03-09|P1-Mittel/Nieder	0
+03-09|P1-Mundo	0
+03-09|P1-Ober	0
+03-09|P1-Obers	0
+03-09|P1-Plobsheim	0
+03-09|P1-Reichstett	0
+03-09|P1-Schiltigheim	0
+03-09|P1-Souffel	0
+03-09|P1-Vendenheim	0
+03-09|P1-Wolfi	0
+03-09|P1C1	0
+03-09|P1C2	0
+03-09|P1C3	0
+03-09|P1C4	0
+03-09|P1C5	0
+03-09|P1_Achenheim	0
+03-09|P1_Bischheim	0
+03-09|P1_Blaesheim	0
+03-09|P1_Entzheim	0
+03-09|P1_Hoenheim	0
+03-09|P1_LaWantz	0
+03-09|P2 - Bischheim	0
+03-09|P2 - Blaesheim	0
+03-09|P2 - Breusch	0
+03-09|P2 - Eckbo	0
+03-09|P2 - Hang	0
+03-09|P2 - Kolb	0
+03-09|P2 - Lingo	0
+03-09|P2 - Osth	0
+03-09|P2 - Ostwald	0
+03-09|P2 - Schilig	0
+03-09|P2-C4	0
+03-09|P2-Hoenheim	0
+03-09|P2-Lingo	0
+03-09|P2-Ostwald	0
+03-09|P2-Schilig	0
+03-09|P2C1	0
+03-09|P2C10	0
+03-09|P2C11	0
+03-09|P2C12	0
+03-09|P2C2	0
+03-09|P2C3	0
+03-09|P2C4	0
+03-09|P2C5	0
+03-09|P2C6	0
+03-09|P2C7	0
+03-09|P2C8	0
+03-09|P2_Achenheim	0
+03-09|P2_Blaesheim	0
+03-09|P2_Eckbo	0
+03-09|P2_Eckw.	0
+03-09|P2_Entz	0
+03-09|P2_Entz.	0
+03-09|P2_Eschau	0
+03-09|P2_Fegersheim	0
+03-09|P2_Geispo	0
+03-09|P2_Hoenh	0
+03-09|P2_Holtzheim	0
+03-09|P2_Holztheim	0
+03-09|P2_LaWantz	0
+03-09|P2_Lampert	0
+03-09|P2_Lips	0
+03-09|P2_Mittel/Nieder	0
+03-09|P2_Mundo	0
+03-09|P2_Ober	0
+03-09|P2_Oberschaef.	0
+03-09|P2_Ostwald	0
+03-09|P2_Plobsheim	0
+03-09|P2_Reichstett	0
+03-09|P2_Souffel	0
+03-09|P2_Vend.	0
+03-09|P2_Wolfisheim	0
+03-09|PL.Bouchers (POM)->775	7595
+03-09|Paul Dopf -> Canonniers	7596
+03-09|Paul Dopf -> Orbey	7161
+03-09|Petit Rhin->	12411
+03-09|Petit Rhin->Rhin Napol??on	13618
+03-09|Petite Rue des Magasins	15375
+03-09|Pl. Etoile -> Contournemend Sud	15542
+03-09|Pl.Bouchers->F.Eberts	9783
+03-09|Pl.Etoile -> Rte du Rhin	2895
+03-09|Pl.Haguenau (Brumath)->Sortie Autoroute	12873
+03-09|Place de la Gare -> Bld de Nancy	11322
+03-09|Plaine des Bouchers -> Rue Humann	12867
+03-09|Plaine des Bouchers -> Rue du Doubs	9025
+03-09|Plaine des Bouchers->F??d??ration	21437
+03-09|Plaine des Bouchers->Montagne-Verte	20292
+03-09|Pont Lixenbuhl->Rhin	4691
+03-09|Pont Lixenbuhl->Rue d'Alsace	4054
+03-09|Pont Matthis -> Rue Humann	11325
+03-09|Pont Matthis -> Rue de Molsheim	9971
+03-09|Pont Vauban 688-689	23568
+03-09|Pont Vauban 689-688	25376
+03-09|Pont d'Anvers -> Allemagne	13650
+03-09|Pont d'Anvers -> Place de Kehl	12794
+03-09|Pont d'Ostwald -> Lingolsheim	7674
+03-09|Pont de l'Europe -> Allemagne	28179
+03-09|Pont de l'Europe -> Rte du Rhin	28683
+03-09|Pont du Danube -> Quai des Alpes	14657
+03-09|Pont du Danube->Rte du Rhin	12259
+03-09|Quai Frey 201-345	0
+03-09|Quai Kl??ber	1658
+03-09|Quai Pasteur vers Pont Pasteur	10189
+03-09|Quai Pasteur vers Quai Fustel	11251
+03-09|Quai St.Nicolas -> Finkwiller	0
+03-09|Quai St.Nicolas -> Quai des P??cheurs	4266
+03-09|Quai des P??cheurs -> Pont Royal	0
+03-09|Quai des P??cheurs -> Rue de Zurich	0
+03-09|RD1083 1081->1084	0
+03-09|RD1083 1084->1087	0
+03-09|RD1083 1087->Schaal	0
+03-09|RD1083 Achard-1087	0
+03-09|RD1083 Lilly->1081	0
+03-09|RD1083 Schaal-Mont??e A35	0
+03-09|RD1083->A35	0
+03-09|RD37 5015-952	0
+03-09|RD37 952-5015	0
+03-09|RD45 381-390	0
+03-09|RD45 390-381	0
+03-09|RD468->Baggersee	0
+03-09|RD468->Illkirch	0
+03-09|RD563 5008-5010	0
+03-09|RD563 5010-5008	0
+03-09|RD63 5008-5009	0
+03-09|RD63 5009-5008	0
+03-09|RD63 5011-822	0
+03-09|RD63 5012-822	0
+03-09|RD63 822-5011	0
+03-09|RD63 822-5012	0
+03-09|RD63 Holtzheim->Wolfisheim	0
+03-09|RD63 Wolfisheim->Holtzheim	0
+03-09|RN353 Pont Pflimlin-Eschau	0
+03-09|RP Cronenbourg->G.Wodli	8625
+03-09|Republique->Bischheim	9039
+03-09|Republique->Souffelweyersheim	8421
+03-09|Rhin 233-687	21046
+03-09|Rhin 687-233	27198
+03-09|Rhin 687-688	23568
+03-09|Rhin 688-687	25376
+03-09|Rhin 689-696	18643
+03-09|Rhin 696-689	19903
+03-09|Rhin Napol??on -> Rue du Havre	10232
+03-09|Rhin Napol??on->Rte du Rhin	9816
+03-09|Rhin Tortu->Abb?? Ep??e	10235
+03-09|Ribeauville (Orbey) -> Bale	1108
+03-09|Rieth->Hochfelden	5726
+03-09|Rieth->Lavoisier	4751
+03-09|Rieth->Mittelhausbergen	3313
+03-09|Rivage -> Ile des Pecheurs	753
+03-09|Rivage -> Melezes	855
+03-09|Romains (Constantin)->Eckbolsheim	8753
+03-09|Romains-A35	0
+03-09|Route du Polygone -> Neudorf	6871
+03-09|Route du Polygone -> Pl. de l'Etoile	9419
+03-09|Rte Bischwiller (1241->961)	7739
+03-09|Rte Brumath (Industrie)->Vendenheim	11893
+03-09|Rte Brumath (Mundolsheim)->Industrie	12921
+03-09|Rte Hausbergen -> Becquerel	5413
+03-09|Rte Mittelhausbergen (Jacob)->Rotonde	8932
+03-09|Rte Mittelhausbergen (Rotonde)->Jacob	8561
+03-09|Rte Neuhof->Illkirch	17872
+03-09|Rte Romains (Constantin)->Ville	7063
+03-09|Rte d'Altenheim vers Av. du Neuhof	4876
+03-09|Rte d'Altenheim vers Stockfeld	4977
+03-09|Rte d'Oberhausbergen vers Centre Ville	0
+03-09|Rte d'Oberhausbergen vers Oberhausberge	0
+03-09|Rte d'Oberhausbergen vers Rotonde	18061
+03-09|Rte de Bischwiller (961->1241)	9189
+03-09|Rte de Bischwiller (Mairie)->Bischheim	9744
+03-09|Rte de Bischwiller (Principale)->Mairie	13268
+03-09|Rte de Bischwiller 1250-952	0
+03-09|Rte de Bischwiller 952-1250	0
+03-09|Rte de Brumath 5013-5014	0
+03-09|Rte de Brumath 5014-5013	0
+03-09|Rte de Brumath 6144-926	0
+03-09|Rte de Brumath 926-5013	0
+03-09|Rte de Brumath vers Schiltigheim	16534
+03-09|Rte de Brumath vers souffelweyersheim	7721
+03-09|Rte de Hausbergen (Becquerel)->Mittel	4465
+03-09|Rte de Hausbergen(Becquerel)->Charme	7883
+03-09|Rte de Hausbergen(Charme)->Becquerel	7262
+03-09|Rte de La Wantzenau->Reichstett	9356
+03-09|Rte de La Wantzenau->Rte de Bischwiller	8479
+03-09|Rte de Lyon (Baumann)->Industrie	11449
+03-09|Rte de Lyon (Industrie)->Baumann	10815
+03-09|Rte de Lyon (Mairie) -> Strasbourg	6969
+03-09|Rte de Lyon (Mairie)->Pont du P??age	5832
+03-09|Rte de Lyon(Gast)->23 Novembre	4812
+03-09|Rte de Lyon(Gast)->Glaciere	7504
+03-09|Rte de Mittelhausbergen vers Mittel.	7498
+03-09|Rte de Mittelhausbergen versStrasbourg	7667
+03-09|Rte de Strasbourg -> Colonne	12735
+03-09|Rte de Strasbourg 923-926	0
+03-09|Rte de Strasbourg 923-929	0
+03-09|Rte de Strasbourg 925-929	0
+03-09|Rte de Strasbourg 926-923	0
+03-09|Rte de Strasbourg 929-923	0
+03-09|Rte de Strasbourg 929-925	0
+03-09|Rte de Strasbourg vers Illkirch	19202
+03-09|Rte de Strasbourg vers Meinau	20686
+03-09|Rte de Strasbourg->Baggersee	11497
+03-09|Rte de l'H??pital -> Pont Adenauer	23575
+03-09|Rte de l'H??pital->Av. Colmar	0
+03-09|Rte de l'Hopital -> H??tel de Police	23434
+03-09|Rte de l'Hopital -> Quai Fustel	4831
+03-09|Rte des Romains vers Eckbolsheim	8161
+03-09|Rte des Romains vers Place Blanche	9120
+03-09|Rte des Romains->Rue de Koenigshoffen	28662
+03-09|Rte du Neuhof -> Neuhof	3488
+03-09|Rte du Neuhof->Rte de Strasbourg	3600
+03-09|Rte du Neuhof->Schuhansen	17370
+03-09|Rte du Rhin (Danube)->Churchill	32298
+03-09|Rte du Rhin (UGC)->Allemagne	38387
+03-09|Rte du Rhin (UGC)->Ville	38862
+03-09|Rte du Rhin (av.233)->Allemagne	39326
+03-09|Rte du Rhin->Contournement Sud	0
+03-09|Rue  prinicipale 820-818	0
+03-09|Rue Alfred Kastler -> Baggersee	17683
+03-09|Rue Alfred Kastler -> Illkirch	14777
+03-09|Rue Boecklin -> Centre Ville	5581
+03-09|Rue Boecklin->Rte de La Wantzenau	5564
+03-09|Rue E.Bugatti -> Lingolsheim	9402
+03-09|Rue E.Bugatti -> Vigie	9433
+03-09|Rue E.Michelet -> Quai des Alpes	7057
+03-09|Rue E.Michelet -> Rte du Rhin	9087
+03-09|Rue Edmond Labb?? -> Bld de la Victoire	3284
+03-09|Rue Edmond Labb??->Rue P.Montet	2168
+03-09|Rue F.Epailly 696-697	18643
+03-09|Rue F.Epailly 697-696	19903
+03-09|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	7354
+03-09|Rue J.Wenger-Valentin vers Schiltigheim	10296
+03-09|Rue Jacques Kabl?? vers Place de Bordea	4527
+03-09|Rue Jacques Kabl?? vers Place de Haguen	3966
+03-09|Rue Lixenbuhl ->Vincent Scotto	2840
+03-09|Rue Lixenbuhl->Rue d'Alsace	3025
+03-09|Rue Ohmacht vers All??e de la Robertsau	10841
+03-09|Rue Ohmacht vers Place de Bordeaux	9831
+03-09|Rue Principale 818-820	0
+03-09|Rue Vauban vers Bld de la Victoire	1080
+03-09|Rue Vauban vers Place de Kehl	1658
+03-09|Rue d'Obernai	9953
+03-09|Rue d'Ostwald vers Elmerforst	6853
+03-09|Rue d'Ostwald vers Rue des Pr??s	6018
+03-09|Rue de Copenhague -> E.E.E.	4637
+03-09|Rue de Copenhague->Hausbergen	4241
+03-09|Rue de Fouday	7780
+03-09|Rue de Geispolsheim -> Rue des Vosges	4700
+03-09|Rue de Geispolsheim -> Vigie	3444
+03-09|Rue de Holtzheim->Holtzheim	3856
+03-09|Rue de Holtzheim->Lingolsheim	4099
+03-09|Rue de Koenigshoffen->Charmille	0
+03-09|Rue de Lingolsheim -> Eckbolsheim	9753
+03-09|Rue de Lubeck->Pl. Henri Levy	1149
+03-09|Rue de Lubeck->Rue du Port du Rhin	3885
+03-09|Rue de Molsheim	7554
+03-09|Rue de Paris	0
+03-09|Rue de Paris 957-958	0
+03-09|Rue de Ribeauvill?? vers rue d'Orbey	3871
+03-09|Rue de Rome -> Esplanade	4529
+03-09|Rue de Rome -> Krutenau	4532
+03-09|Rue de Strasbourg ->C.820	0
+03-09|Rue de Strasbourg->Niederh.	0
+03-09|Rue de Vienne -> Pont d'Austerlitz	20951
+03-09|Rue de Wasselonne	10736
+03-09|Rue de l'Eglise Rouge -> Schiltigheim	3732
+03-09|Rue de l'Eglise Rouge->J. Kabl??	2373
+03-09|Rue de l'Ill -> Papeterie	14411
+03-09|Rue de l'Ill -> Pont Phario	15617
+03-09|Rue de l'Industrie (Travail)-> Rhin	5304
+03-09|Rue de l'Industrie -> Lixenbuhl	6340
+03-09|Rue de l'Industrie(Rhin)->Travail	4175
+03-09|Rue de l'Industrie->Rte de Lyon	5635
+03-09|Rue de la C??te-Mittel	0
+03-09|Rue de la Mairie->Rte de Bischwiller	9643
+03-09|Rue de la Mairie->Rue Principale	7143
+03-09|Rue de la Porte de l'H??pital	11335
+03-09|Rue de la Rivi??re-> Rte de Schirmeck	3604
+03-09|Rue de la Robertsau -> Ch.Bock	6385
+03-09|Rue de la Robertsau ->Pont Phario	5637
+03-09|Rue des Serruriers	2806
+03-09|Rue du 23 Novembre -> Ostwald	14420
+03-09|Rue du Doubs -> Fr??res Eberts	9294
+03-09|Rue du Doubs -> Plaine des Bouchers	13807
+03-09|Rue du Fbg de Pierre->Nu??e Bleue	7438
+03-09|Rue du Gal Leclerc vers Centre Ostwald	5901
+03-09|Rue du Gal Leclerc vers Strasbourg	8610
+03-09|Rue du Gal Offenstein -> Pfister	7787
+03-09|Rue du Gal Offenstein vers Av.Colmar	7028
+03-09|Rue du Gal de Gaulle 5015-956	0
+03-09|Rue du Gal de Gaulle 956-5015	0
+03-09|Rue du Gal de Gaulle 956-957	0
+03-09|Rue du Gal de Gaulle 957-956	0
+03-09|Rue du Gal de Gaulle vers Bischheim	10224
+03-09|Rue du Gal de Gaulle vers Strasbourg	10483
+03-09|Rue du Landsberg vers Av.Jean Jaur??s	7487
+03-09|Rue du Landsberg vers Rte du Rhin	6335
+03-09|Rue du Mal Foch -> Illkirch	3859
+03-09|Rue du Mal Foch -> Lingolsheim	9051
+03-09|Rue du Mal Foch -> Mairie d'Ostwald	4435
+03-09|Rue du Mal Foch -> Strasbourg	9427
+03-09|Rue du Marais (Bretagne)->Pont Phario	13616
+03-09|Rue du Marais (Phario) -> Zorn	13441
+03-09|Rue du Marais (Phario)->Gal De Gaulle	11348
+03-09|Rue du Marais ->Gal de Gaulle	9494
+03-09|Rue du Marais(De Gaulle)->La Wantzenau	8780
+03-09|Rue du Marais(De Gaulle)->Pont Phario	11577
+03-09|Rue du Rempart -> Cronenbourg	3048
+03-09|Rue du Rempart->Koenigshoffen	4175
+03-09|Rue du Rhin Tortu vers Gal Offenstein	8600
+03-09|Rue du Rhin Tortu vers Neuhof	8587
+03-09|Ruer de Lingolsheim->Ostwald	7981
+03-09|Schirmeck1 - Entree Ville	0
+03-09|Schirmeck10 - Sortie Ville	0
+03-09|Schirmeck11 - Entree Ville	0
+03-09|Schirmeck12 - Sortie Ville	17752
+03-09|Schirmeck13 - Entree Ville	0
+03-09|Schirmeck14 - Sortie Ville	17222
+03-09|Schirmeck15 - Entree Ville	18725
+03-09|Schirmeck16 - Sortie Ville	0
+03-09|Schirmeck17 - Entree Ville	0
+03-09|Schirmeck18 - Sortie Ville	7622
+03-09|Schirmeck2 - Sortie Ville	0
+03-09|Schirmeck3 - Entree Ville	10332
+03-09|Schirmeck4 - Sortie Ville	10822
+03-09|Schirmeck5 - Entree Ville	17798
+03-09|Schirmeck6 - Sortie Ville	0
+03-09|Schirmeck7 - Entree Ville	0
+03-09|Schirmeck8 - Sortie Ville	18016
+03-09|Schirmeck9 - Entree Ville	20698
+03-09|Schuhansen->Ganzau	12872
+03-09|Sortie A 351	23410
+03-09|Sortie A35 -> Baggersee	37404
+03-09|Sortie A35->G.Wodli	12172
+03-09|Sortie A351 -> Herrenschmidt	31199
+03-09|Sortie Autoroute Elsau	20824
+03-09|Sortie Autoroute Rue Montagne-Verte	5783
+03-09|Sortie Autoroute Rue de Saales	9710
+03-09|Sortie Eglise Rouge->J. Kabl??	14554
+03-09|Sortie Geispo Gare-> Lingo	0
+03-09|Sortie Lingo -> Entzheim	6439
+03-09|Sortie Rte du Rhin -> Pl.Etoile	3795
+03-09|Sortie Tunnel -> Allemagne	0
+03-09|St.Jean	5064
+03-09|Tanneurs	0
+03-09|Tour Verte -> Nord	11456
+03-09|Tour Verte -> Sud	0
+03-09|Wasselonne->Eckbo	7158
+03-09|Wasselonne->Romains	7061
+03-09|Wolfisheim 5008-871	0
+03-09|Wolfisheim 871-5008	0
+03-09|Zurich 218-444	0
+03-09|canal 379-380	0
+03-09|canal 379-382	0
+03-09|canal 380-379	0
+03-09|canal 382-379	0
+03-09|cora-lampertheim	0
+03-09|de gaulle 360-381	0
+03-09|de gaulle 381-360	0
+03-09|de gaulle 818-871	0
+03-09|de gaulle 871-818	0
+03-09|graffenstaden 1179-5018	0
+03-09|graffenstaden 1179-5019	0
+03-09|graffenstaden 5016-5017	0
+03-09|graffenstaden 5017-5018	0
+03-09|graffenstaden 5018-1179	0
+03-09|graffenstaden 5018-5017	0
+03-09|graffenstaden 5019-1179	0
+03-09|gtraffenstaden 5017-5016	0
+03-09|havre 5004-627	0
+03-09|havre 627-5004	0
+03-09|havre 627-688	0
+03-09|havre 688-627	0
+03-09|juifs 1173-5019	0
+03-09|juifs 5019-1173	0
+03-09|lampertheim-cora	0
+03-09|lampertheim-mundo	0
+03-09|leclerc 381-384	0
+03-09|leclerc 382-384	0
+03-09|leclerc 384-382	0
+03-09|mundo-lampertheim	0
+03-09|ober 386-381	0
+03-09|ober_5000	0
+03-09|ober_5001	0
+03-09|ober_5002	0
+03-09|ober_5003	0
+03-09|p2_Souffel	0
+03-09|rochelle 0670-5007	0
+03-09|rochelle 5004-5005	0
+03-09|rochelle 5005-5004	0
+03-09|rochelle 5005-5006	0
+03-09|rochelle 5006-5005	0
+03-09|rochelle 5006-670	0
+03-09|rochelle 5007-0670	0
+03-09|rochelle 670-5006	0
+03-09|rue de koenigshoffen->Autoroute	10492
+03-09|seigneurs_5004	0
+03-09|seigneurs_5005	0
+03-09|seigneurs_5006	0
+03-09|seigneurs_5007	0
+03-09|seigneurs_5008	0
+03-09|seigneurs_5009	0
+03-09|sortie autoroute rue de koenigshoffen	18149
+03-10|23 Novembre -> Rte de Lyon	9278
+03-10|A35 A351-S	0
+03-10|A35 Baggersee-Schirmeck	0
+03-10|A35 Baggersee-Vigie	0
+03-10|A35 Duppigheim-Entzheim	0
+03-10|A35 Ech.Schirmeck N-S	0
+03-10|A35 Entzheim-Duppigheim	0
+03-10|A35 Entzheim-Vigie	0
+03-10|A35 N-S PC Gutenberg	0
+03-10|A35 N-S Sortie Halles	0
+03-10|A35 S-N A350	0
+03-10|A35 S-N Sortie Cronenbourg	0
+03-10|A35 Schirmeck-A351 S-N	0
+03-10|A35 Schirmeck-A351 S-N2	0
+03-10|A35 Schirmeck-Baggersee	0
+03-10|A35 Vigie N-S	0
+03-10|A35 Vigie S-N	0
+03-10|A35 Vigie-Baggersee	0
+03-10|A35 Vigie-Entzheim	0
+03-10|A35 sortie Vigie N-S	0
+03-10|A35->A351	0
+03-10|A35->RD1083	0
+03-10|A35-A350	0
+03-10|A35-A351 N-O	0
+03-10|A35-Pl.Blanche	0
+03-10|A35-Pl.Haguenau N-S	0
+03-10|A35-Pl.Haguenau S-N	0
+03-10|A350-> Sortie Kabl??	0
+03-10|A351 A35-Sortie Auchan	0
+03-10|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-10|A351 Leroy-A35	0
+03-10|A351 Sortie Auchan-Echangeur Wolfi	0
+03-10|A351-A35N	0
+03-10|A351-A35N2	0
+03-10|A351-A35S	0
+03-10|A351-Pl.Blanche	0
+03-10|A35A531-P.Schirmeck N-S	0
+03-10|A4 (Hoenheim) S-N	0
+03-10|A4 Hauteur TGv S-N	0
+03-10|A4 Hoenheim-> TGV	0
+03-10|A4 Hoenheim-Ech.Reichstett	0
+03-10|A4 N-S Cronenbourg	0
+03-10|A4 N-S Hoerdt Reichstett	0
+03-10|A4 N-S Reichstett	0
+03-10|A4 Reichstett->Hoenheim	0
+03-10|A4 S-N Cronenbourg	0
+03-10|A4 S-N Echangeur Reichstett	0
+03-10|A4 S-N Reichstett Hoerdt	0
+03-10|A4-Schiltigheim S-N	0
+03-10|A4-Schitigheim N-S	0
+03-10|Abbe de l'Epee -> Rhin Tortu	5204
+03-10|Abbe de l'Epee->Rte du Neuhof	5183
+03-10|Acc??s A351 S	0
+03-10|Alcide de Gasperi -> Lingo	8715
+03-10|All??e Droits de l'Homme->Orangerie	6219
+03-10|All??e Droits de l'Homme->Robertsau	6067
+03-10|All??e J.Auriol-> Mermoz	664
+03-10|All??e J.Auriol->Av.Neuhof	1149
+03-10|All??e de la Robertsau -> Bld Tauler	7321
+03-10|All??e de la Robertsau -> Place Brant	9431
+03-10|Alpes (ap.Churchill) -> Robertsau	7888
+03-10|Alpes (ap.Churchill)->Etoile	6584
+03-10|Alpes(av.Churchill)->Etoile	6455
+03-10|Alpes(av.Churchill)->Robertsau	8942
+03-10|Av. Colmar (Mulhouse) vers Centre ville	6403
+03-10|Av. Colmar (Racing) vers Centre Ville	8828
+03-10|Av. Herrenschmidt vers A350	7406
+03-10|Av. Herrenschmidt vers Place de Bordeau	6521
+03-10|Av. Jean-Jaur??s -> Neudorf	6261
+03-10|Av. Jean-Jaur??s -> Place de l'Etoile	5230
+03-10|Av. d'Alsace vers Place Brant	13112
+03-10|Av. de la Paix vers Av. des Vosges	1606
+03-10|Av. des Vosges vers Place de Haguenau	12958
+03-10|Av. du Gal de Gaulle -> Esplanade	4991
+03-10|Av. du Neuhof vers Stockfeld	6645
+03-10|Av. du Neuhof vers rte du Polygone	6899
+03-10|Av.A.Briand -> Av. Jean Jaur??s	6403
+03-10|Av.A.Briand -> Rte du Rhin	5981
+03-10|Av.Colmar (Racing) vers Illkirch	6762
+03-10|Av.For??t-Noire->Bld d'Anvers	8597
+03-10|Av.For??t-Noire->PL.Brant	9377
+03-10|Av.Gal de Gaulle -> Bld de la Victoire	6305
+03-10|Av.Jean Jaur??s vers Rue du Landsberg	5431
+03-10|Av.Jean Jaures->Av.A.Briand	5776
+03-10|Av.Mendes France (Contades)->Tribunal	14174
+03-10|Av.Mendes France->Contades	17794
+03-10|Av.Schuman -> Mal Foch	9437
+03-10|Av.Schumann-> Sports	9354
+03-10|Av.Schutzenberger vers Pl. A.Zeller	1113
+03-10|Av.Schutzenberger vers Pl. Bordeaux	1264
+03-10|Av.d'Alsace vers Av. des Vosges	15613
+03-10|Av.de la Libert?? vers Pl. Universit??	2442
+03-10|Av.de la Libert?? vers Pl.R??publique	3807
+03-10|Av.de la Paix vers Place de Bordeaux	2598
+03-10|Av.des Voges vers Av. For??t-Noire	10287
+03-10|Avenue Moli??re -> Rue Paul Val??ry	7044
+03-10|Barreau L.I.P.-> Rhin Napol??on	11050
+03-10|Barreau L.I.P.->Allemagne	17562
+03-10|Bld Anvers (532)->Bld de la Marne	4407
+03-10|Bld Cl??menceau vers Av. de la Paix	3064
+03-10|Bld Clemenceau vers Av. des Vosges	5021
+03-10|Bld Leblois -> Bld de la Marne	5854
+03-10|Bld Leblois -> Bld de la Victoire	6446
+03-10|Bld Lyon (Obernai) -> Rue de Molsheim	12726
+03-10|Bld Pierre Pflimlin -> Robertsau	6352
+03-10|Bld Pierre Pflimlin -> Wacken	6726
+03-10|Bld Victoire (Fritz Kiener->Universit??)	2017
+03-10|Bld Victoire (Universit??->Grandidier)	2462
+03-10|Bld Wilson -> Place de la Gare	10415
+03-10|Bld Wilson vers Fbg de Saverne	12198
+03-10|Bld d'Anvers (532)->Pont d'Anvers	3432
+03-10|Bld de Dresde vers Pl.A.Zeller	6627
+03-10|Bld de Dresde vers Robertsau	5570
+03-10|Bld de Lyon (Saales) -> Rue de Molsheim	16055
+03-10|Bld de Lyon -> Rue d'Obernai	15288
+03-10|Bourse 206-207	0
+03-10|Bourse 207-206	0
+03-10|Calmette->A351	10266
+03-10|Calmette->CHU	13511
+03-10|Centre Administratif -> Bourse	0
+03-10|Centre Administratif -> Neudorf	3697
+03-10|Contournement Sud->A35	0
+03-10|Cyclistes Rue de Vienne -> Centre	2456
+03-10|Cyclistes Rue de Vienne -> Neudorf	2563
+03-10|D84 Geispo 5202-5204	0
+03-10|D84 entr??e Geispo	0
+03-10|D84 sortie Geispo Gare	0
+03-10|D84->Geispo Gare	0
+03-10|Descente Autoroute Place de Haguenau	15363
+03-10|Descente Contournement Sud Rte Hopital	22300
+03-10|Descente contournement Sud Pl.Etoile	10318
+03-10|Division Leclerc	6371
+03-10|E.Rostand-> A351	18604
+03-10|E.Rostand->av.Corneille	8995
+03-10|Echangeur Baggersee A35 N-S	0
+03-10|Echangeur Baggersee A35 S-N	0
+03-10|Elmerforst (1101)->1190	1986
+03-10|Elmerforst (1190)->1101	1974
+03-10|Entr??e Geispo Gare cot?? Lingo	0
+03-10|Entree Lingo	5550
+03-10|Faubourg de Saverne vers Bld Wilson	7006
+03-10|Faubourg de Saverne vers Pont de Savern	1934
+03-10|Fbg de Pierre -> Cl??menceau	5760
+03-10|Federation->Colmar	2493
+03-10|Federation->Pl.Bouchers	3095
+03-10|Finkwiller Humann 345-341	0
+03-10|Fustel 206-221	0
+03-10|Fustel 221-206	0
+03-10|G.Wodli->Cronenbourg	20799
+03-10|Gal Offenstein(Pfister)->Rhin Tortu	6153
+03-10|Gare 311-312	0
+03-10|Gare 312-311	0
+03-10|Geispo E-O1	0
+03-10|Geispo E-O2	0
+03-10|Geispo E-O3	0
+03-10|Geispo O-E1	0
+03-10|Geispo O-E2	0
+03-10|Geispo O-E3	0
+03-10|Hochfelden (837) ->Villette	2875
+03-10|Hochfelden (837)->centre ville	5464
+03-10|Humann 310-341	0
+03-10|Humann 341-301	0
+03-10|Humann-Finkwiller 341-345	0
+03-10|Ile des Pecheurs -> Rivage	725
+03-10|Ile des Pecheurs->Gal Leclerc	788
+03-10|J.P.Levy -> Alpes	4609
+03-10|J.P.Levy->Esplanade	3730
+03-10|Kastner -> Boecklin	6165
+03-10|Kastner -> Jacoutot	6266
+03-10|Koenig 207-217	0
+03-10|Koenig 217-207	0
+03-10|Koenigshoffen-A351 - 1	0
+03-10|Lausanne 217-218	0
+03-10|Lausanne 218-217	0
+03-10|Lavoisier->Langevin	1943
+03-10|Leclerc 384-381	0
+03-10|Lyon (P??cheurs) -> Geispolsheim	7991
+03-10|Lyon (P??cheurs)->Strasbourg	6798
+03-10|Lyon 301-302	0
+03-10|Lyon 302-301	0
+03-10|Lyon 304-302	0
+03-10|Lyon 307-308	0
+03-10|Lyon 308-307	0
+03-10|M.Verte -> PL.des Bouchers	16253
+03-10|M.Verte -> Unterelsau	12809
+03-10|Mal Foch (Thiriet) -> 23 Novembre	4465
+03-10|Mal Foch (Thiriet)->Ostwald	4652
+03-10|Mitterrand->P??guy	3504
+03-10|Mitterrand->Wasselonne	4105
+03-10|Mont??e A35 Baggersee	30271
+03-10|Mont??e A350 Herrenschmidt	30979
+03-10|Montagne-Verte21	6027
+03-10|Montagne-Verte3 -> Nord	17178
+03-10|Montagne-Verte4 -> Sud	0
+03-10|Montagne-Verte5 -> Nord	0
+03-10|Montagne-Verte6 -> Sud	11822
+03-10|Montee Contournement Sud (H??pital)	20141
+03-10|N353 Eschau-Lilly	0
+03-10|N353 Eschau-Pont Pflimlin	0
+03-10|N353 Lilly-Eschau	0
+03-10|N4-A35 E-N	0
+03-10|N4-A35 E-S	0
+03-10|Ostwald1 -> Sud	0
+03-10|Ostwald2 -> Nord	0
+03-10|Ostwald3 -> Sud	5620
+03-10|Ostwald40 -> Nord	6261
+03-10|P1 - Breusch	0
+03-10|P1 - Eckbo	0
+03-10|P1 - Eckw	0
+03-10|P1 - Hang	0
+03-10|P1 - Kolb	0
+03-10|P1 - Osth	0
+03-10|P1 RD Bleu	0
+03-10|P1 RD Orange	0
+03-10|P1 RD Rouge	0
+03-10|P1 RD Vert	0
+03-10|P1-Entzheim	0
+03-10|P1-Eschau	0
+03-10|P1-Feg	0
+03-10|P1-Geispo	0
+03-10|P1-Hoenheim	0
+03-10|P1-Holtzheim	0
+03-10|P1-LaWantz	0
+03-10|P1-Lamp	0
+03-10|P1-Lingo	0
+03-10|P1-Lipsheim	0
+03-10|P1-Mittel/Nieder	0
+03-10|P1-Mundo	0
+03-10|P1-Ober	0
+03-10|P1-Obers	0
+03-10|P1-Plobsheim	0
+03-10|P1-Reichstett	0
+03-10|P1-Schiltigheim	0
+03-10|P1-Souffel	0
+03-10|P1-Vendenheim	0
+03-10|P1-Wolfi	0
+03-10|P1C1	0
+03-10|P1C2	0
+03-10|P1C3	0
+03-10|P1C4	0
+03-10|P1C5	0
+03-10|P1_Achenheim	0
+03-10|P1_Bischheim	0
+03-10|P1_Blaesheim	0
+03-10|P1_Entzheim	0
+03-10|P1_Hoenheim	0
+03-10|P1_LaWantz	0
+03-10|P2 - Bischheim	0
+03-10|P2 - Blaesheim	0
+03-10|P2 - Breusch	0
+03-10|P2 - Eckbo	0
+03-10|P2 - Hang	0
+03-10|P2 - Kolb	0
+03-10|P2 - Lingo	0
+03-10|P2 - Osth	0
+03-10|P2 - Ostwald	0
+03-10|P2 - Schilig	0
+03-10|P2-C4	0
+03-10|P2-Hoenheim	0
+03-10|P2-Lingo	0
+03-10|P2-Ostwald	0
+03-10|P2-Schilig	0
+03-10|P2C1	0
+03-10|P2C10	0
+03-10|P2C11	0
+03-10|P2C12	0
+03-10|P2C2	0
+03-10|P2C3	0
+03-10|P2C4	0
+03-10|P2C5	0
+03-10|P2C6	0
+03-10|P2C7	0
+03-10|P2C8	0
+03-10|P2_Achenheim	0
+03-10|P2_Blaesheim	0
+03-10|P2_Eckbo	0
+03-10|P2_Eckw.	0
+03-10|P2_Entz	0
+03-10|P2_Entz.	0
+03-10|P2_Eschau	0
+03-10|P2_Fegersheim	0
+03-10|P2_Geispo	0
+03-10|P2_Hoenh	0
+03-10|P2_Holtzheim	0
+03-10|P2_Holztheim	0
+03-10|P2_LaWantz	0
+03-10|P2_Lampert	0
+03-10|P2_Lips	0
+03-10|P2_Mittel/Nieder	0
+03-10|P2_Mundo	0
+03-10|P2_Ober	0
+03-10|P2_Oberschaef.	0
+03-10|P2_Ostwald	0
+03-10|P2_Plobsheim	0
+03-10|P2_Reichstett	0
+03-10|P2_Souffel	0
+03-10|P2_Vend.	0
+03-10|P2_Wolfisheim	0
+03-10|PL.Bouchers (POM)->775	4274
+03-10|Paul Dopf -> Canonniers	6592
+03-10|Paul Dopf -> Orbey	6120
+03-10|Petit Rhin->	8375
+03-10|Petit Rhin->Rhin Napol??on	10161
+03-10|Petite Rue des Magasins	14631
+03-10|Pl. Etoile -> Contournemend Sud	13879
+03-10|Pl.Bouchers->F.Eberts	6150
+03-10|Pl.Etoile -> Rte du Rhin	3848
+03-10|Pl.Haguenau (Brumath)->Sortie Autoroute	12145
+03-10|Place de la Gare -> Bld de Nancy	11234
+03-10|Plaine des Bouchers -> Rue Humann	8787
+03-10|Plaine des Bouchers -> Rue du Doubs	5665
+03-10|Plaine des Bouchers->F??d??ration	11039
+03-10|Plaine des Bouchers->Montagne-Verte	11084
+03-10|Pont Lixenbuhl->Rhin	3862
+03-10|Pont Lixenbuhl->Rue d'Alsace	3373
+03-10|Pont Matthis -> Rue Humann	9119
+03-10|Pont Matthis -> Rue de Molsheim	7525
+03-10|Pont Vauban 688-689	24766
+03-10|Pont Vauban 689-688	27606
+03-10|Pont d'Anvers -> Allemagne	10563
+03-10|Pont d'Anvers -> Place de Kehl	8744
+03-10|Pont d'Ostwald -> Lingolsheim	6065
+03-10|Pont de l'Europe -> Allemagne	31083
+03-10|Pont de l'Europe -> Rte du Rhin	32376
+03-10|Pont du Danube -> Quai des Alpes	12124
+03-10|Pont du Danube->Rte du Rhin	10556
+03-10|Quai Frey 201-345	0
+03-10|Quai Kl??ber	1584
+03-10|Quai Pasteur vers Pont Pasteur	7903
+03-10|Quai Pasteur vers Quai Fustel	8957
+03-10|Quai St.Nicolas -> Finkwiller	0
+03-10|Quai St.Nicolas -> Quai des P??cheurs	4878
+03-10|Quai des P??cheurs -> Pont Royal	0
+03-10|Quai des P??cheurs -> Rue de Zurich	0
+03-10|RD1083 1081->1084	0
+03-10|RD1083 1084->1087	0
+03-10|RD1083 1087->Schaal	0
+03-10|RD1083 Achard-1087	0
+03-10|RD1083 Lilly->1081	0
+03-10|RD1083 Schaal-Mont??e A35	0
+03-10|RD1083->A35	0
+03-10|RD37 5015-952	0
+03-10|RD37 952-5015	0
+03-10|RD45 381-390	0
+03-10|RD45 390-381	0
+03-10|RD468->Baggersee	0
+03-10|RD468->Illkirch	0
+03-10|RD563 5008-5010	0
+03-10|RD563 5010-5008	0
+03-10|RD63 5008-5009	0
+03-10|RD63 5009-5008	0
+03-10|RD63 5011-822	0
+03-10|RD63 5012-822	0
+03-10|RD63 822-5011	0
+03-10|RD63 822-5012	0
+03-10|RD63 Holtzheim->Wolfisheim	0
+03-10|RD63 Wolfisheim->Holtzheim	0
+03-10|RN353 Pont Pflimlin-Eschau	0
+03-10|RP Cronenbourg->G.Wodli	6803
+03-10|Republique->Bischheim	7702
+03-10|Republique->Souffelweyersheim	6855
+03-10|Rhin 233-687	20857
+03-10|Rhin 687-233	28191
+03-10|Rhin 687-688	24766
+03-10|Rhin 688-687	27606
+03-10|Rhin 689-696	21932
+03-10|Rhin 696-689	23794
+03-10|Rhin Napol??on -> Rue du Havre	5445
+03-10|Rhin Napol??on->Rte du Rhin	5937
+03-10|Rhin Tortu->Abb?? Ep??e	7180
+03-10|Ribeauville (Orbey) -> Bale	885
+03-10|Rieth->Hochfelden	4619
+03-10|Rieth->Lavoisier	4172
+03-10|Rieth->Mittelhausbergen	2942
+03-10|Rivage -> Ile des Pecheurs	686
+03-10|Rivage -> Melezes	716
+03-10|Romains (Constantin)->Eckbolsheim	7509
+03-10|Romains-A35	0
+03-10|Route du Polygone -> Neudorf	5607
+03-10|Route du Polygone -> Pl. de l'Etoile	7972
+03-10|Rte Bischwiller (1241->961)	6743
+03-10|Rte Brumath (Industrie)->Vendenheim	10745
+03-10|Rte Brumath (Mundolsheim)->Industrie	11045
+03-10|Rte Hausbergen -> Becquerel	2832
+03-10|Rte Mittelhausbergen (Jacob)->Rotonde	7713
+03-10|Rte Mittelhausbergen (Rotonde)->Jacob	7343
+03-10|Rte Neuhof->Illkirch	15599
+03-10|Rte Romains (Constantin)->Ville	5798
+03-10|Rte d'Altenheim vers Av. du Neuhof	3750
+03-10|Rte d'Altenheim vers Stockfeld	3808
+03-10|Rte d'Oberhausbergen vers Centre Ville	0
+03-10|Rte d'Oberhausbergen vers Oberhausberge	0
+03-10|Rte d'Oberhausbergen vers Rotonde	14876
+03-10|Rte de Bischwiller (961->1241)	7739
+03-10|Rte de Bischwiller (Mairie)->Bischheim	8410
+03-10|Rte de Bischwiller (Principale)->Mairie	11414
+03-10|Rte de Bischwiller 1250-952	0
+03-10|Rte de Bischwiller 952-1250	0
+03-10|Rte de Brumath 5013-5014	0
+03-10|Rte de Brumath 5014-5013	0
+03-10|Rte de Brumath 6144-926	0
+03-10|Rte de Brumath 926-5013	0
+03-10|Rte de Brumath vers Schiltigheim	14027
+03-10|Rte de Brumath vers souffelweyersheim	6882
+03-10|Rte de Hausbergen (Becquerel)->Mittel	2377
+03-10|Rte de Hausbergen(Becquerel)->Charme	4535
+03-10|Rte de Hausbergen(Charme)->Becquerel	4440
+03-10|Rte de La Wantzenau->Reichstett	7422
+03-10|Rte de La Wantzenau->Rte de Bischwiller	6770
+03-10|Rte de Lyon (Baumann)->Industrie	9136
+03-10|Rte de Lyon (Industrie)->Baumann	8793
+03-10|Rte de Lyon (Mairie) -> Strasbourg	5247
+03-10|Rte de Lyon (Mairie)->Pont du P??age	4736
+03-10|Rte de Lyon(Gast)->23 Novembre	3679
+03-10|Rte de Lyon(Gast)->Glaciere	5589
+03-10|Rte de Mittelhausbergen vers Mittel.	6750
+03-10|Rte de Mittelhausbergen versStrasbourg	6736
+03-10|Rte de Strasbourg -> Colonne	9929
+03-10|Rte de Strasbourg 923-926	0
+03-10|Rte de Strasbourg 923-929	0
+03-10|Rte de Strasbourg 925-929	0
+03-10|Rte de Strasbourg 926-923	0
+03-10|Rte de Strasbourg 929-923	0
+03-10|Rte de Strasbourg 929-925	0
+03-10|Rte de Strasbourg vers Illkirch	13029
+03-10|Rte de Strasbourg vers Meinau	13037
+03-10|Rte de Strasbourg->Baggersee	9057
+03-10|Rte de l'H??pital -> Pont Adenauer	18630
+03-10|Rte de l'H??pital->Av. Colmar	0
+03-10|Rte de l'Hopital -> H??tel de Police	18395
+03-10|Rte de l'Hopital -> Quai Fustel	3232
+03-10|Rte des Romains vers Eckbolsheim	7197
+03-10|Rte des Romains vers Place Blanche	8381
+03-10|Rte des Romains->Rue de Koenigshoffen	23352
+03-10|Rte du Neuhof -> Neuhof	2665
+03-10|Rte du Neuhof->Rte de Strasbourg	2855
+03-10|Rte du Neuhof->Schuhansen	14854
+03-10|Rte du Rhin (Danube)->Churchill	32159
+03-10|Rte du Rhin (UGC)->Allemagne	34517
+03-10|Rte du Rhin (UGC)->Ville	38279
+03-10|Rte du Rhin (av.233)->Allemagne	36669
+03-10|Rte du Rhin->Contournement Sud	0
+03-10|Rue  prinicipale 820-818	0
+03-10|Rue Alfred Kastler -> Baggersee	12912
+03-10|Rue Alfred Kastler -> Illkirch	11432
+03-10|Rue Boecklin -> Centre Ville	4628
+03-10|Rue Boecklin->Rte de La Wantzenau	4366
+03-10|Rue E.Bugatti -> Lingolsheim	7720
+03-10|Rue E.Bugatti -> Vigie	8153
+03-10|Rue E.Michelet -> Quai des Alpes	5247
+03-10|Rue E.Michelet -> Rte du Rhin	8010
+03-10|Rue Edmond Labb?? -> Bld de la Victoire	2111
+03-10|Rue Edmond Labb??->Rue P.Montet	1527
+03-10|Rue F.Epailly 696-697	21932
+03-10|Rue F.Epailly 697-696	23794
+03-10|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	5100
+03-10|Rue J.Wenger-Valentin vers Schiltigheim	6650
+03-10|Rue Jacques Kabl?? vers Place de Bordea	3521
+03-10|Rue Jacques Kabl?? vers Place de Haguen	2861
+03-10|Rue Lixenbuhl ->Vincent Scotto	2104
+03-10|Rue Lixenbuhl->Rue d'Alsace	2557
+03-10|Rue Ohmacht vers All??e de la Robertsau	8083
+03-10|Rue Ohmacht vers Place de Bordeaux	6862
+03-10|Rue Principale 818-820	0
+03-10|Rue Vauban vers Bld de la Victoire	909
+03-10|Rue Vauban vers Place de Kehl	1367
+03-10|Rue d'Obernai	8067
+03-10|Rue d'Ostwald vers Elmerforst	5789
+03-10|Rue d'Ostwald vers Rue des Pr??s	5575
+03-10|Rue de Copenhague -> E.E.E.	2061
+03-10|Rue de Copenhague->Hausbergen	1820
+03-10|Rue de Fouday	5883
+03-10|Rue de Geispolsheim -> Rue des Vosges	4004
+03-10|Rue de Geispolsheim -> Vigie	3124
+03-10|Rue de Holtzheim->Holtzheim	2660
+03-10|Rue de Holtzheim->Lingolsheim	2941
+03-10|Rue de Koenigshoffen->Charmille	0
+03-10|Rue de Lingolsheim -> Eckbolsheim	8407
+03-10|Rue de Lubeck->Pl. Henri Levy	548
+03-10|Rue de Lubeck->Rue du Port du Rhin	1930
+03-10|Rue de Molsheim	6356
+03-10|Rue de Paris	0
+03-10|Rue de Paris 957-958	0
+03-10|Rue de Ribeauvill?? vers rue d'Orbey	3131
+03-10|Rue de Rome -> Esplanade	3640
+03-10|Rue de Rome -> Krutenau	3664
+03-10|Rue de Strasbourg ->C.820	0
+03-10|Rue de Strasbourg->Niederh.	0
+03-10|Rue de Vienne -> Pont d'Austerlitz	18413
+03-10|Rue de Wasselonne	8843
+03-10|Rue de l'Eglise Rouge -> Schiltigheim	2698
+03-10|Rue de l'Eglise Rouge->J. Kabl??	2047
+03-10|Rue de l'Ill -> Papeterie	11791
+03-10|Rue de l'Ill -> Pont Phario	12763
+03-10|Rue de l'Industrie (Travail)-> Rhin	3633
+03-10|Rue de l'Industrie -> Lixenbuhl	4452
+03-10|Rue de l'Industrie(Rhin)->Travail	2703
+03-10|Rue de l'Industrie->Rte de Lyon	3752
+03-10|Rue de la C??te-Mittel	0
+03-10|Rue de la Mairie->Rte de Bischwiller	6299
+03-10|Rue de la Mairie->Rue Principale	6647
+03-10|Rue de la Porte de l'H??pital	8838
+03-10|Rue de la Rivi??re-> Rte de Schirmeck	3456
+03-10|Rue de la Robertsau -> Ch.Bock	5173
+03-10|Rue de la Robertsau ->Pont Phario	4624
+03-10|Rue des Serruriers	3468
+03-10|Rue du 23 Novembre -> Ostwald	11521
+03-10|Rue du Doubs -> Fr??res Eberts	5580
+03-10|Rue du Doubs -> Plaine des Bouchers	7355
+03-10|Rue du Fbg de Pierre->Nu??e Bleue	6157
+03-10|Rue du Gal Leclerc vers Centre Ostwald	5353
+03-10|Rue du Gal Leclerc vers Strasbourg	6980
+03-10|Rue du Gal Offenstein -> Pfister	4842
+03-10|Rue du Gal Offenstein vers Av.Colmar	5175
+03-10|Rue du Gal de Gaulle 5015-956	0
+03-10|Rue du Gal de Gaulle 956-5015	0
+03-10|Rue du Gal de Gaulle 956-957	0
+03-10|Rue du Gal de Gaulle 957-956	0
+03-10|Rue du Gal de Gaulle vers Bischheim	8795
+03-10|Rue du Gal de Gaulle vers Strasbourg	8689
+03-10|Rue du Landsberg vers Av.Jean Jaur??s	5956
+03-10|Rue du Landsberg vers Rte du Rhin	4972
+03-10|Rue du Mal Foch -> Illkirch	3182
+03-10|Rue du Mal Foch -> Lingolsheim	7338
+03-10|Rue du Mal Foch -> Mairie d'Ostwald	3593
+03-10|Rue du Mal Foch -> Strasbourg	7583
+03-10|Rue du Marais (Bretagne)->Pont Phario	11592
+03-10|Rue du Marais (Phario) -> Zorn	11150
+03-10|Rue du Marais (Phario)->Gal De Gaulle	8507
+03-10|Rue du Marais ->Gal de Gaulle	6881
+03-10|Rue du Marais(De Gaulle)->La Wantzenau	6429
+03-10|Rue du Marais(De Gaulle)->Pont Phario	8864
+03-10|Rue du Rempart -> Cronenbourg	2229
+03-10|Rue du Rempart->Koenigshoffen	2980
+03-10|Rue du Rhin Tortu vers Gal Offenstein	6117
+03-10|Rue du Rhin Tortu vers Neuhof	6528
+03-10|Ruer de Lingolsheim->Ostwald	6460
+03-10|Schirmeck1 - Entree Ville	0
+03-10|Schirmeck10 - Sortie Ville	0
+03-10|Schirmeck11 - Entree Ville	0
+03-10|Schirmeck12 - Sortie Ville	17741
+03-10|Schirmeck13 - Entree Ville	0
+03-10|Schirmeck14 - Sortie Ville	16868
+03-10|Schirmeck15 - Entree Ville	17316
+03-10|Schirmeck16 - Sortie Ville	0
+03-10|Schirmeck17 - Entree Ville	0
+03-10|Schirmeck18 - Sortie Ville	7020
+03-10|Schirmeck2 - Sortie Ville	0
+03-10|Schirmeck3 - Entree Ville	10168
+03-10|Schirmeck4 - Sortie Ville	10664
+03-10|Schirmeck5 - Entree Ville	16499
+03-10|Schirmeck6 - Sortie Ville	0
+03-10|Schirmeck7 - Entree Ville	0
+03-10|Schirmeck8 - Sortie Ville	17461
+03-10|Schirmeck9 - Entree Ville	18621
+03-10|Schuhansen->Ganzau	11198
+03-10|Sortie A 351	21899
+03-10|Sortie A35 -> Baggersee	30489
+03-10|Sortie A35->G.Wodli	11610
+03-10|Sortie A351 -> Herrenschmidt	25693
+03-10|Sortie Autoroute Elsau	13715
+03-10|Sortie Autoroute Rue Montagne-Verte	4000
+03-10|Sortie Autoroute Rue de Saales	7804
+03-10|Sortie Eglise Rouge->J. Kabl??	11186
+03-10|Sortie Geispo Gare-> Lingo	0
+03-10|Sortie Lingo -> Entzheim	4510
+03-10|Sortie Rte du Rhin -> Pl.Etoile	4933
+03-10|Sortie Tunnel -> Allemagne	0
+03-10|St.Jean	4935
+03-10|Tanneurs	0
+03-10|Tour Verte -> Nord	11529
+03-10|Tour Verte -> Sud	0
+03-10|Wasselonne->Eckbo	5919
+03-10|Wasselonne->Romains	6003
+03-10|Wolfisheim 5008-871	0
+03-10|Wolfisheim 871-5008	0
+03-10|Zurich 218-444	0
+03-10|canal 379-380	0
+03-10|canal 379-382	0
+03-10|canal 380-379	0
+03-10|canal 382-379	0
+03-10|cora-lampertheim	0
+03-10|de gaulle 360-381	0
+03-10|de gaulle 381-360	0
+03-10|de gaulle 818-871	0
+03-10|de gaulle 871-818	0
+03-10|graffenstaden 1179-5018	0
+03-10|graffenstaden 1179-5019	0
+03-10|graffenstaden 5016-5017	0
+03-10|graffenstaden 5017-5018	0
+03-10|graffenstaden 5018-1179	0
+03-10|graffenstaden 5018-5017	0
+03-10|graffenstaden 5019-1179	0
+03-10|gtraffenstaden 5017-5016	0
+03-10|havre 5004-627	0
+03-10|havre 627-5004	0
+03-10|havre 627-688	0
+03-10|havre 688-627	0
+03-10|juifs 1173-5019	0
+03-10|juifs 5019-1173	0
+03-10|lampertheim-cora	0
+03-10|lampertheim-mundo	0
+03-10|leclerc 381-384	0
+03-10|leclerc 382-384	0
+03-10|leclerc 384-382	0
+03-10|mundo-lampertheim	0
+03-10|ober 386-381	0
+03-10|ober_5000	0
+03-10|ober_5001	0
+03-10|ober_5002	0
+03-10|ober_5003	0
+03-10|p2_Souffel	0
+03-10|rochelle 0670-5007	0
+03-10|rochelle 5004-5005	0
+03-10|rochelle 5005-5004	0
+03-10|rochelle 5005-5006	0
+03-10|rochelle 5006-5005	0
+03-10|rochelle 5006-670	0
+03-10|rochelle 5007-0670	0
+03-10|rochelle 670-5006	0
+03-10|rue de koenigshoffen->Autoroute	8526
+03-10|seigneurs_5004	0
+03-10|seigneurs_5005	0
+03-10|seigneurs_5006	0
+03-10|seigneurs_5007	0
+03-10|seigneurs_5008	0
+03-10|seigneurs_5009	0
+03-10|sortie autoroute rue de koenigshoffen	14869
+03-11|23 Novembre -> Rte de Lyon	3928
+03-11|A35 A351-S	0
+03-11|A35 Baggersee-Schirmeck	0
+03-11|A35 Baggersee-Vigie	0
+03-11|A35 Duppigheim-Entzheim	0
+03-11|A35 Ech.Schirmeck N-S	0
+03-11|A35 Entzheim-Duppigheim	0
+03-11|A35 Entzheim-Vigie	0
+03-11|A35 N-S PC Gutenberg	0
+03-11|A35 N-S Sortie Halles	0
+03-11|A35 S-N A350	0
+03-11|A35 S-N Sortie Cronenbourg	0
+03-11|A35 Schirmeck-A351 S-N	0
+03-11|A35 Schirmeck-A351 S-N2	0
+03-11|A35 Schirmeck-Baggersee	0
+03-11|A35 Vigie N-S	0
+03-11|A35 Vigie S-N	0
+03-11|A35 Vigie-Baggersee	0
+03-11|A35 Vigie-Entzheim	0
+03-11|A35 sortie Vigie N-S	0
+03-11|A35->A351	0
+03-11|A35->RD1083	0
+03-11|A35-A350	0
+03-11|A35-A351 N-O	0
+03-11|A35-Pl.Blanche	0
+03-11|A35-Pl.Haguenau N-S	0
+03-11|A35-Pl.Haguenau S-N	0
+03-11|A350-> Sortie Kabl??	0
+03-11|A351 A35-Sortie Auchan	0
+03-11|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-11|A351 Leroy-A35	0
+03-11|A351 Sortie Auchan-Echangeur Wolfi	0
+03-11|A351-A35N	0
+03-11|A351-A35N2	0
+03-11|A351-A35S	0
+03-11|A351-Pl.Blanche	0
+03-11|A35A531-P.Schirmeck N-S	0
+03-11|A4 (Hoenheim) S-N	0
+03-11|A4 Hauteur TGv S-N	0
+03-11|A4 Hoenheim-> TGV	0
+03-11|A4 Hoenheim-Ech.Reichstett	0
+03-11|A4 N-S Cronenbourg	0
+03-11|A4 N-S Hoerdt Reichstett	0
+03-11|A4 N-S Reichstett	0
+03-11|A4 Reichstett->Hoenheim	0
+03-11|A4 S-N Cronenbourg	0
+03-11|A4 S-N Echangeur Reichstett	0
+03-11|A4 S-N Reichstett Hoerdt	0
+03-11|A4-Schiltigheim S-N	0
+03-11|A4-Schitigheim N-S	0
+03-11|Abbe de l'Epee -> Rhin Tortu	2771
+03-11|Abbe de l'Epee->Rte du Neuhof	2840
+03-11|Acc??s A351 S	0
+03-11|Alcide de Gasperi -> Lingo	4395
+03-11|All??e Droits de l'Homme->Orangerie	3917
+03-11|All??e Droits de l'Homme->Robertsau	3762
+03-11|All??e J.Auriol-> Mermoz	435
+03-11|All??e J.Auriol->Av.Neuhof	625
+03-11|All??e de la Robertsau -> Bld Tauler	4056
+03-11|All??e de la Robertsau -> Place Brant	6093
+03-11|Alpes (ap.Churchill) -> Robertsau	4987
+03-11|Alpes (ap.Churchill)->Etoile	5746
+03-11|Alpes(av.Churchill)->Etoile	5153
+03-11|Alpes(av.Churchill)->Robertsau	5771
+03-11|Av. Colmar (Mulhouse) vers Centre ville	3724
+03-11|Av. Colmar (Racing) vers Centre Ville	4827
+03-11|Av. Herrenschmidt vers A350	4276
+03-11|Av. Herrenschmidt vers Place de Bordeau	4070
+03-11|Av. Jean-Jaur??s -> Neudorf	3791
+03-11|Av. Jean-Jaur??s -> Place de l'Etoile	3413
+03-11|Av. d'Alsace vers Place Brant	9975
+03-11|Av. de la Paix vers Av. des Vosges	1117
+03-11|Av. des Vosges vers Place de Haguenau	7617
+03-11|Av. du Gal de Gaulle -> Esplanade	4030
+03-11|Av. du Neuhof vers Stockfeld	3706
+03-11|Av. du Neuhof vers rte du Polygone	3791
+03-11|Av.A.Briand -> Av. Jean Jaur??s	3639
+03-11|Av.A.Briand -> Rte du Rhin	3286
+03-11|Av.Colmar (Racing) vers Illkirch	3583
+03-11|Av.For??t-Noire->Bld d'Anvers	5676
+03-11|Av.For??t-Noire->PL.Brant	6045
+03-11|Av.Gal de Gaulle -> Bld de la Victoire	4292
+03-11|Av.Jean Jaur??s vers Rue du Landsberg	3266
+03-11|Av.Jean Jaures->Av.A.Briand	3194
+03-11|Av.Mendes France (Contades)->Tribunal	9199
+03-11|Av.Mendes France->Contades	11117
+03-11|Av.Schuman -> Mal Foch	4124
+03-11|Av.Schumann-> Sports	4111
+03-11|Av.Schutzenberger vers Pl. A.Zeller	916
+03-11|Av.Schutzenberger vers Pl. Bordeaux	848
+03-11|Av.d'Alsace vers Av. des Vosges	10656
+03-11|Av.de la Libert?? vers Pl. Universit??	812
+03-11|Av.de la Libert?? vers Pl.R??publique	1307
+03-11|Av.de la Paix vers Place de Bordeaux	1954
+03-11|Av.des Voges vers Av. For??t-Noire	6398
+03-11|Avenue Moli??re -> Rue Paul Val??ry	4375
+03-11|Barreau L.I.P.-> Rhin Napol??on	6289
+03-11|Barreau L.I.P.->Allemagne	11544
+03-11|Bld Anvers (532)->Bld de la Marne	2691
+03-11|Bld Cl??menceau vers Av. de la Paix	1968
+03-11|Bld Clemenceau vers Av. des Vosges	3510
+03-11|Bld Leblois -> Bld de la Marne	4624
+03-11|Bld Leblois -> Bld de la Victoire	5485
+03-11|Bld Lyon (Obernai) -> Rue de Molsheim	9325
+03-11|Bld Pierre Pflimlin -> Robertsau	3988
+03-11|Bld Pierre Pflimlin -> Wacken	4061
+03-11|Bld Victoire (Fritz Kiener->Universit??)	1282
+03-11|Bld Victoire (Universit??->Grandidier)	1977
+03-11|Bld Wilson -> Place de la Gare	8080
+03-11|Bld Wilson vers Fbg de Saverne	9325
+03-11|Bld d'Anvers (532)->Pont d'Anvers	1801
+03-11|Bld de Dresde vers Pl.A.Zeller	4156
+03-11|Bld de Dresde vers Robertsau	3572
+03-11|Bld de Lyon (Saales) -> Rue de Molsheim	11079
+03-11|Bld de Lyon -> Rue d'Obernai	11021
+03-11|Bourse 206-207	0
+03-11|Bourse 207-206	0
+03-11|Calmette->A351	6950
+03-11|Calmette->CHU	9020
+03-11|Centre Administratif -> Bourse	0
+03-11|Centre Administratif -> Neudorf	2311
+03-11|Contournement Sud->A35	0
+03-11|Cyclistes Rue de Vienne -> Centre	847
+03-11|Cyclistes Rue de Vienne -> Neudorf	1338
+03-11|D84 Geispo 5202-5204	0
+03-11|D84 entr??e Geispo	0
+03-11|D84 sortie Geispo Gare	0
+03-11|D84->Geispo Gare	0
+03-11|Descente Autoroute Place de Haguenau	8582
+03-11|Descente Contournement Sud Rte Hopital	13724
+03-11|Descente contournement Sud Pl.Etoile	5768
+03-11|Division Leclerc	2998
+03-11|E.Rostand-> A351	5613
+03-11|E.Rostand->av.Corneille	3423
+03-11|Echangeur Baggersee A35 N-S	0
+03-11|Echangeur Baggersee A35 S-N	0
+03-11|Elmerforst (1101)->1190	1109
+03-11|Elmerforst (1190)->1101	1080
+03-11|Entr??e Geispo Gare cot?? Lingo	0
+03-11|Entree Lingo	3374
+03-11|Faubourg de Saverne vers Bld Wilson	3055
+03-11|Faubourg de Saverne vers Pont de Savern	1030
+03-11|Fbg de Pierre -> Cl??menceau	2964
+03-11|Federation->Colmar	1574
+03-11|Federation->Pl.Bouchers	1672
+03-11|Finkwiller Humann 345-341	0
+03-11|Fustel 206-221	0
+03-11|Fustel 221-206	0
+03-11|G.Wodli->Cronenbourg	10171
+03-11|Gal Offenstein(Pfister)->Rhin Tortu	3906
+03-11|Gare 311-312	0
+03-11|Gare 312-311	0
+03-11|Geispo E-O1	0
+03-11|Geispo E-O2	0
+03-11|Geispo E-O3	0
+03-11|Geispo O-E1	0
+03-11|Geispo O-E2	0
+03-11|Geispo O-E3	0
+03-11|Hochfelden (837) ->Villette	1508
+03-11|Hochfelden (837)->centre ville	3130
+03-11|Humann 310-341	0
+03-11|Humann 341-301	0
+03-11|Humann-Finkwiller 341-345	0
+03-11|Ile des Pecheurs -> Rivage	377
+03-11|Ile des Pecheurs->Gal Leclerc	415
+03-11|J.P.Levy -> Alpes	3448
+03-11|J.P.Levy->Esplanade	2701
+03-11|Kastner -> Boecklin	3754
+03-11|Kastner -> Jacoutot	3786
+03-11|Koenig 207-217	0
+03-11|Koenig 217-207	0
+03-11|Koenigshoffen-A351 - 1	0
+03-11|Lausanne 217-218	0
+03-11|Lausanne 218-217	0
+03-11|Lavoisier->Langevin	1235
+03-11|Leclerc 384-381	0
+03-11|Lyon (P??cheurs) -> Geispolsheim	3266
+03-11|Lyon (P??cheurs)->Strasbourg	2871
+03-11|Lyon 301-302	0
+03-11|Lyon 302-301	0
+03-11|Lyon 304-302	0
+03-11|Lyon 307-308	0
+03-11|Lyon 308-307	0
+03-11|M.Verte -> PL.des Bouchers	9758
+03-11|M.Verte -> Unterelsau	7615
+03-11|Mal Foch (Thiriet) -> 23 Novembre	2473
+03-11|Mal Foch (Thiriet)->Ostwald	2313
+03-11|Mitterrand->P??guy	1886
+03-11|Mitterrand->Wasselonne	2450
+03-11|Mont??e A35 Baggersee	14558
+03-11|Mont??e A350 Herrenschmidt	18055
+03-11|Montagne-Verte21	3747
+03-11|Montagne-Verte3 -> Nord	10713
+03-11|Montagne-Verte4 -> Sud	0
+03-11|Montagne-Verte5 -> Nord	0
+03-11|Montagne-Verte6 -> Sud	7219
+03-11|Montee Contournement Sud (H??pital)	11467
+03-11|N353 Eschau-Lilly	0
+03-11|N353 Eschau-Pont Pflimlin	0
+03-11|N353 Lilly-Eschau	0
+03-11|N4-A35 E-N	0
+03-11|N4-A35 E-S	0
+03-11|Ostwald1 -> Sud	0
+03-11|Ostwald2 -> Nord	0
+03-11|Ostwald3 -> Sud	3369
+03-11|Ostwald40 -> Nord	3676
+03-11|P1 - Breusch	0
+03-11|P1 - Eckbo	0
+03-11|P1 - Eckw	0
+03-11|P1 - Hang	0
+03-11|P1 - Kolb	0
+03-11|P1 - Osth	0
+03-11|P1 RD Bleu	0
+03-11|P1 RD Orange	0
+03-11|P1 RD Rouge	0
+03-11|P1 RD Vert	0
+03-11|P1-Entzheim	0
+03-11|P1-Eschau	0
+03-11|P1-Feg	0
+03-11|P1-Geispo	0
+03-11|P1-Hoenheim	0
+03-11|P1-Holtzheim	0
+03-11|P1-LaWantz	0
+03-11|P1-Lamp	0
+03-11|P1-Lingo	0
+03-11|P1-Lipsheim	0
+03-11|P1-Mittel/Nieder	0
+03-11|P1-Mundo	0
+03-11|P1-Ober	0
+03-11|P1-Obers	0
+03-11|P1-Plobsheim	0
+03-11|P1-Reichstett	0
+03-11|P1-Schiltigheim	0
+03-11|P1-Souffel	0
+03-11|P1-Vendenheim	0
+03-11|P1-Wolfi	0
+03-11|P1C1	0
+03-11|P1C2	0
+03-11|P1C3	0
+03-11|P1C4	0
+03-11|P1C5	0
+03-11|P1_Achenheim	0
+03-11|P1_Bischheim	0
+03-11|P1_Blaesheim	0
+03-11|P1_Entzheim	0
+03-11|P1_Hoenheim	0
+03-11|P1_LaWantz	0
+03-11|P2 - Bischheim	0
+03-11|P2 - Blaesheim	0
+03-11|P2 - Breusch	0
+03-11|P2 - Eckbo	0
+03-11|P2 - Hang	0
+03-11|P2 - Kolb	0
+03-11|P2 - Lingo	0
+03-11|P2 - Osth	0
+03-11|P2 - Ostwald	0
+03-11|P2 - Schilig	0
+03-11|P2-C4	0
+03-11|P2-Hoenheim	0
+03-11|P2-Lingo	0
+03-11|P2-Ostwald	0
+03-11|P2-Schilig	0
+03-11|P2C1	0
+03-11|P2C10	0
+03-11|P2C11	0
+03-11|P2C12	0
+03-11|P2C2	0
+03-11|P2C3	0
+03-11|P2C4	0
+03-11|P2C5	0
+03-11|P2C6	0
+03-11|P2C7	0
+03-11|P2C8	0
+03-11|P2_Achenheim	0
+03-11|P2_Blaesheim	0
+03-11|P2_Eckbo	0
+03-11|P2_Eckw.	0
+03-11|P2_Entz	0
+03-11|P2_Entz.	0
+03-11|P2_Eschau	0
+03-11|P2_Fegersheim	0
+03-11|P2_Geispo	0
+03-11|P2_Hoenh	0
+03-11|P2_Holtzheim	0
+03-11|P2_Holztheim	0
+03-11|P2_LaWantz	0
+03-11|P2_Lampert	0
+03-11|P2_Lips	0
+03-11|P2_Mittel/Nieder	0
+03-11|P2_Mundo	0
+03-11|P2_Ober	0
+03-11|P2_Oberschaef.	0
+03-11|P2_Ostwald	0
+03-11|P2_Plobsheim	0
+03-11|P2_Reichstett	0
+03-11|P2_Souffel	0
+03-11|P2_Vend.	0
+03-11|P2_Wolfisheim	0
+03-11|PL.Bouchers (POM)->775	2445
+03-11|Paul Dopf -> Canonniers	3759
+03-11|Paul Dopf -> Orbey	3448
+03-11|Petit Rhin->	4567
+03-11|Petit Rhin->Rhin Napol??on	5441
+03-11|Petite Rue des Magasins	6364
+03-11|Pl. Etoile -> Contournemend Sud	7649
+03-11|Pl.Bouchers->F.Eberts	3466
+03-11|Pl.Etoile -> Rte du Rhin	3653
+03-11|Pl.Haguenau (Brumath)->Sortie Autoroute	7284
+03-11|Place de la Gare -> Bld de Nancy	8611
+03-11|Plaine des Bouchers -> Rue Humann	7004
+03-11|Plaine des Bouchers -> Rue du Doubs	4094
+03-11|Plaine des Bouchers->F??d??ration	6994
+03-11|Plaine des Bouchers->Montagne-Verte	6823
+03-11|Pont Lixenbuhl->Rhin	1628
+03-11|Pont Lixenbuhl->Rue d'Alsace	1532
+03-11|Pont Matthis -> Rue Humann	5615
+03-11|Pont Matthis -> Rue de Molsheim	4981
+03-11|Pont Vauban 688-689	13188
+03-11|Pont Vauban 689-688	15218
+03-11|Pont d'Anvers -> Allemagne	5866
+03-11|Pont d'Anvers -> Place de Kehl	5074
+03-11|Pont d'Ostwald -> Lingolsheim	2880
+03-11|Pont de l'Europe -> Allemagne	15647
+03-11|Pont de l'Europe -> Rte du Rhin	17370
+03-11|Pont du Danube -> Quai des Alpes	8965
+03-11|Pont du Danube->Rte du Rhin	6603
+03-11|Quai Frey 201-345	0
+03-11|Quai Kl??ber	742
+03-11|Quai Pasteur vers Pont Pasteur	4881
+03-11|Quai Pasteur vers Quai Fustel	6265
+03-11|Quai St.Nicolas -> Finkwiller	0
+03-11|Quai St.Nicolas -> Quai des P??cheurs	2343
+03-11|Quai des P??cheurs -> Pont Royal	0
+03-11|Quai des P??cheurs -> Rue de Zurich	0
+03-11|RD1083 1081->1084	0
+03-11|RD1083 1084->1087	0
+03-11|RD1083 1087->Schaal	0
+03-11|RD1083 Achard-1087	0
+03-11|RD1083 Lilly->1081	0
+03-11|RD1083 Schaal-Mont??e A35	0
+03-11|RD1083->A35	0
+03-11|RD37 5015-952	0
+03-11|RD37 952-5015	0
+03-11|RD45 381-390	0
+03-11|RD45 390-381	0
+03-11|RD468->Baggersee	0
+03-11|RD468->Illkirch	0
+03-11|RD563 5008-5010	0
+03-11|RD563 5010-5008	0
+03-11|RD63 5008-5009	0
+03-11|RD63 5009-5008	0
+03-11|RD63 5011-822	0
+03-11|RD63 5012-822	0
+03-11|RD63 822-5011	0
+03-11|RD63 822-5012	0
+03-11|RD63 Holtzheim->Wolfisheim	0
+03-11|RD63 Wolfisheim->Holtzheim	0
+03-11|RN353 Pont Pflimlin-Eschau	0
+03-11|RP Cronenbourg->G.Wodli	3457
+03-11|Republique->Bischheim	4142
+03-11|Republique->Souffelweyersheim	3790
+03-11|Rhin 233-687	11000
+03-11|Rhin 687-233	16155
+03-11|Rhin 687-688	13188
+03-11|Rhin 688-687	15218
+03-11|Rhin 689-696	11341
+03-11|Rhin 696-689	12831
+03-11|Rhin Napol??on -> Rue du Havre	2966
+03-11|Rhin Napol??on->Rte du Rhin	3477
+03-11|Rhin Tortu->Abb?? Ep??e	3904
+03-11|Ribeauville (Orbey) -> Bale	493
+03-11|Rieth->Hochfelden	2387
+03-11|Rieth->Lavoisier	2364
+03-11|Rieth->Mittelhausbergen	1556
+03-11|Rivage -> Ile des Pecheurs	344
+03-11|Rivage -> Melezes	358
+03-11|Romains (Constantin)->Eckbolsheim	4138
+03-11|Romains-A35	0
+03-11|Route du Polygone -> Neudorf	3264
+03-11|Route du Polygone -> Pl. de l'Etoile	4504
+03-11|Rte Bischwiller (1241->961)	3946
+03-11|Rte Brumath (Industrie)->Vendenheim	2952
+03-11|Rte Brumath (Mundolsheim)->Industrie	2956
+03-11|Rte Hausbergen -> Becquerel	1410
+03-11|Rte Mittelhausbergen (Jacob)->Rotonde	3829
+03-11|Rte Mittelhausbergen (Rotonde)->Jacob	3705
+03-11|Rte Neuhof->Illkirch	7662
+03-11|Rte Romains (Constantin)->Ville	3130
+03-11|Rte d'Altenheim vers Av. du Neuhof	2034
+03-11|Rte d'Altenheim vers Stockfeld	2115
+03-11|Rte d'Oberhausbergen vers Centre Ville	0
+03-11|Rte d'Oberhausbergen vers Oberhausberge	0
+03-11|Rte d'Oberhausbergen vers Rotonde	7634
+03-11|Rte de Bischwiller (961->1241)	4781
+03-11|Rte de Bischwiller (Mairie)->Bischheim	4939
+03-11|Rte de Bischwiller (Principale)->Mairie	6278
+03-11|Rte de Bischwiller 1250-952	0
+03-11|Rte de Bischwiller 952-1250	0
+03-11|Rte de Brumath 5013-5014	0
+03-11|Rte de Brumath 5014-5013	0
+03-11|Rte de Brumath 6144-926	0
+03-11|Rte de Brumath 926-5013	0
+03-11|Rte de Brumath vers Schiltigheim	6044
+03-11|Rte de Brumath vers souffelweyersheim	2616
+03-11|Rte de Hausbergen (Becquerel)->Mittel	1290
+03-11|Rte de Hausbergen(Becquerel)->Charme	2370
+03-11|Rte de Hausbergen(Charme)->Becquerel	2354
+03-11|Rte de La Wantzenau->Reichstett	3075
+03-11|Rte de La Wantzenau->Rte de Bischwiller	2710
+03-11|Rte de Lyon (Baumann)->Industrie	4891
+03-11|Rte de Lyon (Industrie)->Baumann	5073
+03-11|Rte de Lyon (Mairie) -> Strasbourg	2193
+03-11|Rte de Lyon (Mairie)->Pont du P??age	2160
+03-11|Rte de Lyon(Gast)->23 Novembre	1833
+03-11|Rte de Lyon(Gast)->Glaciere	2732
+03-11|Rte de Mittelhausbergen vers Mittel.	2722
+03-11|Rte de Mittelhausbergen versStrasbourg	2759
+03-11|Rte de Strasbourg -> Colonne	5511
+03-11|Rte de Strasbourg 923-926	0
+03-11|Rte de Strasbourg 923-929	0
+03-11|Rte de Strasbourg 925-929	0
+03-11|Rte de Strasbourg 926-923	0
+03-11|Rte de Strasbourg 929-923	0
+03-11|Rte de Strasbourg 929-925	0
+03-11|Rte de Strasbourg vers Illkirch	6187
+03-11|Rte de Strasbourg vers Meinau	6770
+03-11|Rte de Strasbourg->Baggersee	4358
+03-11|Rte de l'H??pital -> Pont Adenauer	11045
+03-11|Rte de l'H??pital->Av. Colmar	0
+03-11|Rte de l'Hopital -> H??tel de Police	11059
+03-11|Rte de l'Hopital -> Quai Fustel	2206
+03-11|Rte des Romains vers Eckbolsheim	4596
+03-11|Rte des Romains vers Place Blanche	4960
+03-11|Rte des Romains->Rue de Koenigshoffen	15008
+03-11|Rte du Neuhof -> Neuhof	1513
+03-11|Rte du Neuhof->Rte de Strasbourg	1624
+03-11|Rte du Neuhof->Schuhansen	7750
+03-11|Rte du Rhin (Danube)->Churchill	18947
+03-11|Rte du Rhin (UGC)->Allemagne	22770
+03-11|Rte du Rhin (UGC)->Ville	23716
+03-11|Rte du Rhin (av.233)->Allemagne	24006
+03-11|Rte du Rhin->Contournement Sud	0
+03-11|Rue  prinicipale 820-818	0
+03-11|Rue Alfred Kastler -> Baggersee	7553
+03-11|Rue Alfred Kastler -> Illkirch	7328
+03-11|Rue Boecklin -> Centre Ville	2264
+03-11|Rue Boecklin->Rte de La Wantzenau	2196
+03-11|Rue E.Bugatti -> Lingolsheim	3724
+03-11|Rue E.Bugatti -> Vigie	3500
+03-11|Rue E.Michelet -> Quai des Alpes	4358
+03-11|Rue E.Michelet -> Rte du Rhin	5827
+03-11|Rue Edmond Labb?? -> Bld de la Victoire	1751
+03-11|Rue Edmond Labb??->Rue P.Montet	1449
+03-11|Rue F.Epailly 696-697	11341
+03-11|Rue F.Epailly 697-696	12831
+03-11|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	3229
+03-11|Rue J.Wenger-Valentin vers Schiltigheim	3947
+03-11|Rue Jacques Kabl?? vers Place de Bordea	2278
+03-11|Rue Jacques Kabl?? vers Place de Haguen	1898
+03-11|Rue Lixenbuhl ->Vincent Scotto	1041
+03-11|Rue Lixenbuhl->Rue d'Alsace	1220
+03-11|Rue Ohmacht vers All??e de la Robertsau	5365
+03-11|Rue Ohmacht vers Place de Bordeaux	4390
+03-11|Rue Principale 818-820	0
+03-11|Rue Vauban vers Bld de la Victoire	495
+03-11|Rue Vauban vers Place de Kehl	963
+03-11|Rue d'Obernai	5051
+03-11|Rue d'Ostwald vers Elmerforst	3275
+03-11|Rue d'Ostwald vers Rue des Pr??s	3198
+03-11|Rue de Copenhague -> E.E.E.	978
+03-11|Rue de Copenhague->Hausbergen	962
+03-11|Rue de Fouday	3600
+03-11|Rue de Geispolsheim -> Rue des Vosges	2004
+03-11|Rue de Geispolsheim -> Vigie	1639
+03-11|Rue de Holtzheim->Holtzheim	1226
+03-11|Rue de Holtzheim->Lingolsheim	1367
+03-11|Rue de Koenigshoffen->Charmille	0
+03-11|Rue de Lingolsheim -> Eckbolsheim	3945
+03-11|Rue de Lubeck->Pl. Henri Levy	221
+03-11|Rue de Lubeck->Rue du Port du Rhin	987
+03-11|Rue de Molsheim	3478
+03-11|Rue de Paris	0
+03-11|Rue de Paris 957-958	0
+03-11|Rue de Ribeauvill?? vers rue d'Orbey	2000
+03-11|Rue de Rome -> Esplanade	2448
+03-11|Rue de Rome -> Krutenau	2870
+03-11|Rue de Strasbourg ->C.820	0
+03-11|Rue de Strasbourg->Niederh.	0
+03-11|Rue de Vienne -> Pont d'Austerlitz	7289
+03-11|Rue de Wasselonne	5742
+03-11|Rue de l'Eglise Rouge -> Schiltigheim	1659
+03-11|Rue de l'Eglise Rouge->J. Kabl??	1069
+03-11|Rue de l'Ill -> Papeterie	6955
+03-11|Rue de l'Ill -> Pont Phario	7586
+03-11|Rue de l'Industrie (Travail)-> Rhin	1645
+03-11|Rue de l'Industrie -> Lixenbuhl	2052
+03-11|Rue de l'Industrie(Rhin)->Travail	1172
+03-11|Rue de l'Industrie->Rte de Lyon	1521
+03-11|Rue de la C??te-Mittel	0
+03-11|Rue de la Mairie->Rte de Bischwiller	3746
+03-11|Rue de la Mairie->Rue Principale	3594
+03-11|Rue de la Porte de l'H??pital	5149
+03-11|Rue de la Rivi??re-> Rte de Schirmeck	2192
+03-11|Rue de la Robertsau -> Ch.Bock	3183
+03-11|Rue de la Robertsau ->Pont Phario	2724
+03-11|Rue des Serruriers	1634
+03-11|Rue du 23 Novembre -> Ostwald	4767
+03-11|Rue du Doubs -> Fr??res Eberts	3532
+03-11|Rue du Doubs -> Plaine des Bouchers	4135
+03-11|Rue du Fbg de Pierre->Nu??e Bleue	3129
+03-11|Rue du Gal Leclerc vers Centre Ostwald	2693
+03-11|Rue du Gal Leclerc vers Strasbourg	3478
+03-11|Rue du Gal Offenstein -> Pfister	3053
+03-11|Rue du Gal Offenstein vers Av.Colmar	3152
+03-11|Rue du Gal de Gaulle 5015-956	0
+03-11|Rue du Gal de Gaulle 956-5015	0
+03-11|Rue du Gal de Gaulle 956-957	0
+03-11|Rue du Gal de Gaulle 957-956	0
+03-11|Rue du Gal de Gaulle vers Bischheim	4503
+03-11|Rue du Gal de Gaulle vers Strasbourg	4436
+03-11|Rue du Landsberg vers Av.Jean Jaur??s	4323
+03-11|Rue du Landsberg vers Rte du Rhin	3410
+03-11|Rue du Mal Foch -> Illkirch	1747
+03-11|Rue du Mal Foch -> Lingolsheim	3884
+03-11|Rue du Mal Foch -> Mairie d'Ostwald	1881
+03-11|Rue du Mal Foch -> Strasbourg	3971
+03-11|Rue du Marais (Bretagne)->Pont Phario	7489
+03-11|Rue du Marais (Phario) -> Zorn	7250
+03-11|Rue du Marais (Phario)->Gal De Gaulle	4811
+03-11|Rue du Marais ->Gal de Gaulle	3589
+03-11|Rue du Marais(De Gaulle)->La Wantzenau	3317
+03-11|Rue du Marais(De Gaulle)->Pont Phario	5108
+03-11|Rue du Rempart -> Cronenbourg	1217
+03-11|Rue du Rempart->Koenigshoffen	1593
+03-11|Rue du Rhin Tortu vers Gal Offenstein	3380
+03-11|Rue du Rhin Tortu vers Neuhof	3570
+03-11|Ruer de Lingolsheim->Ostwald	2846
+03-11|Schirmeck1 - Entree Ville	0
+03-11|Schirmeck10 - Sortie Ville	0
+03-11|Schirmeck11 - Entree Ville	0
+03-11|Schirmeck12 - Sortie Ville	10908
+03-11|Schirmeck13 - Entree Ville	0
+03-11|Schirmeck14 - Sortie Ville	10550
+03-11|Schirmeck15 - Entree Ville	10439
+03-11|Schirmeck16 - Sortie Ville	0
+03-11|Schirmeck17 - Entree Ville	0
+03-11|Schirmeck18 - Sortie Ville	4395
+03-11|Schirmeck2 - Sortie Ville	0
+03-11|Schirmeck3 - Entree Ville	6325
+03-11|Schirmeck4 - Sortie Ville	6471
+03-11|Schirmeck5 - Entree Ville	10036
+03-11|Schirmeck6 - Sortie Ville	0
+03-11|Schirmeck7 - Entree Ville	0
+03-11|Schirmeck8 - Sortie Ville	11015
+03-11|Schirmeck9 - Entree Ville	11302
+03-11|Schuhansen->Ganzau	5956
+03-11|Sortie A 351	10626
+03-11|Sortie A35 -> Baggersee	16404
+03-11|Sortie A35->G.Wodli	5134
+03-11|Sortie A351 -> Herrenschmidt	15965
+03-11|Sortie Autoroute Elsau	8359
+03-11|Sortie Autoroute Rue Montagne-Verte	1891
+03-11|Sortie Autoroute Rue de Saales	5341
+03-11|Sortie Eglise Rouge->J. Kabl??	7091
+03-11|Sortie Geispo Gare-> Lingo	0
+03-11|Sortie Lingo -> Entzheim	2642
+03-11|Sortie Rte du Rhin -> Pl.Etoile	2573
+03-11|Sortie Tunnel -> Allemagne	0
+03-11|St.Jean	2451
+03-11|Tanneurs	0
+03-11|Tour Verte -> Nord	7178
+03-11|Tour Verte -> Sud	0
+03-11|Wasselonne->Eckbo	2902
+03-11|Wasselonne->Romains	3216
+03-11|Wolfisheim 5008-871	0
+03-11|Wolfisheim 871-5008	0
+03-11|Zurich 218-444	0
+03-11|canal 379-380	0
+03-11|canal 379-382	0
+03-11|canal 380-379	0
+03-11|canal 382-379	0
+03-11|cora-lampertheim	0
+03-11|de gaulle 360-381	0
+03-11|de gaulle 381-360	0
+03-11|de gaulle 818-871	0
+03-11|de gaulle 871-818	0
+03-11|graffenstaden 1179-5018	0
+03-11|graffenstaden 1179-5019	0
+03-11|graffenstaden 5016-5017	0
+03-11|graffenstaden 5017-5018	0
+03-11|graffenstaden 5018-1179	0
+03-11|graffenstaden 5018-5017	0
+03-11|graffenstaden 5019-1179	0
+03-11|gtraffenstaden 5017-5016	0
+03-11|havre 5004-627	0
+03-11|havre 627-5004	0
+03-11|havre 627-688	0
+03-11|havre 688-627	0
+03-11|juifs 1173-5019	0
+03-11|juifs 5019-1173	0
+03-11|lampertheim-cora	0
+03-11|lampertheim-mundo	0
+03-11|leclerc 381-384	0
+03-11|leclerc 382-384	0
+03-11|leclerc 384-382	0
+03-11|mundo-lampertheim	0
+03-11|ober 386-381	0
+03-11|ober_5000	0
+03-11|ober_5001	0
+03-11|ober_5002	0
+03-11|ober_5003	0
+03-11|p2_Souffel	0
+03-11|rochelle 0670-5007	0
+03-11|rochelle 5004-5005	0
+03-11|rochelle 5005-5004	0
+03-11|rochelle 5005-5006	0
+03-11|rochelle 5006-5005	0
+03-11|rochelle 5006-670	0
+03-11|rochelle 5007-0670	0
+03-11|rochelle 670-5006	0
+03-11|rue de koenigshoffen->Autoroute	5446
+03-11|seigneurs_5004	0
+03-11|seigneurs_5005	0
+03-11|seigneurs_5006	0
+03-11|seigneurs_5007	0
+03-11|seigneurs_5008	0
+03-11|seigneurs_5009	0
+03-11|sortie autoroute rue de koenigshoffen	9439
+03-12|23 Novembre -> Rte de Lyon	6479
+03-12|A35 A351-S	0
+03-12|A35 Baggersee-Schirmeck	0
+03-12|A35 Baggersee-Vigie	0
+03-12|A35 Duppigheim-Entzheim	0
+03-12|A35 Ech.Schirmeck N-S	0
+03-12|A35 Entzheim-Duppigheim	0
+03-12|A35 Entzheim-Vigie	0
+03-12|A35 N-S PC Gutenberg	0
+03-12|A35 N-S Sortie Halles	0
+03-12|A35 S-N A350	0
+03-12|A35 S-N Sortie Cronenbourg	0
+03-12|A35 Schirmeck-A351 S-N	0
+03-12|A35 Schirmeck-A351 S-N2	0
+03-12|A35 Schirmeck-Baggersee	0
+03-12|A35 Vigie N-S	0
+03-12|A35 Vigie S-N	0
+03-12|A35 Vigie-Baggersee	0
+03-12|A35 Vigie-Entzheim	0
+03-12|A35 sortie Vigie N-S	0
+03-12|A35->A351	0
+03-12|A35->RD1083	0
+03-12|A35-A350	0
+03-12|A35-A351 N-O	0
+03-12|A35-Pl.Blanche	0
+03-12|A35-Pl.Haguenau N-S	0
+03-12|A35-Pl.Haguenau S-N	0
+03-12|A350-> Sortie Kabl??	0
+03-12|A351 A35-Sortie Auchan	0
+03-12|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-12|A351 Leroy-A35	0
+03-12|A351 Sortie Auchan-Echangeur Wolfi	0
+03-12|A351-A35N	0
+03-12|A351-A35N2	0
+03-12|A351-A35S	0
+03-12|A351-Pl.Blanche	0
+03-12|A35A531-P.Schirmeck N-S	0
+03-12|A4 (Hoenheim) S-N	0
+03-12|A4 Hauteur TGv S-N	0
+03-12|A4 Hoenheim-> TGV	0
+03-12|A4 Hoenheim-Ech.Reichstett	0
+03-12|A4 N-S Cronenbourg	0
+03-12|A4 N-S Hoerdt Reichstett	0
+03-12|A4 N-S Reichstett	0
+03-12|A4 Reichstett->Hoenheim	0
+03-12|A4 S-N Cronenbourg	0
+03-12|A4 S-N Echangeur Reichstett	0
+03-12|A4 S-N Reichstett Hoerdt	0
+03-12|A4-Schiltigheim S-N	0
+03-12|A4-Schitigheim N-S	0
+03-12|Abbe de l'Epee -> Rhin Tortu	3876
+03-12|Abbe de l'Epee->Rte du Neuhof	3779
+03-12|Acc??s A351 S	0
+03-12|Alcide de Gasperi -> Lingo	6730
+03-12|All??e Droits de l'Homme->Orangerie	6163
+03-12|All??e Droits de l'Homme->Robertsau	5891
+03-12|All??e J.Auriol-> Mermoz	472
+03-12|All??e J.Auriol->Av.Neuhof	721
+03-12|All??e de la Robertsau -> Bld Tauler	7953
+03-12|All??e de la Robertsau -> Place Brant	10000
+03-12|Alpes (ap.Churchill) -> Robertsau	5590
+03-12|Alpes (ap.Churchill)->Etoile	5088
+03-12|Alpes(av.Churchill)->Etoile	5151
+03-12|Alpes(av.Churchill)->Robertsau	5772
+03-12|Av. Colmar (Mulhouse) vers Centre ville	4865
+03-12|Av. Colmar (Racing) vers Centre Ville	7088
+03-12|Av. Herrenschmidt vers A350	7657
+03-12|Av. Herrenschmidt vers Place de Bordeau	6893
+03-12|Av. Jean-Jaur??s -> Neudorf	3626
+03-12|Av. Jean-Jaur??s -> Place de l'Etoile	3825
+03-12|Av. d'Alsace vers Place Brant	11944
+03-12|Av. de la Paix vers Av. des Vosges	1767
+03-12|Av. des Vosges vers Place de Haguenau	11233
+03-12|Av. du Gal de Gaulle -> Esplanade	4105
+03-12|Av. du Neuhof vers Stockfeld	4954
+03-12|Av. du Neuhof vers rte du Polygone	5277
+03-12|Av.A.Briand -> Av. Jean Jaur??s	4228
+03-12|Av.A.Briand -> Rte du Rhin	3628
+03-12|Av.Colmar (Racing) vers Illkirch	5790
+03-12|Av.For??t-Noire->Bld d'Anvers	6604
+03-12|Av.For??t-Noire->PL.Brant	7822
+03-12|Av.Gal de Gaulle -> Bld de la Victoire	5098
+03-12|Av.Jean Jaur??s vers Rue du Landsberg	4090
+03-12|Av.Jean Jaures->Av.A.Briand	3499
+03-12|Av.Mendes France (Contades)->Tribunal	9803
+03-12|Av.Mendes France->Contades	13266
+03-12|Av.Schuman -> Mal Foch	6592
+03-12|Av.Schumann-> Sports	6659
+03-12|Av.Schutzenberger vers Pl. A.Zeller	1411
+03-12|Av.Schutzenberger vers Pl. Bordeaux	1702
+03-12|Av.d'Alsace vers Av. des Vosges	14626
+03-12|Av.de la Libert?? vers Pl. Universit??	2101
+03-12|Av.de la Libert?? vers Pl.R??publique	3329
+03-12|Av.de la Paix vers Place de Bordeaux	3021
+03-12|Av.des Voges vers Av. For??t-Noire	9213
+03-12|Avenue Moli??re -> Rue Paul Val??ry	5189
+03-12|Barreau L.I.P.-> Rhin Napol??on	9860
+03-12|Barreau L.I.P.->Allemagne	12145
+03-12|Bld Anvers (532)->Bld de la Marne	4051
+03-12|Bld Cl??menceau vers Av. de la Paix	2388
+03-12|Bld Clemenceau vers Av. des Vosges	5705
+03-12|Bld Leblois -> Bld de la Marne	4760
+03-12|Bld Leblois -> Bld de la Victoire	5552
+03-12|Bld Lyon (Obernai) -> Rue de Molsheim	8671
+03-12|Bld Pierre Pflimlin -> Robertsau	5978
+03-12|Bld Pierre Pflimlin -> Wacken	6513
+03-12|Bld Victoire (Fritz Kiener->Universit??)	2127
+03-12|Bld Victoire (Universit??->Grandidier)	2644
+03-12|Bld Wilson -> Place de la Gare	7217
+03-12|Bld Wilson vers Fbg de Saverne	8820
+03-12|Bld d'Anvers (532)->Pont d'Anvers	2962
+03-12|Bld de Dresde vers Pl.A.Zeller	6448
+03-12|Bld de Dresde vers Robertsau	5015
+03-12|Bld de Lyon (Saales) -> Rue de Molsheim	10690
+03-12|Bld de Lyon -> Rue d'Obernai	9998
+03-12|Bourse 206-207	0
+03-12|Bourse 207-206	0
+03-12|Calmette->A351	9258
+03-12|Calmette->CHU	10885
+03-12|Centre Administratif -> Bourse	0
+03-12|Centre Administratif -> Neudorf	2063
+03-12|Contournement Sud->A35	0
+03-12|Cyclistes Rue de Vienne -> Centre	2355
+03-12|Cyclistes Rue de Vienne -> Neudorf	2137
+03-12|D84 Geispo 5202-5204	0
+03-12|D84 entr??e Geispo	0
+03-12|D84 sortie Geispo Gare	0
+03-12|D84->Geispo Gare	0
+03-12|Descente Autoroute Place de Haguenau	12683
+03-12|Descente Contournement Sud Rte Hopital	18098
+03-12|Descente contournement Sud Pl.Etoile	6865
+03-12|Division Leclerc	2804
+03-12|E.Rostand-> A351	10472
+03-12|E.Rostand->av.Corneille	5853
+03-12|Echangeur Baggersee A35 N-S	0
+03-12|Echangeur Baggersee A35 S-N	0
+03-12|Elmerforst (1101)->1190	1159
+03-12|Elmerforst (1190)->1101	1339
+03-12|Entr??e Geispo Gare cot?? Lingo	0
+03-12|Entree Lingo	5100
+03-12|Faubourg de Saverne vers Bld Wilson	3814
+03-12|Faubourg de Saverne vers Pont de Savern	1092
+03-12|Fbg de Pierre -> Cl??menceau	4508
+03-12|Federation->Colmar	2224
+03-12|Federation->Pl.Bouchers	2816
+03-12|Finkwiller Humann 345-341	0
+03-12|Fustel 206-221	0
+03-12|Fustel 221-206	0
+03-12|G.Wodli->Cronenbourg	13684
+03-12|Gal Offenstein(Pfister)->Rhin Tortu	4855
+03-12|Gare 311-312	0
+03-12|Gare 312-311	0
+03-12|Geispo E-O1	0
+03-12|Geispo E-O2	0
+03-12|Geispo E-O3	0
+03-12|Geispo O-E1	0
+03-12|Geispo O-E2	0
+03-12|Geispo O-E3	0
+03-12|Hochfelden (837) ->Villette	2259
+03-12|Hochfelden (837)->centre ville	4114
+03-12|Humann 310-341	0
+03-12|Humann 341-301	0
+03-12|Humann-Finkwiller 341-345	0
+03-12|Ile des Pecheurs -> Rivage	961
+03-12|Ile des Pecheurs->Gal Leclerc	989
+03-12|J.P.Levy -> Alpes	3500
+03-12|J.P.Levy->Esplanade	3058
+03-12|Kastner -> Boecklin	6494
+03-12|Kastner -> Jacoutot	6423
+03-12|Koenig 207-217	0
+03-12|Koenig 217-207	0
+03-12|Koenigshoffen-A351 - 1	0
+03-12|Lausanne 217-218	0
+03-12|Lausanne 218-217	0
+03-12|Lavoisier->Langevin	1529
+03-12|Leclerc 384-381	0
+03-12|Lyon (P??cheurs) -> Geispolsheim	5446
+03-12|Lyon (P??cheurs)->Strasbourg	4585
+03-12|Lyon 301-302	0
+03-12|Lyon 302-301	0
+03-12|Lyon 304-302	0
+03-12|Lyon 307-308	0
+03-12|Lyon 308-307	0
+03-12|M.Verte -> PL.des Bouchers	15368
+03-12|M.Verte -> Unterelsau	8995
+03-12|Mal Foch (Thiriet) -> 23 Novembre	3176
+03-12|Mal Foch (Thiriet)->Ostwald	3292
+03-12|Mitterrand->P??guy	2580
+03-12|Mitterrand->Wasselonne	2634
+03-12|Mont??e A35 Baggersee	21674
+03-12|Mont??e A350 Herrenschmidt	26405
+03-12|Montagne-Verte21	4533
+03-12|Montagne-Verte3 -> Nord	11034
+03-12|Montagne-Verte4 -> Sud	0
+03-12|Montagne-Verte5 -> Nord	0
+03-12|Montagne-Verte6 -> Sud	7807
+03-12|Montee Contournement Sud (H??pital)	16211
+03-12|N353 Eschau-Lilly	0
+03-12|N353 Eschau-Pont Pflimlin	0
+03-12|N353 Lilly-Eschau	0
+03-12|N4-A35 E-N	0
+03-12|N4-A35 E-S	0
+03-12|Ostwald1 -> Sud	0
+03-12|Ostwald2 -> Nord	0
+03-12|Ostwald3 -> Sud	3355
+03-12|Ostwald40 -> Nord	4157
+03-12|P1 - Breusch	0
+03-12|P1 - Eckbo	0
+03-12|P1 - Eckw	0
+03-12|P1 - Hang	0
+03-12|P1 - Kolb	0
+03-12|P1 - Osth	0
+03-12|P1 RD Bleu	0
+03-12|P1 RD Orange	0
+03-12|P1 RD Rouge	0
+03-12|P1 RD Vert	0
+03-12|P1-Entzheim	0
+03-12|P1-Eschau	0
+03-12|P1-Feg	0
+03-12|P1-Geispo	0
+03-12|P1-Hoenheim	0
+03-12|P1-Holtzheim	0
+03-12|P1-LaWantz	0
+03-12|P1-Lamp	0
+03-12|P1-Lingo	0
+03-12|P1-Lipsheim	0
+03-12|P1-Mittel/Nieder	0
+03-12|P1-Mundo	0
+03-12|P1-Ober	0
+03-12|P1-Obers	0
+03-12|P1-Plobsheim	0
+03-12|P1-Reichstett	0
+03-12|P1-Schiltigheim	0
+03-12|P1-Souffel	0
+03-12|P1-Vendenheim	0
+03-12|P1-Wolfi	0
+03-12|P1C1	0
+03-12|P1C2	0
+03-12|P1C3	0
+03-12|P1C4	0
+03-12|P1C5	0
+03-12|P1_Achenheim	0
+03-12|P1_Bischheim	0
+03-12|P1_Blaesheim	0
+03-12|P1_Entzheim	0
+03-12|P1_Hoenheim	0
+03-12|P1_LaWantz	0
+03-12|P2 - Bischheim	0
+03-12|P2 - Blaesheim	0
+03-12|P2 - Breusch	0
+03-12|P2 - Eckbo	0
+03-12|P2 - Hang	0
+03-12|P2 - Kolb	0
+03-12|P2 - Lingo	0
+03-12|P2 - Osth	0
+03-12|P2 - Ostwald	0
+03-12|P2 - Schilig	0
+03-12|P2-C4	0
+03-12|P2-Hoenheim	0
+03-12|P2-Lingo	0
+03-12|P2-Ostwald	0
+03-12|P2-Schilig	0
+03-12|P2C1	0
+03-12|P2C10	0
+03-12|P2C11	0
+03-12|P2C12	0
+03-12|P2C2	0
+03-12|P2C3	0
+03-12|P2C4	0
+03-12|P2C5	0
+03-12|P2C6	0
+03-12|P2C7	0
+03-12|P2C8	0
+03-12|P2_Achenheim	0
+03-12|P2_Blaesheim	0
+03-12|P2_Eckbo	0
+03-12|P2_Eckw.	0
+03-12|P2_Entz	0
+03-12|P2_Entz.	0
+03-12|P2_Eschau	0
+03-12|P2_Fegersheim	0
+03-12|P2_Geispo	0
+03-12|P2_Hoenh	0
+03-12|P2_Holtzheim	0
+03-12|P2_Holztheim	0
+03-12|P2_LaWantz	0
+03-12|P2_Lampert	0
+03-12|P2_Lips	0
+03-12|P2_Mittel/Nieder	0
+03-12|P2_Mundo	0
+03-12|P2_Ober	0
+03-12|P2_Oberschaef.	0
+03-12|P2_Ostwald	0
+03-12|P2_Plobsheim	0
+03-12|P2_Reichstett	0
+03-12|P2_Souffel	0
+03-12|P2_Vend.	0
+03-12|P2_Wolfisheim	0
+03-12|PL.Bouchers (POM)->775	4234
+03-12|Paul Dopf -> Canonniers	4899
+03-12|Paul Dopf -> Orbey	4428
+03-12|Petit Rhin->	7739
+03-12|Petit Rhin->Rhin Napol??on	9055
+03-12|Petite Rue des Magasins	10067
+03-12|Pl. Etoile -> Contournemend Sud	8634
+03-12|Pl.Bouchers->F.Eberts	5687
+03-12|Pl.Etoile -> Rte du Rhin	1527
+03-12|Pl.Haguenau (Brumath)->Sortie Autoroute	7467
+03-12|Place de la Gare -> Bld de Nancy	7362
+03-12|Plaine des Bouchers -> Rue Humann	7203
+03-12|Plaine des Bouchers -> Rue du Doubs	5547
+03-12|Plaine des Bouchers->F??d??ration	11128
+03-12|Plaine des Bouchers->Montagne-Verte	10783
+03-12|Pont Lixenbuhl->Rhin	3455
+03-12|Pont Lixenbuhl->Rue d'Alsace	2796
+03-12|Pont Matthis -> Rue Humann	7483
+03-12|Pont Matthis -> Rue de Molsheim	6101
+03-12|Pont Vauban 688-689	13441
+03-12|Pont Vauban 689-688	14201
+03-12|Pont d'Anvers -> Allemagne	9579
+03-12|Pont d'Anvers -> Place de Kehl	7924
+03-12|Pont d'Ostwald -> Lingolsheim	4531
+03-12|Pont de l'Europe -> Allemagne	15745
+03-12|Pont de l'Europe -> Rte du Rhin	15811
+03-12|Pont du Danube -> Quai des Alpes	9385
+03-12|Pont du Danube->Rte du Rhin	7549
+03-12|Quai Frey 201-345	0
+03-12|Quai Kl??ber	1039
+03-12|Quai Pasteur vers Pont Pasteur	6664
+03-12|Quai Pasteur vers Quai Fustel	6657
+03-12|Quai St.Nicolas -> Finkwiller	0
+03-12|Quai St.Nicolas -> Quai des P??cheurs	2329
+03-12|Quai des P??cheurs -> Pont Royal	0
+03-12|Quai des P??cheurs -> Rue de Zurich	0
+03-12|RD1083 1081->1084	0
+03-12|RD1083 1084->1087	0
+03-12|RD1083 1087->Schaal	0
+03-12|RD1083 Achard-1087	0
+03-12|RD1083 Lilly->1081	0
+03-12|RD1083 Schaal-Mont??e A35	0
+03-12|RD1083->A35	0
+03-12|RD37 5015-952	0
+03-12|RD37 952-5015	0
+03-12|RD45 381-390	0
+03-12|RD45 390-381	0
+03-12|RD468->Baggersee	0
+03-12|RD468->Illkirch	0
+03-12|RD563 5008-5010	0
+03-12|RD563 5010-5008	0
+03-12|RD63 5008-5009	0
+03-12|RD63 5009-5008	0
+03-12|RD63 5011-822	0
+03-12|RD63 5012-822	0
+03-12|RD63 822-5011	0
+03-12|RD63 822-5012	0
+03-12|RD63 Holtzheim->Wolfisheim	0
+03-12|RD63 Wolfisheim->Holtzheim	0
+03-12|RN353 Pont Pflimlin-Eschau	0
+03-12|RP Cronenbourg->G.Wodli	5677
+03-12|Republique->Bischheim	5195
+03-12|Republique->Souffelweyersheim	4681
+03-12|Rhin 233-687	12303
+03-12|Rhin 687-233	15293
+03-12|Rhin 687-688	13441
+03-12|Rhin 688-687	14201
+03-12|Rhin 689-696	10118
+03-12|Rhin 696-689	10623
+03-12|Rhin Napol??on -> Rue du Havre	6239
+03-12|Rhin Napol??on->Rte du Rhin	6528
+03-12|Rhin Tortu->Abb?? Ep??e	5545
+03-12|Ribeauville (Orbey) -> Bale	624
+03-12|Rieth->Hochfelden	3476
+03-12|Rieth->Lavoisier	3095
+03-12|Rieth->Mittelhausbergen	2016
+03-12|Rivage -> Ile des Pecheurs	616
+03-12|Rivage -> Melezes	631
+03-12|Romains (Constantin)->Eckbolsheim	5172
+03-12|Romains-A35	0
+03-12|Route du Polygone -> Neudorf	3601
+03-12|Route du Polygone -> Pl. de l'Etoile	5181
+03-12|Rte Bischwiller (1241->961)	4943
+03-12|Rte Brumath (Industrie)->Vendenheim	6948
+03-12|Rte Brumath (Mundolsheim)->Industrie	7790
+03-12|Rte Hausbergen -> Becquerel	3477
+03-12|Rte Mittelhausbergen (Jacob)->Rotonde	5741
+03-12|Rte Mittelhausbergen (Rotonde)->Jacob	4911
+03-12|Rte Neuhof->Illkirch	10888
+03-12|Rte Romains (Constantin)->Ville	4534
+03-12|Rte d'Altenheim vers Av. du Neuhof	2851
+03-12|Rte d'Altenheim vers Stockfeld	2956
+03-12|Rte d'Oberhausbergen vers Centre Ville	0
+03-12|Rte d'Oberhausbergen vers Oberhausberge	0
+03-12|Rte d'Oberhausbergen vers Rotonde	10743
+03-12|Rte de Bischwiller (961->1241)	5654
+03-12|Rte de Bischwiller (Mairie)->Bischheim	5748
+03-12|Rte de Bischwiller (Principale)->Mairie	8404
+03-12|Rte de Bischwiller 1250-952	0
+03-12|Rte de Bischwiller 952-1250	0
+03-12|Rte de Brumath 5013-5014	0
+03-12|Rte de Brumath 5014-5013	0
+03-12|Rte de Brumath 6144-926	0
+03-12|Rte de Brumath 926-5013	0
+03-12|Rte de Brumath vers Schiltigheim	9906
+03-12|Rte de Brumath vers souffelweyersheim	4513
+03-12|Rte de Hausbergen (Becquerel)->Mittel	2941
+03-12|Rte de Hausbergen(Becquerel)->Charme	4829
+03-12|Rte de Hausbergen(Charme)->Becquerel	4657
+03-12|Rte de La Wantzenau->Reichstett	5884
+03-12|Rte de La Wantzenau->Rte de Bischwiller	5161
+03-12|Rte de Lyon (Baumann)->Industrie	6367
+03-12|Rte de Lyon (Industrie)->Baumann	6419
+03-12|Rte de Lyon (Mairie) -> Strasbourg	3580
+03-12|Rte de Lyon (Mairie)->Pont du P??age	3452
+03-12|Rte de Lyon(Gast)->23 Novembre	2686
+03-12|Rte de Lyon(Gast)->Glaciere	4052
+03-12|Rte de Mittelhausbergen vers Mittel.	4385
+03-12|Rte de Mittelhausbergen versStrasbourg	4510
+03-12|Rte de Strasbourg -> Colonne	7767
+03-12|Rte de Strasbourg 923-926	0
+03-12|Rte de Strasbourg 923-929	0
+03-12|Rte de Strasbourg 925-929	0
+03-12|Rte de Strasbourg 926-923	0
+03-12|Rte de Strasbourg 929-923	0
+03-12|Rte de Strasbourg 929-925	0
+03-12|Rte de Strasbourg vers Illkirch	10222
+03-12|Rte de Strasbourg vers Meinau	9554
+03-12|Rte de Strasbourg->Baggersee	6379
+03-12|Rte de l'H??pital -> Pont Adenauer	14412
+03-12|Rte de l'H??pital->Av. Colmar	0
+03-12|Rte de l'Hopital -> H??tel de Police	14343
+03-12|Rte de l'Hopital -> Quai Fustel	3275
+03-12|Rte des Romains vers Eckbolsheim	4618
+03-12|Rte des Romains vers Place Blanche	5466
+03-12|Rte des Romains->Rue de Koenigshoffen	17308
+03-12|Rte du Neuhof -> Neuhof	2080
+03-12|Rte du Neuhof->Rte de Strasbourg	2352
+03-12|Rte du Neuhof->Schuhansen	10520
+03-12|Rte du Rhin (Danube)->Churchill	18563
+03-12|Rte du Rhin (UGC)->Allemagne	22353
+03-12|Rte du Rhin (UGC)->Ville	22196
+03-12|Rte du Rhin (av.233)->Allemagne	23412
+03-12|Rte du Rhin->Contournement Sud	13586
+03-12|Rue  prinicipale 820-818	0
+03-12|Rue Alfred Kastler -> Baggersee	9584
+03-12|Rue Alfred Kastler -> Illkirch	9333
+03-12|Rue Boecklin -> Centre Ville	3511
+03-12|Rue Boecklin->Rte de La Wantzenau	3297
+03-12|Rue E.Bugatti -> Lingolsheim	5321
+03-12|Rue E.Bugatti -> Vigie	5786
+03-12|Rue E.Michelet -> Quai des Alpes	4169
+03-12|Rue E.Michelet -> Rte du Rhin	5389
+03-12|Rue Edmond Labb?? -> Bld de la Victoire	2590
+03-12|Rue Edmond Labb??->Rue P.Montet	1740
+03-12|Rue F.Epailly 696-697	10118
+03-12|Rue F.Epailly 697-696	10623
+03-12|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	5148
+03-12|Rue J.Wenger-Valentin vers Schiltigheim	7073
+03-12|Rue Jacques Kabl?? vers Place de Bordea	3336
+03-12|Rue Jacques Kabl?? vers Place de Haguen	3023
+03-12|Rue Lixenbuhl ->Vincent Scotto	2175
+03-12|Rue Lixenbuhl->Rue d'Alsace	1964
+03-12|Rue Ohmacht vers All??e de la Robertsau	8332
+03-12|Rue Ohmacht vers Place de Bordeaux	7079
+03-12|Rue Principale 818-820	0
+03-12|Rue Vauban vers Bld de la Victoire	970
+03-12|Rue Vauban vers Place de Kehl	1110
+03-12|Rue d'Obernai	6506
+03-12|Rue d'Ostwald vers Elmerforst	3988
+03-12|Rue d'Ostwald vers Rue des Pr??s	3478
+03-12|Rue de Copenhague -> E.E.E.	3264
+03-12|Rue de Copenhague->Hausbergen	2845
+03-12|Rue de Fouday	4560
+03-12|Rue de Geispolsheim -> Rue des Vosges	2612
+03-12|Rue de Geispolsheim -> Vigie	2077
+03-12|Rue de Holtzheim->Holtzheim	2186
+03-12|Rue de Holtzheim->Lingolsheim	2643
+03-12|Rue de Koenigshoffen->Charmille	0
+03-12|Rue de Lingolsheim -> Eckbolsheim	5965
+03-12|Rue de Lubeck->Pl. Henri Levy	805
+03-12|Rue de Lubeck->Rue du Port du Rhin	2582
+03-12|Rue de Molsheim	4274
+03-12|Rue de Paris	0
+03-12|Rue de Paris 957-958	0
+03-12|Rue de Ribeauvill?? vers rue d'Orbey	2245
+03-12|Rue de Rome -> Esplanade	2876
+03-12|Rue de Rome -> Krutenau	2838
+03-12|Rue de Strasbourg ->C.820	0
+03-12|Rue de Strasbourg->Niederh.	0
+03-12|Rue de Vienne -> Pont d'Austerlitz	11210
+03-12|Rue de Wasselonne	6493
+03-12|Rue de l'Eglise Rouge -> Schiltigheim	2589
+03-12|Rue de l'Eglise Rouge->J. Kabl??	1598
+03-12|Rue de l'Ill -> Papeterie	8900
+03-12|Rue de l'Ill -> Pont Phario	9410
+03-12|Rue de l'Industrie (Travail)-> Rhin	3520
+03-12|Rue de l'Industrie -> Lixenbuhl	4042
+03-12|Rue de l'Industrie(Rhin)->Travail	2669
+03-12|Rue de l'Industrie->Rte de Lyon	3371
+03-12|Rue de la C??te-Mittel	0
+03-12|Rue de la Mairie->Rte de Bischwiller	5322
+03-12|Rue de la Mairie->Rue Principale	5326
+03-12|Rue de la Porte de l'H??pital	7272
+03-12|Rue de la Rivi??re-> Rte de Schirmeck	2089
+03-12|Rue de la Robertsau -> Ch.Bock	3781
+03-12|Rue de la Robertsau ->Pont Phario	3365
+03-12|Rue des Serruriers	1466
+03-12|Rue du 23 Novembre -> Ostwald	7989
+03-12|Rue du Doubs -> Fr??res Eberts	6135
+03-12|Rue du Doubs -> Plaine des Bouchers	7866
+03-12|Rue du Fbg de Pierre->Nu??e Bleue	4800
+03-12|Rue du Gal Leclerc vers Centre Ostwald	3593
+03-12|Rue du Gal Leclerc vers Strasbourg	5151
+03-12|Rue du Gal Offenstein -> Pfister	3783
+03-12|Rue du Gal Offenstein vers Av.Colmar	4176
+03-12|Rue du Gal de Gaulle 5015-956	0
+03-12|Rue du Gal de Gaulle 956-5015	0
+03-12|Rue du Gal de Gaulle 956-957	0
+03-12|Rue du Gal de Gaulle 957-956	0
+03-12|Rue du Gal de Gaulle vers Bischheim	6340
+03-12|Rue du Gal de Gaulle vers Strasbourg	6445
+03-12|Rue du Landsberg vers Av.Jean Jaur??s	4263
+03-12|Rue du Landsberg vers Rte du Rhin	3757
+03-12|Rue du Mal Foch -> Illkirch	2458
+03-12|Rue du Mal Foch -> Lingolsheim	5333
+03-12|Rue du Mal Foch -> Mairie d'Ostwald	2907
+03-12|Rue du Mal Foch -> Strasbourg	5522
+03-12|Rue du Marais (Bretagne)->Pont Phario	8435
+03-12|Rue du Marais (Phario) -> Zorn	8050
+03-12|Rue du Marais (Phario)->Gal De Gaulle	7058
+03-12|Rue du Marais ->Gal de Gaulle	5815
+03-12|Rue du Marais(De Gaulle)->La Wantzenau	5503
+03-12|Rue du Marais(De Gaulle)->Pont Phario	6672
+03-12|Rue du Rempart -> Cronenbourg	1753
+03-12|Rue du Rempart->Koenigshoffen	2549
+03-12|Rue du Rhin Tortu vers Gal Offenstein	4902
+03-12|Rue du Rhin Tortu vers Neuhof	5316
+03-12|Ruer de Lingolsheim->Ostwald	4971
+03-12|Schirmeck1 - Entree Ville	0
+03-12|Schirmeck10 - Sortie Ville	0
+03-12|Schirmeck11 - Entree Ville	0
+03-12|Schirmeck12 - Sortie Ville	10413
+03-12|Schirmeck13 - Entree Ville	0
+03-12|Schirmeck14 - Sortie Ville	10140
+03-12|Schirmeck15 - Entree Ville	11011
+03-12|Schirmeck16 - Sortie Ville	0
+03-12|Schirmeck17 - Entree Ville	0
+03-12|Schirmeck18 - Sortie Ville	4500
+03-12|Schirmeck2 - Sortie Ville	0
+03-12|Schirmeck3 - Entree Ville	5838
+03-12|Schirmeck4 - Sortie Ville	6257
+03-12|Schirmeck5 - Entree Ville	10067
+03-12|Schirmeck6 - Sortie Ville	0
+03-12|Schirmeck7 - Entree Ville	0
+03-12|Schirmeck8 - Sortie Ville	10371
+03-12|Schirmeck9 - Entree Ville	11649
+03-12|Schuhansen->Ganzau	8217
+03-12|Sortie A 351	14443
+03-12|Sortie A35 -> Baggersee	22233
+03-12|Sortie A35->G.Wodli	7886
+03-12|Sortie A351 -> Herrenschmidt	21359
+03-12|Sortie Autoroute Elsau	12108
+03-12|Sortie Autoroute Rue Montagne-Verte	3160
+03-12|Sortie Autoroute Rue de Saales	5410
+03-12|Sortie Eglise Rouge->J. Kabl??	10155
+03-12|Sortie Geispo Gare-> Lingo	0
+03-12|Sortie Lingo -> Entzheim	3853
+03-12|Sortie Rte du Rhin -> Pl.Etoile	2385
+03-12|Sortie Tunnel -> Allemagne	14590
+03-12|St.Jean	2654
+03-12|Tanneurs	0
+03-12|Tour Verte -> Nord	6636
+03-12|Tour Verte -> Sud	0
+03-12|Wasselonne->Eckbo	4340
+03-12|Wasselonne->Romains	4357
+03-12|Wolfisheim 5008-871	0
+03-12|Wolfisheim 871-5008	0
+03-12|Zurich 218-444	0
+03-12|canal 379-380	0
+03-12|canal 379-382	0
+03-12|canal 380-379	0
+03-12|canal 382-379	0
+03-12|cora-lampertheim	0
+03-12|de gaulle 360-381	0
+03-12|de gaulle 381-360	0
+03-12|de gaulle 818-871	0
+03-12|de gaulle 871-818	0
+03-12|graffenstaden 1179-5018	0
+03-12|graffenstaden 1179-5019	0
+03-12|graffenstaden 5016-5017	0
+03-12|graffenstaden 5017-5018	0
+03-12|graffenstaden 5018-1179	0
+03-12|graffenstaden 5018-5017	0
+03-12|graffenstaden 5019-1179	0
+03-12|gtraffenstaden 5017-5016	0
+03-12|havre 5004-627	0
+03-12|havre 627-5004	0
+03-12|havre 627-688	0
+03-12|havre 688-627	0
+03-12|juifs 1173-5019	0
+03-12|juifs 5019-1173	0
+03-12|lampertheim-cora	0
+03-12|lampertheim-mundo	0
+03-12|leclerc 381-384	0
+03-12|leclerc 382-384	0
+03-12|leclerc 384-382	0
+03-12|mundo-lampertheim	0
+03-12|ober 386-381	0
+03-12|ober_5000	0
+03-12|ober_5001	0
+03-12|ober_5002	0
+03-12|ober_5003	0
+03-12|p2_Souffel	0
+03-12|rochelle 0670-5007	0
+03-12|rochelle 5004-5005	0
+03-12|rochelle 5005-5004	0
+03-12|rochelle 5005-5006	0
+03-12|rochelle 5006-5005	0
+03-12|rochelle 5006-670	0
+03-12|rochelle 5007-0670	0
+03-12|rochelle 670-5006	0
+03-12|rue de koenigshoffen->Autoroute	5980
+03-12|seigneurs_5004	0
+03-12|seigneurs_5005	0
+03-12|seigneurs_5006	0
+03-12|seigneurs_5007	0
+03-12|seigneurs_5008	0
+03-12|seigneurs_5009	0
+03-12|sortie autoroute rue de koenigshoffen	11843
+03-13|23 Novembre -> Rte de Lyon	6651
+03-13|A35 A351-S	0
+03-13|A35 Baggersee-Schirmeck	0
+03-13|A35 Baggersee-Vigie	0
+03-13|A35 Duppigheim-Entzheim	0
+03-13|A35 Ech.Schirmeck N-S	0
+03-13|A35 Entzheim-Duppigheim	0
+03-13|A35 Entzheim-Vigie	0
+03-13|A35 N-S PC Gutenberg	0
+03-13|A35 N-S Sortie Halles	0
+03-13|A35 S-N A350	0
+03-13|A35 S-N Sortie Cronenbourg	0
+03-13|A35 Schirmeck-A351 S-N	0
+03-13|A35 Schirmeck-A351 S-N2	0
+03-13|A35 Schirmeck-Baggersee	0
+03-13|A35 Vigie N-S	0
+03-13|A35 Vigie S-N	0
+03-13|A35 Vigie-Baggersee	0
+03-13|A35 Vigie-Entzheim	0
+03-13|A35 sortie Vigie N-S	0
+03-13|A35->A351	0
+03-13|A35->RD1083	0
+03-13|A35-A350	0
+03-13|A35-A351 N-O	0
+03-13|A35-Pl.Blanche	0
+03-13|A35-Pl.Haguenau N-S	0
+03-13|A35-Pl.Haguenau S-N	0
+03-13|A350-> Sortie Kabl??	0
+03-13|A351 A35-Sortie Auchan	0
+03-13|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-13|A351 Leroy-A35	0
+03-13|A351 Sortie Auchan-Echangeur Wolfi	0
+03-13|A351-A35N	0
+03-13|A351-A35N2	0
+03-13|A351-A35S	0
+03-13|A351-Pl.Blanche	0
+03-13|A35A531-P.Schirmeck N-S	0
+03-13|A4 (Hoenheim) S-N	0
+03-13|A4 Hauteur TGv S-N	0
+03-13|A4 Hoenheim-> TGV	0
+03-13|A4 Hoenheim-Ech.Reichstett	0
+03-13|A4 N-S Cronenbourg	0
+03-13|A4 N-S Hoerdt Reichstett	0
+03-13|A4 N-S Reichstett	0
+03-13|A4 Reichstett->Hoenheim	0
+03-13|A4 S-N Cronenbourg	0
+03-13|A4 S-N Echangeur Reichstett	0
+03-13|A4 S-N Reichstett Hoerdt	0
+03-13|A4-Schiltigheim S-N	0
+03-13|A4-Schitigheim N-S	0
+03-13|Abbe de l'Epee -> Rhin Tortu	3960
+03-13|Abbe de l'Epee->Rte du Neuhof	3789
+03-13|Acc??s A351 S	0
+03-13|Alcide de Gasperi -> Lingo	6930
+03-13|All??e Droits de l'Homme->Orangerie	6795
+03-13|All??e Droits de l'Homme->Robertsau	6452
+03-13|All??e J.Auriol-> Mermoz	389
+03-13|All??e J.Auriol->Av.Neuhof	660
+03-13|All??e de la Robertsau -> Bld Tauler	8889
+03-13|All??e de la Robertsau -> Place Brant	11624
+03-13|Alpes (ap.Churchill) -> Robertsau	5522
+03-13|Alpes (ap.Churchill)->Etoile	5114
+03-13|Alpes(av.Churchill)->Etoile	5253
+03-13|Alpes(av.Churchill)->Robertsau	5828
+03-13|Av. Colmar (Mulhouse) vers Centre ville	5150
+03-13|Av. Colmar (Racing) vers Centre Ville	7383
+03-13|Av. Herrenschmidt vers A350	8546
+03-13|Av. Herrenschmidt vers Place de Bordeau	7416
+03-13|Av. Jean-Jaur??s -> Neudorf	3757
+03-13|Av. Jean-Jaur??s -> Place de l'Etoile	3730
+03-13|Av. d'Alsace vers Place Brant	12125
+03-13|Av. de la Paix vers Av. des Vosges	1867
+03-13|Av. des Vosges vers Place de Haguenau	11800
+03-13|Av. du Gal de Gaulle -> Esplanade	4182
+03-13|Av. du Neuhof vers Stockfeld	4990
+03-13|Av. du Neuhof vers rte du Polygone	5326
+03-13|Av.A.Briand -> Av. Jean Jaur??s	4046
+03-13|Av.A.Briand -> Rte du Rhin	3533
+03-13|Av.Colmar (Racing) vers Illkirch	5956
+03-13|Av.For??t-Noire->Bld d'Anvers	7143
+03-13|Av.For??t-Noire->PL.Brant	8215
+03-13|Av.Gal de Gaulle -> Bld de la Victoire	5321
+03-13|Av.Jean Jaur??s vers Rue du Landsberg	4223
+03-13|Av.Jean Jaures->Av.A.Briand	3681
+03-13|Av.Mendes France (Contades)->Tribunal	9965
+03-13|Av.Mendes France->Contades	13485
+03-13|Av.Schuman -> Mal Foch	6834
+03-13|Av.Schumann-> Sports	6865
+03-13|Av.Schutzenberger vers Pl. A.Zeller	1436
+03-13|Av.Schutzenberger vers Pl. Bordeaux	1814
+03-13|Av.d'Alsace vers Av. des Vosges	15145
+03-13|Av.de la Libert?? vers Pl. Universit??	2252
+03-13|Av.de la Libert?? vers Pl.R??publique	3731
+03-13|Av.de la Paix vers Place de Bordeaux	3191
+03-13|Av.des Voges vers Av. For??t-Noire	9340
+03-13|Avenue Moli??re -> Rue Paul Val??ry	5181
+03-13|Barreau L.I.P.-> Rhin Napol??on	11487
+03-13|Barreau L.I.P.->Allemagne	12190
+03-13|Bld Anvers (532)->Bld de la Marne	4459
+03-13|Bld Cl??menceau vers Av. de la Paix	2542
+03-13|Bld Clemenceau vers Av. des Vosges	5706
+03-13|Bld Leblois -> Bld de la Marne	4956
+03-13|Bld Leblois -> Bld de la Victoire	5264
+03-13|Bld Lyon (Obernai) -> Rue de Molsheim	8703
+03-13|Bld Pierre Pflimlin -> Robertsau	6103
+03-13|Bld Pierre Pflimlin -> Wacken	6827
+03-13|Bld Victoire (Fritz Kiener->Universit??)	2008
+03-13|Bld Victoire (Universit??->Grandidier)	2724
+03-13|Bld Wilson -> Place de la Gare	6802
+03-13|Bld Wilson vers Fbg de Saverne	8293
+03-13|Bld d'Anvers (532)->Pont d'Anvers	3203
+03-13|Bld de Dresde vers Pl.A.Zeller	6808
+03-13|Bld de Dresde vers Robertsau	4986
+03-13|Bld de Lyon (Saales) -> Rue de Molsheim	10711
+03-13|Bld de Lyon -> Rue d'Obernai	9320
+03-13|Bourse 206-207	0
+03-13|Bourse 207-206	0
+03-13|Calmette->A351	9104
+03-13|Calmette->CHU	10680
+03-13|Centre Administratif -> Bourse	0
+03-13|Centre Administratif -> Neudorf	2221
+03-13|Contournement Sud->A35	0
+03-13|Cyclistes Rue de Vienne -> Centre	2349
+03-13|Cyclistes Rue de Vienne -> Neudorf	2373
+03-13|D84 Geispo 5202-5204	0
+03-13|D84 entr??e Geispo	0
+03-13|D84 sortie Geispo Gare	0
+03-13|D84->Geispo Gare	0
+03-13|Descente Autoroute Place de Haguenau	12700
+03-13|Descente Contournement Sud Rte Hopital	18430
+03-13|Descente contournement Sud Pl.Etoile	7048
+03-13|Division Leclerc	3400
+03-13|E.Rostand-> A351	10008
+03-13|E.Rostand->av.Corneille	5331
+03-13|Echangeur Baggersee A35 N-S	0
+03-13|Echangeur Baggersee A35 S-N	0
+03-13|Elmerforst (1101)->1190	1235
+03-13|Elmerforst (1190)->1101	1329
+03-13|Entr??e Geispo Gare cot?? Lingo	0
+03-13|Entree Lingo	5178
+03-13|Faubourg de Saverne vers Bld Wilson	4148
+03-13|Faubourg de Saverne vers Pont de Savern	1172
+03-13|Fbg de Pierre -> Cl??menceau	4741
+03-13|Federation->Colmar	2262
+03-13|Federation->Pl.Bouchers	2916
+03-13|Finkwiller Humann 345-341	0
+03-13|Fustel 206-221	0
+03-13|Fustel 221-206	0
+03-13|G.Wodli->Cronenbourg	13731
+03-13|Gal Offenstein(Pfister)->Rhin Tortu	4872
+03-13|Gare 311-312	0
+03-13|Gare 312-311	0
+03-13|Geispo E-O1	0
+03-13|Geispo E-O2	0
+03-13|Geispo E-O3	0
+03-13|Geispo O-E1	0
+03-13|Geispo O-E2	0
+03-13|Geispo O-E3	0
+03-13|Hochfelden (837) ->Villette	2221
+03-13|Hochfelden (837)->centre ville	4284
+03-13|Humann 310-341	0
+03-13|Humann 341-301	0
+03-13|Humann-Finkwiller 341-345	0
+03-13|Ile des Pecheurs -> Rivage	1032
+03-13|Ile des Pecheurs->Gal Leclerc	1043
+03-13|J.P.Levy -> Alpes	3545
+03-13|J.P.Levy->Esplanade	3143
+03-13|Kastner -> Boecklin	6680
+03-13|Kastner -> Jacoutot	6760
+03-13|Koenig 207-217	0
+03-13|Koenig 217-207	0
+03-13|Koenigshoffen-A351 - 1	0
+03-13|Lausanne 217-218	0
+03-13|Lausanne 218-217	0
+03-13|Lavoisier->Langevin	1410
+03-13|Leclerc 384-381	0
+03-13|Lyon (P??cheurs) -> Geispolsheim	5973
+03-13|Lyon (P??cheurs)->Strasbourg	5117
+03-13|Lyon 301-302	0
+03-13|Lyon 302-301	0
+03-13|Lyon 304-302	0
+03-13|Lyon 307-308	0
+03-13|Lyon 308-307	0
+03-13|M.Verte -> PL.des Bouchers	11918
+03-13|M.Verte -> Unterelsau	7529
+03-13|Mal Foch (Thiriet) -> 23 Novembre	3267
+03-13|Mal Foch (Thiriet)->Ostwald	3689
+03-13|Mitterrand->P??guy	2496
+03-13|Mitterrand->Wasselonne	2611
+03-13|Mont??e A35 Baggersee	21845
+03-13|Mont??e A350 Herrenschmidt	27557
+03-13|Montagne-Verte21	4698
+03-13|Montagne-Verte3 -> Nord	11414
+03-13|Montagne-Verte4 -> Sud	0
+03-13|Montagne-Verte5 -> Nord	0
+03-13|Montagne-Verte6 -> Sud	7939
+03-13|Montee Contournement Sud (H??pital)	16714
+03-13|N353 Eschau-Lilly	0
+03-13|N353 Eschau-Pont Pflimlin	0
+03-13|N353 Lilly-Eschau	0
+03-13|N4-A35 E-N	0
+03-13|N4-A35 E-S	0
+03-13|Ostwald1 -> Sud	0
+03-13|Ostwald2 -> Nord	0
+03-13|Ostwald3 -> Sud	3361
+03-13|Ostwald40 -> Nord	4221
+03-13|P1 - Breusch	0
+03-13|P1 - Eckbo	0
+03-13|P1 - Eckw	0
+03-13|P1 - Hang	0
+03-13|P1 - Kolb	0
+03-13|P1 - Osth	0
+03-13|P1 RD Bleu	0
+03-13|P1 RD Orange	0
+03-13|P1 RD Rouge	0
+03-13|P1 RD Vert	0
+03-13|P1-Entzheim	0
+03-13|P1-Eschau	0
+03-13|P1-Feg	0
+03-13|P1-Geispo	0
+03-13|P1-Hoenheim	0
+03-13|P1-Holtzheim	0
+03-13|P1-LaWantz	0
+03-13|P1-Lamp	0
+03-13|P1-Lingo	0
+03-13|P1-Lipsheim	0
+03-13|P1-Mittel/Nieder	0
+03-13|P1-Mundo	0
+03-13|P1-Ober	0
+03-13|P1-Obers	0
+03-13|P1-Plobsheim	0
+03-13|P1-Reichstett	0
+03-13|P1-Schiltigheim	0
+03-13|P1-Souffel	0
+03-13|P1-Vendenheim	0
+03-13|P1-Wolfi	0
+03-13|P1C1	0
+03-13|P1C2	0
+03-13|P1C3	0
+03-13|P1C4	0
+03-13|P1C5	0
+03-13|P1_Achenheim	0
+03-13|P1_Bischheim	0
+03-13|P1_Blaesheim	0
+03-13|P1_Entzheim	0
+03-13|P1_Hoenheim	0
+03-13|P1_LaWantz	0
+03-13|P2 - Bischheim	0
+03-13|P2 - Blaesheim	0
+03-13|P2 - Breusch	0
+03-13|P2 - Eckbo	0
+03-13|P2 - Hang	0
+03-13|P2 - Kolb	0
+03-13|P2 - Lingo	0
+03-13|P2 - Osth	0
+03-13|P2 - Ostwald	0
+03-13|P2 - Schilig	0
+03-13|P2-C4	0
+03-13|P2-Hoenheim	0
+03-13|P2-Lingo	0
+03-13|P2-Ostwald	0
+03-13|P2-Schilig	0
+03-13|P2C1	0
+03-13|P2C10	0
+03-13|P2C11	0
+03-13|P2C12	0
+03-13|P2C2	0
+03-13|P2C3	0
+03-13|P2C4	0
+03-13|P2C5	0
+03-13|P2C6	0
+03-13|P2C7	0
+03-13|P2C8	0
+03-13|P2_Achenheim	0
+03-13|P2_Blaesheim	0
+03-13|P2_Eckbo	0
+03-13|P2_Eckw.	0
+03-13|P2_Entz	0
+03-13|P2_Entz.	0
+03-13|P2_Eschau	0
+03-13|P2_Fegersheim	0
+03-13|P2_Geispo	0
+03-13|P2_Hoenh	0
+03-13|P2_Holtzheim	0
+03-13|P2_Holztheim	0
+03-13|P2_LaWantz	0
+03-13|P2_Lampert	0
+03-13|P2_Lips	0
+03-13|P2_Mittel/Nieder	0
+03-13|P2_Mundo	0
+03-13|P2_Ober	0
+03-13|P2_Oberschaef.	0
+03-13|P2_Ostwald	0
+03-13|P2_Plobsheim	0
+03-13|P2_Reichstett	0
+03-13|P2_Souffel	0
+03-13|P2_Vend.	0
+03-13|P2_Wolfisheim	0
+03-13|PL.Bouchers (POM)->775	4315
+03-13|Paul Dopf -> Canonniers	4630
+03-13|Paul Dopf -> Orbey	4445
+03-13|Petit Rhin->	8160
+03-13|Petit Rhin->Rhin Napol??on	8952
+03-13|Petite Rue des Magasins	9995
+03-13|Pl. Etoile -> Contournemend Sud	8437
+03-13|Pl.Bouchers->F.Eberts	5665
+03-13|Pl.Etoile -> Rte du Rhin	1535
+03-13|Pl.Haguenau (Brumath)->Sortie Autoroute	7704
+03-13|Place de la Gare -> Bld de Nancy	5512
+03-13|Plaine des Bouchers -> Rue Humann	8149
+03-13|Plaine des Bouchers -> Rue du Doubs	5456
+03-13|Plaine des Bouchers->F??d??ration	8480
+03-13|Plaine des Bouchers->Montagne-Verte	9008
+03-13|Pont Lixenbuhl->Rhin	3518
+03-13|Pont Lixenbuhl->Rue d'Alsace	2753
+03-13|Pont Matthis -> Rue Humann	8017
+03-13|Pont Matthis -> Rue de Molsheim	6598
+03-13|Pont Vauban 688-689	12788
+03-13|Pont Vauban 689-688	13278
+03-13|Pont d'Anvers -> Allemagne	9078
+03-13|Pont d'Anvers -> Place de Kehl	8249
+03-13|Pont d'Ostwald -> Lingolsheim	4622
+03-13|Pont de l'Europe -> Allemagne	15151
+03-13|Pont de l'Europe -> Rte du Rhin	15192
+03-13|Pont du Danube -> Quai des Alpes	9329
+03-13|Pont du Danube->Rte du Rhin	7259
+03-13|Quai Frey 201-345	0
+03-13|Quai Kl??ber	1131
+03-13|Quai Pasteur vers Pont Pasteur	6687
+03-13|Quai Pasteur vers Quai Fustel	6830
+03-13|Quai St.Nicolas -> Finkwiller	0
+03-13|Quai St.Nicolas -> Quai des P??cheurs	2745
+03-13|Quai des P??cheurs -> Pont Royal	0
+03-13|Quai des P??cheurs -> Rue de Zurich	0
+03-13|RD1083 1081->1084	0
+03-13|RD1083 1084->1087	0
+03-13|RD1083 1087->Schaal	0
+03-13|RD1083 Achard-1087	0
+03-13|RD1083 Lilly->1081	0
+03-13|RD1083 Schaal-Mont??e A35	0
+03-13|RD1083->A35	0
+03-13|RD37 5015-952	0
+03-13|RD37 952-5015	0
+03-13|RD45 381-390	0
+03-13|RD45 390-381	0
+03-13|RD468->Baggersee	0
+03-13|RD468->Illkirch	0
+03-13|RD563 5008-5010	0
+03-13|RD563 5010-5008	0
+03-13|RD63 5008-5009	0
+03-13|RD63 5009-5008	0
+03-13|RD63 5011-822	0
+03-13|RD63 5012-822	0
+03-13|RD63 822-5011	0
+03-13|RD63 822-5012	0
+03-13|RD63 Holtzheim->Wolfisheim	0
+03-13|RD63 Wolfisheim->Holtzheim	0
+03-13|RN353 Pont Pflimlin-Eschau	0
+03-13|RP Cronenbourg->G.Wodli	5620
+03-13|Republique->Bischheim	5490
+03-13|Republique->Souffelweyersheim	5148
+03-13|Rhin 233-687	11779
+03-13|Rhin 687-233	15263
+03-13|Rhin 687-688	12788
+03-13|Rhin 688-687	13278
+03-13|Rhin 689-696	9505
+03-13|Rhin 696-689	9797
+03-13|Rhin Napol??on -> Rue du Havre	6425
+03-13|Rhin Napol??on->Rte du Rhin	6490
+03-13|Rhin Tortu->Abb?? Ep??e	5683
+03-13|Ribeauville (Orbey) -> Bale	674
+03-13|Rieth->Hochfelden	3513
+03-13|Rieth->Lavoisier	2871
+03-13|Rieth->Mittelhausbergen	1982
+03-13|Rivage -> Ile des Pecheurs	675
+03-13|Rivage -> Melezes	675
+03-13|Romains (Constantin)->Eckbolsheim	5691
+03-13|Romains-A35	0
+03-13|Route du Polygone -> Neudorf	3953
+03-13|Route du Polygone -> Pl. de l'Etoile	5558
+03-13|Rte Bischwiller (1241->961)	5021
+03-13|Rte Brumath (Industrie)->Vendenheim	7604
+03-13|Rte Brumath (Mundolsheim)->Industrie	8119
+03-13|Rte Hausbergen -> Becquerel	3696
+03-13|Rte Mittelhausbergen (Jacob)->Rotonde	5499
+03-13|Rte Mittelhausbergen (Rotonde)->Jacob	4982
+03-13|Rte Neuhof->Illkirch	10738
+03-13|Rte Romains (Constantin)->Ville	4822
+03-13|Rte d'Altenheim vers Av. du Neuhof	2966
+03-13|Rte d'Altenheim vers Stockfeld	3238
+03-13|Rte d'Oberhausbergen vers Centre Ville	0
+03-13|Rte d'Oberhausbergen vers Oberhausberge	0
+03-13|Rte d'Oberhausbergen vers Rotonde	10925
+03-13|Rte de Bischwiller (961->1241)	5712
+03-13|Rte de Bischwiller (Mairie)->Bischheim	6036
+03-13|Rte de Bischwiller (Principale)->Mairie	8691
+03-13|Rte de Bischwiller 1250-952	0
+03-13|Rte de Bischwiller 952-1250	0
+03-13|Rte de Brumath 5013-5014	0
+03-13|Rte de Brumath 5014-5013	0
+03-13|Rte de Brumath 6144-926	0
+03-13|Rte de Brumath 926-5013	0
+03-13|Rte de Brumath vers Schiltigheim	10175
+03-13|Rte de Brumath vers souffelweyersheim	4798
+03-13|Rte de Hausbergen (Becquerel)->Mittel	3056
+03-13|Rte de Hausbergen(Becquerel)->Charme	5079
+03-13|Rte de Hausbergen(Charme)->Becquerel	4862
+03-13|Rte de La Wantzenau->Reichstett	5872
+03-13|Rte de La Wantzenau->Rte de Bischwiller	5203
+03-13|Rte de Lyon (Baumann)->Industrie	6784
+03-13|Rte de Lyon (Industrie)->Baumann	6722
+03-13|Rte de Lyon (Mairie) -> Strasbourg	4091
+03-13|Rte de Lyon (Mairie)->Pont du P??age	3758
+03-13|Rte de Lyon(Gast)->23 Novembre	3012
+03-13|Rte de Lyon(Gast)->Glaciere	4479
+03-13|Rte de Mittelhausbergen vers Mittel.	4620
+03-13|Rte de Mittelhausbergen versStrasbourg	4662
+03-13|Rte de Strasbourg -> Colonne	7758
+03-13|Rte de Strasbourg 923-926	0
+03-13|Rte de Strasbourg 923-929	0
+03-13|Rte de Strasbourg 925-929	0
+03-13|Rte de Strasbourg 926-923	0
+03-13|Rte de Strasbourg 929-923	0
+03-13|Rte de Strasbourg 929-925	0
+03-13|Rte de Strasbourg vers Illkirch	10254
+03-13|Rte de Strasbourg vers Meinau	10136
+03-13|Rte de Strasbourg->Baggersee	6516
+03-13|Rte de l'H??pital -> Pont Adenauer	15823
+03-13|Rte de l'H??pital->Av. Colmar	0
+03-13|Rte de l'Hopital -> H??tel de Police	15542
+03-13|Rte de l'Hopital -> Quai Fustel	3578
+03-13|Rte des Romains vers Eckbolsheim	4998
+03-13|Rte des Romains vers Place Blanche	5568
+03-13|Rte des Romains->Rue de Koenigshoffen	17516
+03-13|Rte du Neuhof -> Neuhof	2138
+03-13|Rte du Neuhof->Rte de Strasbourg	2407
+03-13|Rte du Neuhof->Schuhansen	10527
+03-13|Rte du Rhin (Danube)->Churchill	18566
+03-13|Rte du Rhin (UGC)->Allemagne	22494
+03-13|Rte du Rhin (UGC)->Ville	22513
+03-13|Rte du Rhin (av.233)->Allemagne	23288
+03-13|Rte du Rhin->Contournement Sud	19351
+03-13|Rue  prinicipale 820-818	0
+03-13|Rue Alfred Kastler -> Baggersee	10015
+03-13|Rue Alfred Kastler -> Illkirch	9369
+03-13|Rue Boecklin -> Centre Ville	3716
+03-13|Rue Boecklin->Rte de La Wantzenau	3346
+03-13|Rue E.Bugatti -> Lingolsheim	5372
+03-13|Rue E.Bugatti -> Vigie	5918
+03-13|Rue E.Michelet -> Quai des Alpes	4320
+03-13|Rue E.Michelet -> Rte du Rhin	5734
+03-13|Rue Edmond Labb?? -> Bld de la Victoire	2585
+03-13|Rue Edmond Labb??->Rue P.Montet	1723
+03-13|Rue F.Epailly 696-697	9505
+03-13|Rue F.Epailly 697-696	9797
+03-13|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	5076
+03-13|Rue J.Wenger-Valentin vers Schiltigheim	7411
+03-13|Rue Jacques Kabl?? vers Place de Bordea	3343
+03-13|Rue Jacques Kabl?? vers Place de Haguen	3071
+03-13|Rue Lixenbuhl ->Vincent Scotto	2094
+03-13|Rue Lixenbuhl->Rue d'Alsace	2095
+03-13|Rue Ohmacht vers All??e de la Robertsau	8828
+03-13|Rue Ohmacht vers Place de Bordeaux	7602
+03-13|Rue Principale 818-820	0
+03-13|Rue Vauban vers Bld de la Victoire	1169
+03-13|Rue Vauban vers Place de Kehl	1156
+03-13|Rue d'Obernai	7013
+03-13|Rue d'Ostwald vers Elmerforst	4131
+03-13|Rue d'Ostwald vers Rue des Pr??s	3619
+03-13|Rue de Copenhague -> E.E.E.	3321
+03-13|Rue de Copenhague->Hausbergen	2860
+03-13|Rue de Fouday	4646
+03-13|Rue de Geispolsheim -> Rue des Vosges	2782
+03-13|Rue de Geispolsheim -> Vigie	2202
+03-13|Rue de Holtzheim->Holtzheim	2320
+03-13|Rue de Holtzheim->Lingolsheim	2693
+03-13|Rue de Koenigshoffen->Charmille	0
+03-13|Rue de Lingolsheim -> Eckbolsheim	6254
+03-13|Rue de Lubeck->Pl. Henri Levy	734
+03-13|Rue de Lubeck->Rue du Port du Rhin	2545
+03-13|Rue de Molsheim	4556
+03-13|Rue de Paris	0
+03-13|Rue de Paris 957-958	0
+03-13|Rue de Ribeauvill?? vers rue d'Orbey	2297
+03-13|Rue de Rome -> Esplanade	2875
+03-13|Rue de Rome -> Krutenau	2967
+03-13|Rue de Strasbourg ->C.820	0
+03-13|Rue de Strasbourg->Niederh.	0
+03-13|Rue de Vienne -> Pont d'Austerlitz	11945
+03-13|Rue de Wasselonne	6652
+03-13|Rue de l'Eglise Rouge -> Schiltigheim	2790
+03-13|Rue de l'Eglise Rouge->J. Kabl??	1506
+03-13|Rue de l'Ill -> Papeterie	9041
+03-13|Rue de l'Ill -> Pont Phario	9581
+03-13|Rue de l'Industrie (Travail)-> Rhin	3588
+03-13|Rue de l'Industrie -> Lixenbuhl	4282
+03-13|Rue de l'Industrie(Rhin)->Travail	2636
+03-13|Rue de l'Industrie->Rte de Lyon	3520
+03-13|Rue de la C??te-Mittel	0
+03-13|Rue de la Mairie->Rte de Bischwiller	5627
+03-13|Rue de la Mairie->Rue Principale	5397
+03-13|Rue de la Porte de l'H??pital	7772
+03-13|Rue de la Rivi??re-> Rte de Schirmeck	2116
+03-13|Rue de la Robertsau -> Ch.Bock	3872
+03-13|Rue de la Robertsau ->Pont Phario	3342
+03-13|Rue des Serruriers	1686
+03-13|Rue du 23 Novembre -> Ostwald	8273
+03-13|Rue du Doubs -> Fr??res Eberts	1266
+03-13|Rue du Doubs -> Plaine des Bouchers	1241
+03-13|Rue du Fbg de Pierre->Nu??e Bleue	5137
+03-13|Rue du Gal Leclerc vers Centre Ostwald	3833
+03-13|Rue du Gal Leclerc vers Strasbourg	5492
+03-13|Rue du Gal Offenstein -> Pfister	3764
+03-13|Rue du Gal Offenstein vers Av.Colmar	3951
+03-13|Rue du Gal de Gaulle 5015-956	0
+03-13|Rue du Gal de Gaulle 956-5015	0
+03-13|Rue du Gal de Gaulle 956-957	0
+03-13|Rue du Gal de Gaulle 957-956	0
+03-13|Rue du Gal de Gaulle vers Bischheim	6609
+03-13|Rue du Gal de Gaulle vers Strasbourg	6697
+03-13|Rue du Landsberg vers Av.Jean Jaur??s	4514
+03-13|Rue du Landsberg vers Rte du Rhin	3910
+03-13|Rue du Mal Foch -> Illkirch	2521
+03-13|Rue du Mal Foch -> Lingolsheim	5805
+03-13|Rue du Mal Foch -> Mairie d'Ostwald	2943
+03-13|Rue du Mal Foch -> Strasbourg	5721
+03-13|Rue du Marais (Bretagne)->Pont Phario	8502
+03-13|Rue du Marais (Phario) -> Zorn	8216
+03-13|Rue du Marais (Phario)->Gal De Gaulle	7019
+03-13|Rue du Marais ->Gal de Gaulle	5783
+03-13|Rue du Marais(De Gaulle)->La Wantzenau	5495
+03-13|Rue du Marais(De Gaulle)->Pont Phario	7216
+03-13|Rue du Rempart -> Cronenbourg	1648
+03-13|Rue du Rempart->Koenigshoffen	2493
+03-13|Rue du Rhin Tortu vers Gal Offenstein	5060
+03-13|Rue du Rhin Tortu vers Neuhof	5250
+03-13|Ruer de Lingolsheim->Ostwald	5083
+03-13|Schirmeck1 - Entree Ville	0
+03-13|Schirmeck10 - Sortie Ville	0
+03-13|Schirmeck11 - Entree Ville	0
+03-13|Schirmeck12 - Sortie Ville	10521
+03-13|Schirmeck13 - Entree Ville	0
+03-13|Schirmeck14 - Sortie Ville	10432
+03-13|Schirmeck15 - Entree Ville	11233
+03-13|Schirmeck16 - Sortie Ville	0
+03-13|Schirmeck17 - Entree Ville	0
+03-13|Schirmeck18 - Sortie Ville	4492
+03-13|Schirmeck2 - Sortie Ville	0
+03-13|Schirmeck3 - Entree Ville	5921
+03-13|Schirmeck4 - Sortie Ville	6283
+03-13|Schirmeck5 - Entree Ville	10400
+03-13|Schirmeck6 - Sortie Ville	0
+03-13|Schirmeck7 - Entree Ville	0
+03-13|Schirmeck8 - Sortie Ville	10602
+03-13|Schirmeck9 - Entree Ville	12130
+03-13|Schuhansen->Ganzau	8275
+03-13|Sortie A 351	14358
+03-13|Sortie A35 -> Baggersee	22650
+03-13|Sortie A35->G.Wodli	7858
+03-13|Sortie A351 -> Herrenschmidt	21288
+03-13|Sortie Autoroute Elsau	12465
+03-13|Sortie Autoroute Rue Montagne-Verte	2262
+03-13|Sortie Autoroute Rue de Saales	5709
+03-13|Sortie Eglise Rouge->J. Kabl??	10345
+03-13|Sortie Geispo Gare-> Lingo	0
+03-13|Sortie Lingo -> Entzheim	3984
+03-13|Sortie Rte du Rhin -> Pl.Etoile	2132
+03-13|Sortie Tunnel -> Allemagne	21435
+03-13|St.Jean	2905
+03-13|Tanneurs	0
+03-13|Tour Verte -> Nord	6781
+03-13|Tour Verte -> Sud	0
+03-13|Wasselonne->Eckbo	4498
+03-13|Wasselonne->Romains	4402
+03-13|Wolfisheim 5008-871	0
+03-13|Wolfisheim 871-5008	0
+03-13|Zurich 218-444	0
+03-13|canal 379-380	0
+03-13|canal 379-382	0
+03-13|canal 380-379	0
+03-13|canal 382-379	0
+03-13|cora-lampertheim	0
+03-13|de gaulle 360-381	0
+03-13|de gaulle 381-360	0
+03-13|de gaulle 818-871	0
+03-13|de gaulle 871-818	0
+03-13|graffenstaden 1179-5018	0
+03-13|graffenstaden 1179-5019	0
+03-13|graffenstaden 5016-5017	0
+03-13|graffenstaden 5017-5018	0
+03-13|graffenstaden 5018-1179	0
+03-13|graffenstaden 5018-5017	0
+03-13|graffenstaden 5019-1179	0
+03-13|gtraffenstaden 5017-5016	0
+03-13|havre 5004-627	0
+03-13|havre 627-5004	0
+03-13|havre 627-688	0
+03-13|havre 688-627	0
+03-13|juifs 1173-5019	0
+03-13|juifs 5019-1173	0
+03-13|lampertheim-cora	0
+03-13|lampertheim-mundo	0
+03-13|leclerc 381-384	0
+03-13|leclerc 382-384	0
+03-13|leclerc 384-382	0
+03-13|mundo-lampertheim	0
+03-13|ober 386-381	0
+03-13|ober_5000	0
+03-13|ober_5001	0
+03-13|ober_5002	0
+03-13|ober_5003	0
+03-13|p2_Souffel	0
+03-13|rochelle 0670-5007	0
+03-13|rochelle 5004-5005	0
+03-13|rochelle 5005-5004	0
+03-13|rochelle 5005-5006	0
+03-13|rochelle 5006-5005	0
+03-13|rochelle 5006-670	0
+03-13|rochelle 5007-0670	0
+03-13|rochelle 670-5006	0
+03-13|rue de koenigshoffen->Autoroute	6358
+03-13|seigneurs_5004	0
+03-13|seigneurs_5005	0
+03-13|seigneurs_5006	0
+03-13|seigneurs_5007	0
+03-13|seigneurs_5008	0
+03-13|seigneurs_5009	0
+03-13|sortie autoroute rue de koenigshoffen	11616
+03-14|23 Novembre -> Rte de Lyon	3166
+03-14|A35 A351-S	0
+03-14|A35 Baggersee-Schirmeck	0
+03-14|A35 Baggersee-Vigie	0
+03-14|A35 Duppigheim-Entzheim	0
+03-14|A35 Ech.Schirmeck N-S	0
+03-14|A35 Entzheim-Duppigheim	0
+03-14|A35 Entzheim-Vigie	0
+03-14|A35 N-S PC Gutenberg	0
+03-14|A35 N-S Sortie Halles	0
+03-14|A35 S-N A350	0
+03-14|A35 S-N Sortie Cronenbourg	0
+03-14|A35 Schirmeck-A351 S-N	0
+03-14|A35 Schirmeck-A351 S-N2	0
+03-14|A35 Schirmeck-Baggersee	0
+03-14|A35 Vigie N-S	0
+03-14|A35 Vigie S-N	0
+03-14|A35 Vigie-Baggersee	0
+03-14|A35 Vigie-Entzheim	0
+03-14|A35 sortie Vigie N-S	0
+03-14|A35->A351	0
+03-14|A35->RD1083	0
+03-14|A35-A350	0
+03-14|A35-A351 N-O	0
+03-14|A35-Pl.Blanche	0
+03-14|A35-Pl.Haguenau N-S	0
+03-14|A35-Pl.Haguenau S-N	0
+03-14|A350-> Sortie Kabl??	0
+03-14|A351 A35-Sortie Auchan	0
+03-14|A351 Echangeur Wolfi-Mont??e Leroy	0
+03-14|A351 Leroy-A35	0
+03-14|A351 Sortie Auchan-Echangeur Wolfi	0
+03-14|A351-A35N	0
+03-14|A351-A35N2	0
+03-14|A351-A35S	0
+03-14|A351-Pl.Blanche	0
+03-14|A35A531-P.Schirmeck N-S	0
+03-14|A4 (Hoenheim) S-N	0
+03-14|A4 Hauteur TGv S-N	0
+03-14|A4 Hoenheim-> TGV	0
+03-14|A4 Hoenheim-Ech.Reichstett	0
+03-14|A4 N-S Cronenbourg	0
+03-14|A4 N-S Hoerdt Reichstett	0
+03-14|A4 N-S Reichstett	0
+03-14|A4 Reichstett->Hoenheim	0
+03-14|A4 S-N Cronenbourg	0
+03-14|A4 S-N Echangeur Reichstett	0
+03-14|A4 S-N Reichstett Hoerdt	0
+03-14|A4-Schiltigheim S-N	0
+03-14|A4-Schitigheim N-S	0
+03-14|Abbe de l'Epee -> Rhin Tortu	1834
+03-14|Abbe de l'Epee->Rte du Neuhof	1446
+03-14|Acc??s A351 S	0
+03-14|Alcide de Gasperi -> Lingo	2957
+03-14|All??e Droits de l'Homme->Orangerie	2930
+03-14|All??e Droits de l'Homme->Robertsau	2241
+03-14|All??e J.Auriol-> Mermoz	188
+03-14|All??e J.Auriol->Av.Neuhof	304
+03-14|All??e de la Robertsau -> Bld Tauler	3350
+03-14|All??e de la Robertsau -> Place Brant	4490
+03-14|Alpes (ap.Churchill) -> Robertsau	2000
+03-14|Alpes (ap.Churchill)->Etoile	1950
+03-14|Alpes(av.Churchill)->Etoile	1955
+03-14|Alpes(av.Churchill)->Robertsau	2059
+03-14|Av. Colmar (Mulhouse) vers Centre ville	1962
+03-14|Av. Colmar (Racing) vers Centre Ville	2494
+03-14|Av. Herrenschmidt vers A350	2578
+03-14|Av. Herrenschmidt vers Place de Bordeau	3137
+03-14|Av. Jean-Jaur??s -> Neudorf	1338
+03-14|Av. Jean-Jaur??s -> Place de l'Etoile	1508
+03-14|Av. d'Alsace vers Place Brant	5190
+03-14|Av. de la Paix vers Av. des Vosges	771
+03-14|Av. des Vosges vers Place de Haguenau	4519
+03-14|Av. du Gal de Gaulle -> Esplanade	1551
+03-14|Av. du Neuhof vers Stockfeld	2091
+03-14|Av. du Neuhof vers rte du Polygone	1893
+03-14|Av.A.Briand -> Av. Jean Jaur??s	1294
+03-14|Av.A.Briand -> Rte du Rhin	1421
+03-14|Av.Colmar (Racing) vers Illkirch	2505
+03-14|Av.For??t-Noire->Bld d'Anvers	2973
+03-14|Av.For??t-Noire->PL.Brant	2933
+03-14|Av.Gal de Gaulle -> Bld de la Victoire	1955
+03-14|Av.Jean Jaur??s vers Rue du Landsberg	1586
+03-14|Av.Jean Jaures->Av.A.Briand	1399
+03-14|Av.Mendes France (Contades)->Tribunal	3823
+03-14|Av.Mendes France->Contades	5843
+03-14|Av.Schuman -> Mal Foch	2728
+03-14|Av.Schumann-> Sports	2772
+03-14|Av.Schutzenberger vers Pl. A.Zeller	659
+03-14|Av.Schutzenberger vers Pl. Bordeaux	601
+03-14|Av.d'Alsace vers Av. des Vosges	5733
+03-14|Av.de la Libert?? vers Pl. Universit??	947
+03-14|Av.de la Libert?? vers Pl.R??publique	1376
+03-14|Av.de la Paix vers Place de Bordeaux	1218
+03-14|Av.des Voges vers Av. For??t-Noire	4623
+03-14|Avenue Moli??re -> Rue Paul Val??ry	1970
+03-14|Barreau L.I.P.-> Rhin Napol??on	4371
+03-14|Barreau L.I.P.->Allemagne	5468
+03-14|Bld Anvers (532)->Bld de la Marne	1616
+03-14|Bld Cl??menceau vers Av. de la Paix	995
+03-14|Bld Clemenceau vers Av. des Vosges	2160
+03-14|Bld Leblois -> Bld de la Marne	1844
+03-14|Bld Leblois -> Bld de la Victoire	2214
+03-14|Bld Lyon (Obernai) -> Rue de Molsheim	3838
+03-14|Bld Pierre Pflimlin -> Robertsau	2239
+03-14|Bld Pierre Pflimlin -> Wacken	3132
+03-14|Bld Victoire (Fritz Kiener->Universit??)	883
+03-14|Bld Victoire (Universit??->Grandidier)	908
+03-14|Bld Wilson -> Place de la Gare	2883
+03-14|Bld Wilson vers Fbg de Saverne	2871
+03-14|Bld d'Anvers (532)->Pont d'Anvers	1297
+03-14|Bld de Dresde vers Pl.A.Zeller	2933
+03-14|Bld de Dresde vers Robertsau	2103
+03-14|Bld de Lyon (Saales) -> Rue de Molsheim	3790
+03-14|Bld de Lyon -> Rue d'Obernai	3684
+03-14|Bourse 206-207	0
+03-14|Bourse 207-206	0
+03-14|Calmette->A351	3361
+03-14|Calmette->CHU	4274
+03-14|Centre Administratif -> Bourse	0
+03-14|Centre Administratif -> Neudorf	814
+03-14|Contournement Sud->A35	0
+03-14|Cyclistes Rue de Vienne -> Centre	1128
+03-14|Cyclistes Rue de Vienne -> Neudorf	691
+03-14|D84 Geispo 5202-5204	0
+03-14|D84 entr??e Geispo	0
+03-14|D84 sortie Geispo Gare	0
+03-14|D84->Geispo Gare	0
+03-14|Descente Autoroute Place de Haguenau	6088
+03-14|Descente Contournement Sud Rte Hopital	7894
+03-14|Descente contournement Sud Pl.Etoile	3142
+03-14|Division Leclerc	1496
+03-14|E.Rostand-> A351	3354
+03-14|E.Rostand->av.Corneille	2150
+03-14|Echangeur Baggersee A35 N-S	0
+03-14|Echangeur Baggersee A35 S-N	0
+03-14|Elmerforst (1101)->1190	407
+03-14|Elmerforst (1190)->1101	578
+03-14|Entr??e Geispo Gare cot?? Lingo	0
+03-14|Entree Lingo	2357
+03-14|Faubourg de Saverne vers Bld Wilson	1505
+03-14|Faubourg de Saverne vers Pont de Savern	416
+03-14|Fbg de Pierre -> Cl??menceau	1900
+03-14|Federation->Colmar	1204
+03-14|Federation->Pl.Bouchers	1289
+03-14|Finkwiller Humann 345-341	0
+03-14|Fustel 206-221	0
+03-14|Fustel 221-206	0
+03-14|G.Wodli->Cronenbourg	4627
+03-14|Gal Offenstein(Pfister)->Rhin Tortu	1832
+03-14|Gare 311-312	0
+03-14|Gare 312-311	0
+03-14|Geispo E-O1	0
+03-14|Geispo E-O2	0
+03-14|Geispo E-O3	0
+03-14|Geispo O-E1	0
+03-14|Geispo O-E2	0
+03-14|Geispo O-E3	0
+03-14|Hochfelden (837) ->Villette	940
+03-14|Hochfelden (837)->centre ville	1949
+03-14|Humann 310-341	0
+03-14|Humann 341-301	0
+03-14|Humann-Finkwiller 341-345	0
+03-14|Ile des Pecheurs -> Rivage	443
+03-14|Ile des Pecheurs->Gal Leclerc	418
+03-14|J.P.Levy -> Alpes	1265
+03-14|J.P.Levy->Esplanade	1212
+03-14|Kastner -> Boecklin	2583
+03-14|Kastner -> Jacoutot	2690
+03-14|Koenig 207-217	0
+03-14|Koenig 217-207	0
+03-14|Koenigshoffen-A351 - 1	0
+03-14|Lausanne 217-218	0
+03-14|Lausanne 218-217	0
+03-14|Lavoisier->Langevin	616
+03-14|Leclerc 384-381	0
+03-14|Lyon (P??cheurs) -> Geispolsheim	2317
+03-14|Lyon (P??cheurs)->Strasbourg	2007
+03-14|Lyon 301-302	0
+03-14|Lyon 302-301	0
+03-14|Lyon 304-302	0
+03-14|Lyon 307-308	0
+03-14|Lyon 308-307	0
+03-14|M.Verte -> PL.des Bouchers	7924
+03-14|M.Verte -> Unterelsau	3333
+03-14|Mal Foch (Thiriet) -> 23 Novembre	1561
+03-14|Mal Foch (Thiriet)->Ostwald	1147
+03-14|Mitterrand->P??guy	1095
+03-14|Mitterrand->Wasselonne	1008
+03-14|Mont??e A35 Baggersee	8833
+03-14|Mont??e A350 Herrenschmidt	10562
+03-14|Montagne-Verte21	1685
+03-14|Montagne-Verte3 -> Nord	4115
+03-14|Montagne-Verte4 -> Sud	0
+03-14|Montagne-Verte5 -> Nord	0
+03-14|Montagne-Verte6 -> Sud	3601
+03-14|Montee Contournement Sud (H??pital)	6108
+03-14|N353 Eschau-Lilly	0
+03-14|N353 Eschau-Pont Pflimlin	0
+03-14|N353 Lilly-Eschau	0
+03-14|N4-A35 E-N	0
+03-14|N4-A35 E-S	0
+03-14|Ostwald1 -> Sud	0
+03-14|Ostwald2 -> Nord	0
+03-14|Ostwald3 -> Sud	1082
+03-14|Ostwald40 -> Nord	1475
+03-14|P1 - Breusch	0
+03-14|P1 - Eckbo	0
+03-14|P1 - Eckw	0
+03-14|P1 - Hang	0
+03-14|P1 - Kolb	0
+03-14|P1 - Osth	0
+03-14|P1 RD Bleu	0
+03-14|P1 RD Orange	0
+03-14|P1 RD Rouge	0
+03-14|P1 RD Vert	0
+03-14|P1-Entzheim	0
+03-14|P1-Eschau	0
+03-14|P1-Feg	0
+03-14|P1-Geispo	0
+03-14|P1-Hoenheim	0
+03-14|P1-Holtzheim	0
+03-14|P1-LaWantz	0
+03-14|P1-Lamp	0
+03-14|P1-Lingo	0
+03-14|P1-Lipsheim	0
+03-14|P1-Mittel/Nieder	0
+03-14|P1-Mundo	0
+03-14|P1-Ober	0
+03-14|P1-Obers	0
+03-14|P1-Plobsheim	0
+03-14|P1-Reichstett	0
+03-14|P1-Schiltigheim	0
+03-14|P1-Souffel	0
+03-14|P1-Vendenheim	0
+03-14|P1-Wolfi	0
+03-14|P1C1	0
+03-14|P1C2	0
+03-14|P1C3	0
+03-14|P1C4	0
+03-14|P1C5	0
+03-14|P1_Achenheim	0
+03-14|P1_Bischheim	0
+03-14|P1_Blaesheim	0
+03-14|P1_Entzheim	0
+03-14|P1_Hoenheim	0
+03-14|P1_LaWantz	0
+03-14|P2 - Bischheim	0
+03-14|P2 - Blaesheim	0
+03-14|P2 - Breusch	0
+03-14|P2 - Eckbo	0
+03-14|P2 - Hang	0
+03-14|P2 - Kolb	0
+03-14|P2 - Lingo	0
+03-14|P2 - Osth	0
+03-14|P2 - Ostwald	0
+03-14|P2 - Schilig	0
+03-14|P2-C4	0
+03-14|P2-Hoenheim	0
+03-14|P2-Lingo	0
+03-14|P2-Ostwald	0
+03-14|P2-Schilig	0
+03-14|P2C1	0
+03-14|P2C10	0
+03-14|P2C11	0
+03-14|P2C12	0
+03-14|P2C2	0
+03-14|P2C3	0
+03-14|P2C4	0
+03-14|P2C5	0
+03-14|P2C6	0
+03-14|P2C7	0
+03-14|P2C8	0
+03-14|P2_Achenheim	0
+03-14|P2_Blaesheim	0
+03-14|P2_Eckbo	0
+03-14|P2_Eckw.	0
+03-14|P2_Entz	0
+03-14|P2_Entz.	0
+03-14|P2_Eschau	0
+03-14|P2_Fegersheim	0
+03-14|P2_Geispo	0
+03-14|P2_Hoenh	0
+03-14|P2_Holtzheim	0
+03-14|P2_Holztheim	0
+03-14|P2_LaWantz	0
+03-14|P2_Lampert	0
+03-14|P2_Lips	0
+03-14|P2_Mittel/Nieder	0
+03-14|P2_Mundo	0
+03-14|P2_Ober	0
+03-14|P2_Oberschaef.	0
+03-14|P2_Ostwald	0
+03-14|P2_Plobsheim	0
+03-14|P2_Reichstett	0
+03-14|P2_Souffel	0
+03-14|P2_Vend.	0
+03-14|P2_Wolfisheim	0
+03-14|PL.Bouchers (POM)->775	1576
+03-14|Paul Dopf -> Canonniers	1801
+03-14|Paul Dopf -> Orbey	1642
+03-14|Petit Rhin->	3068
+03-14|Petit Rhin->Rhin Napol??on	3987
+03-14|Petite Rue des Magasins	4688
+03-14|Pl. Etoile -> Contournemend Sud	3617
+03-14|Pl.Bouchers->F.Eberts	2819
+03-14|Pl.Etoile -> Rte du Rhin	516
+03-14|Pl.Haguenau (Brumath)->Sortie Autoroute	3537
+03-14|Place de la Gare -> Bld de Nancy	0
+03-14|Plaine des Bouchers -> Rue Humann	2884
+03-14|Plaine des Bouchers -> Rue du Doubs	2083
+03-14|Plaine des Bouchers->F??d??ration	5770
+03-14|Plaine des Bouchers->Montagne-Verte	4105
+03-14|Pont Lixenbuhl->Rhin	1544
+03-14|Pont Lixenbuhl->Rue d'Alsace	949
+03-14|Pont Matthis -> Rue Humann	3497
+03-14|Pont Matthis -> Rue de Molsheim	2102
+03-14|Pont Vauban 688-689	5741
+03-14|Pont Vauban 689-688	4498
+03-14|Pont d'Anvers -> Allemagne	4522
+03-14|Pont d'Anvers -> Place de Kehl	3304
+03-14|Pont d'Ostwald -> Lingolsheim	1697
+03-14|Pont de l'Europe -> Allemagne	6372
+03-14|Pont de l'Europe -> Rte du Rhin	5183
+03-14|Pont du Danube -> Quai des Alpes	3547
+03-14|Pont du Danube->Rte du Rhin	3043
+03-14|Quai Frey 201-345	0
+03-14|Quai Kl??ber	379
+03-14|Quai Pasteur vers Pont Pasteur	2400
+03-14|Quai Pasteur vers Quai Fustel	2704
+03-14|Quai St.Nicolas -> Finkwiller	0
+03-14|Quai St.Nicolas -> Quai des P??cheurs	1091
+03-14|Quai des P??cheurs -> Pont Royal	0
+03-14|Quai des P??cheurs -> Rue de Zurich	0
+03-14|RD1083 1081->1084	0
+03-14|RD1083 1084->1087	0
+03-14|RD1083 1087->Schaal	0
+03-14|RD1083 Achard-1087	0
+03-14|RD1083 Lilly->1081	0
+03-14|RD1083 Schaal-Mont??e A35	0
+03-14|RD1083->A35	0
+03-14|RD37 5015-952	0
+03-14|RD37 952-5015	0
+03-14|RD45 381-390	0
+03-14|RD45 390-381	0
+03-14|RD468->Baggersee	0
+03-14|RD468->Illkirch	0
+03-14|RD563 5008-5010	0
+03-14|RD563 5010-5008	0
+03-14|RD63 5008-5009	0
+03-14|RD63 5009-5008	0
+03-14|RD63 5011-822	0
+03-14|RD63 5012-822	0
+03-14|RD63 822-5011	0
+03-14|RD63 822-5012	0
+03-14|RD63 Holtzheim->Wolfisheim	0
+03-14|RD63 Wolfisheim->Holtzheim	0
+03-14|RN353 Pont Pflimlin-Eschau	0
+03-14|RP Cronenbourg->G.Wodli	2532
+03-14|Republique->Bischheim	2335
+03-14|Republique->Souffelweyersheim	1907
+03-14|Rhin 233-687	5741
+03-14|Rhin 687-233	5727
+03-14|Rhin 687-688	5741
+03-14|Rhin 688-687	4498
+03-14|Rhin 689-696	4153
+03-14|Rhin 696-689	3248
+03-14|Rhin Napol??on -> Rue du Havre	2733
+03-14|Rhin Napol??on->Rte du Rhin	2656
+03-14|Rhin Tortu->Abb?? Ep??e	2167
+03-14|Ribeauville (Orbey) -> Bale	226
+03-14|Rieth->Hochfelden	1569
+03-14|Rieth->Lavoisier	1209
+03-14|Rieth->Mittelhausbergen	752
+03-14|Rivage -> Ile des Pecheurs	311
+03-14|Rivage -> Melezes	210
+03-14|Romains (Constantin)->Eckbolsheim	1829
+03-14|Romains-A35	0
+03-14|Route du Polygone -> Neudorf	1442
+03-14|Route du Polygone -> Pl. de l'Etoile	2179
+03-14|Rte Bischwiller (1241->961)	2070
+03-14|Rte Brumath (Industrie)->Vendenheim	2810
+03-14|Rte Brumath (Mundolsheim)->Industrie	3420
+03-14|Rte Hausbergen -> Becquerel	1602
+03-14|Rte Mittelhausbergen (Jacob)->Rotonde	2386
+03-14|Rte Mittelhausbergen (Rotonde)->Jacob	1862
+03-14|Rte Neuhof->Illkirch	4720
+03-14|Rte Romains (Constantin)->Ville	2293
+03-14|Rte d'Altenheim vers Av. du Neuhof	1209
+03-14|Rte d'Altenheim vers Stockfeld	1339
+03-14|Rte d'Oberhausbergen vers Centre Ville	0
+03-14|Rte d'Oberhausbergen vers Oberhausberge	0
+03-14|Rte d'Oberhausbergen vers Rotonde	4862
+03-14|Rte de Bischwiller (961->1241)	2024
+03-14|Rte de Bischwiller (Mairie)->Bischheim	1992
+03-14|Rte de Bischwiller (Principale)->Mairie	3797
+03-14|Rte de Bischwiller 1250-952	0
+03-14|Rte de Bischwiller 952-1250	0
+03-14|Rte de Brumath 5013-5014	0
+03-14|Rte de Brumath 5014-5013	0
+03-14|Rte de Brumath 6144-926	0
+03-14|Rte de Brumath 926-5013	0
+03-14|Rte de Brumath vers Schiltigheim	4526
+03-14|Rte de Brumath vers souffelweyersheim	1685
+03-14|Rte de Hausbergen (Becquerel)->Mittel	1287
+03-14|Rte de Hausbergen(Becquerel)->Charme	2061
+03-14|Rte de Hausbergen(Charme)->Becquerel	2147
+03-14|Rte de La Wantzenau->Reichstett	2587
+03-14|Rte de La Wantzenau->Rte de Bischwiller	2012
+03-14|Rte de Lyon (Baumann)->Industrie	3148
+03-14|Rte de Lyon (Industrie)->Baumann	2507
+03-14|Rte de Lyon (Mairie) -> Strasbourg	1512
+03-14|Rte de Lyon (Mairie)->Pont du P??age	1473
+03-14|Rte de Lyon(Gast)->23 Novembre	1178
+03-14|Rte de Lyon(Gast)->Glaciere	1868
+03-14|Rte de Mittelhausbergen vers Mittel.	1654
+03-14|Rte de Mittelhausbergen versStrasbourg	2057
+03-14|Rte de Strasbourg -> Colonne	3307
+03-14|Rte de Strasbourg 923-926	0
+03-14|Rte de Strasbourg 923-929	0
+03-14|Rte de Strasbourg 925-929	0
+03-14|Rte de Strasbourg 926-923	0
+03-14|Rte de Strasbourg 929-923	0
+03-14|Rte de Strasbourg 929-925	0
+03-14|Rte de Strasbourg vers Illkirch	4158
+03-14|Rte de Strasbourg vers Meinau	4299
+03-14|Rte de Strasbourg->Baggersee	2693
+03-14|Rte de l'H??pital -> Pont Adenauer	5365
+03-14|Rte de l'H??pital->Av. Colmar	0
+03-14|Rte de l'Hopital -> H??tel de Police	5353
+03-14|Rte de l'Hopital -> Quai Fustel	1452
+03-14|Rte des Romains vers Eckbolsheim	1587
+03-14|Rte des Romains vers Place Blanche	2480
+03-14|Rte des Romains->Rue de Koenigshoffen	8408
+03-14|Rte du Neuhof -> Neuhof	827
+03-14|Rte du Neuhof->Rte de Strasbourg	984
+03-14|Rte du Neuhof->Schuhansen	3981
+03-14|Rte du Rhin (Danube)->Churchill	7310
+03-14|Rte du Rhin (UGC)->Allemagne	9741
+03-14|Rte du Rhin (UGC)->Ville	8825
+03-14|Rte du Rhin (av.233)->Allemagne	10321
+03-14|Rte du Rhin->Contournement Sud	7419
+03-14|Rue  prinicipale 820-818	0
+03-14|Rue Alfred Kastler -> Baggersee	4410
+03-14|Rue Alfred Kastler -> Illkirch	4069
+03-14|Rue Boecklin -> Centre Ville	1619
+03-14|Rue Boecklin->Rte de La Wantzenau	1227
+03-14|Rue E.Bugatti -> Lingolsheim	1837
+03-14|Rue E.Bugatti -> Vigie	2938
+03-14|Rue E.Michelet -> Quai des Alpes	1670
+03-14|Rue E.Michelet -> Rte du Rhin	2083
+03-14|Rue Edmond Labb?? -> Bld de la Victoire	1053
+03-14|Rue Edmond Labb??->Rue P.Montet	683
+03-14|Rue F.Epailly 696-697	4153
+03-14|Rue F.Epailly 697-696	3248
+03-14|Rue J.W. Valentin (CIAL)->Pl.A.Zeller	2165
+03-14|Rue J.Wenger-Valentin vers Schiltigheim	2945
+03-14|Rue Jacques Kabl?? vers Place de Bordea	1430
+03-14|Rue Jacques Kabl?? vers Place de Haguen	1075
+03-14|Rue Lixenbuhl ->Vincent Scotto	968
+03-14|Rue Lixenbuhl->Rue d'Alsace	676
+03-14|Rue Ohmacht vers All??e de la Robertsau	3623
+03-14|Rue Ohmacht vers Place de Bordeaux	2716
+03-14|Rue Principale 818-820	0
+03-14|Rue Vauban vers Bld de la Victoire	481
+03-14|Rue Vauban vers Place de Kehl	439
+03-14|Rue d'Obernai	3373
+03-14|Rue d'Ostwald vers Elmerforst	1591
+03-14|Rue d'Ostwald vers Rue des Pr??s	1374
+03-14|Rue de Copenhague -> E.E.E.	1610
+03-14|Rue de Copenhague->Hausbergen	1136
+03-14|Rue de Fouday	2064
+03-14|Rue de Geispolsheim -> Rue des Vosges	953
+03-14|Rue de Geispolsheim -> Vigie	1134
+03-14|Rue de Holtzheim->Holtzheim	835
+03-14|Rue de Holtzheim->Lingolsheim	1321
+03-14|Rue de Koenigshoffen->Charmille	0
+03-14|Rue de Lingolsheim -> Eckbolsheim	2368
+03-14|Rue de Lubeck->Pl. Henri Levy	379
+03-14|Rue de Lubeck->Rue du Port du Rhin	1199
+03-14|Rue de Molsheim	1525
+03-14|Rue de Paris	0
+03-14|Rue de Paris 957-958	0
+03-14|Rue de Ribeauvill?? vers rue d'Orbey	853
+03-14|Rue de Rome -> Esplanade	1085
+03-14|Rue de Rome -> Krutenau	1165
+03-14|Rue de Strasbourg ->C.820	0
+03-14|Rue de Strasbourg->Niederh.	0
+03-14|Rue de Vienne -> Pont d'Austerlitz	4755
+03-14|Rue de Wasselonne	2359
+03-14|Rue de l'Eglise Rouge -> Schiltigheim	945
+03-14|Rue de l'Eglise Rouge->J. Kabl??	694
+03-14|Rue de l'Ill -> Papeterie	3933
+03-14|Rue de l'Ill -> Pont Phario	3731
+03-14|Rue de l'Industrie (Travail)-> Rhin	1508
+03-14|Rue de l'Industrie -> Lixenbuhl	1990
+03-14|Rue de l'Industrie(Rhin)->Travail	1031
+03-14|Rue de l'Industrie->Rte de Lyon	1281
+03-14|Rue de la C??te-Mittel	0
+03-14|Rue de la Mairie->Rte de Bischwiller	1985
+03-14|Rue de la Mairie->Rue Principale	2199
+03-14|Rue de la Porte de l'H??pital	2786
+03-14|Rue de la Rivi??re-> Rte de Schirmeck	843
+03-14|Rue de la Robertsau -> Ch.Bock	1390
+03-14|Rue de la Robertsau ->Pont Phario	1324
+03-14|Rue des Serruriers	974
+03-14|Rue du 23 Novembre -> Ostwald	3538
+03-14|Rue du Doubs -> Fr??res Eberts	0
+03-14|Rue du Doubs -> Plaine des Bouchers	0
+03-14|Rue du Fbg de Pierre->Nu??e Bleue	2406
+03-14|Rue du Gal Leclerc vers Centre Ostwald	1605
+03-14|Rue du Gal Leclerc vers Strasbourg	1904
+03-14|Rue du Gal Offenstein -> Pfister	1441
+03-14|Rue du Gal Offenstein vers Av.Colmar	1581
+03-14|Rue du Gal de Gaulle 5015-956	0
+03-14|Rue du Gal de Gaulle 956-5015	0
+03-14|Rue du Gal de Gaulle 956-957	0
+03-14|Rue du Gal de Gaulle 957-956	0
+03-14|Rue du Gal de Gaulle vers Bischheim	2360
+03-14|Rue du Gal de Gaulle vers Strasbourg	2868
+03-14|Rue du Landsberg vers Av.Jean Jaur??s	1536
+03-14|Rue du Landsberg vers Rte du Rhin	1459
+03-14|Rue du Mal Foch -> Illkirch	1167
+03-14|Rue du Mal Foch -> Lingolsheim	2236
+03-14|Rue du Mal Foch -> Mairie d'Ostwald	1105
+03-14|Rue du Mal Foch -> Strasbourg	2411
+03-14|Rue du Marais (Bretagne)->Pont Phario	3421
+03-14|Rue du Marais (Phario) -> Zorn	3385
+03-14|Rue du Marais (Phario)->Gal De Gaulle	2726
+03-14|Rue du Marais ->Gal de Gaulle	2519
+03-14|Rue du Marais(De Gaulle)->La Wantzenau	2261
+03-14|Rue du Marais(De Gaulle)->Pont Phario	3018
+03-14|Rue du Rempart -> Cronenbourg	674
+03-14|Rue du Rempart->Koenigshoffen	744
+03-14|Rue du Rhin Tortu vers Gal Offenstein	1880
+03-14|Rue du Rhin Tortu vers Neuhof	1999
+03-14|Ruer de Lingolsheim->Ostwald	2310
+03-14|Schirmeck1 - Entree Ville	0
+03-14|Schirmeck10 - Sortie Ville	0
+03-14|Schirmeck11 - Entree Ville	0
+03-14|Schirmeck12 - Sortie Ville	3773
+03-14|Schirmeck13 - Entree Ville	0
+03-14|Schirmeck14 - Sortie Ville	3767
+03-14|Schirmeck15 - Entree Ville	5202
+03-14|Schirmeck16 - Sortie Ville	0
+03-14|Schirmeck17 - Entree Ville	0
+03-14|Schirmeck18 - Sortie Ville	1627
+03-14|Schirmeck2 - Sortie Ville	0
+03-14|Schirmeck3 - Entree Ville	2546
+03-14|Schirmeck4 - Sortie Ville	2367
+03-14|Schirmeck5 - Entree Ville	4616
+03-14|Schirmeck6 - Sortie Ville	0
+03-14|Schirmeck7 - Entree Ville	0
+03-14|Schirmeck8 - Sortie Ville	3674
+03-14|Schirmeck9 - Entree Ville	5362
+03-14|Schuhansen->Ganzau	3250
+03-14|Sortie A 351	5276
+03-14|Sortie A35 -> Baggersee	10194
+03-14|Sortie A35->G.Wodli	3804
+03-14|Sortie A351 -> Herrenschmidt	9939
+03-14|Sortie Autoroute Elsau	5633
+03-14|Sortie Autoroute Rue Montagne-Verte	1669
+03-14|Sortie Autoroute Rue de Saales	2668
+03-14|Sortie Eglise Rouge->J. Kabl??	4357
+03-14|Sortie Geispo Gare-> Lingo	0
+03-14|Sortie Lingo -> Entzheim	1761
+03-14|Sortie Rte du Rhin -> Pl.Etoile	805
+03-14|Sortie Tunnel -> Allemagne	9670
+03-14|St.Jean	978
+03-14|Tanneurs	0
+03-14|Tour Verte -> Nord	2589
+03-14|Tour Verte -> Sud	0
+03-14|Wasselonne->Eckbo	1828
+03-14|Wasselonne->Romains	1759
+03-14|Wolfisheim 5008-871	0
+03-14|Wolfisheim 871-5008	0
+03-14|Zurich 218-444	0
+03-14|canal 379-380	0
+03-14|canal 379-382	0
+03-14|canal 380-379	0
+03-14|canal 382-379	0
+03-14|cora-lampertheim	0
+03-14|de gaulle 360-381	0
+03-14|de gaulle 381-360	0
+03-14|de gaulle 818-871	0
+03-14|de gaulle 871-818	0
+03-14|graffenstaden 1179-5018	0
+03-14|graffenstaden 1179-5019	0
+03-14|graffenstaden 5016-5017	0
+03-14|graffenstaden 5017-5018	0
+03-14|graffenstaden 5018-1179	0
+03-14|graffenstaden 5018-5017	0
+03-14|graffenstaden 5019-1179	0
+03-14|gtraffenstaden 5017-5016	0
+03-14|havre 5004-627	0
+03-14|havre 627-5004	0
+03-14|havre 627-688	0
+03-14|havre 688-627	0
+03-14|juifs 1173-5019	0
+03-14|juifs 5019-1173	0
+03-14|lampertheim-cora	0
+03-14|lampertheim-mundo	0
+03-14|leclerc 381-384	0
+03-14|leclerc 382-384	0
+03-14|leclerc 384-382	0
+03-14|mundo-lampertheim	0
+03-14|ober 386-381	0
+03-14|ober_5000	0
+03-14|ober_5001	0
+03-14|ober_5002	0
+03-14|ober_5003	0
+03-14|p2_Souffel	0
+03-14|rochelle 0670-5007	0
+03-14|rochelle 5004-5005	0
+03-14|rochelle 5005-5004	0
+03-14|rochelle 5005-5006	0
+03-14|rochelle 5006-5005	0
+03-14|rochelle 5006-670	0
+03-14|rochelle 5007-0670	0
+03-14|rochelle 670-5006	0
+03-14|rue de koenigshoffen->Autoroute	2246
+03-14|seigneurs_5004	0
+03-14|seigneurs_5005	0
+03-14|seigneurs_5006	0
+03-14|seigneurs_5007	0
+03-14|seigneurs_5008	0
+03-14|seigneurs_5009	0
+03-14|sortie autoroute rue de koenigshoffen	5834
